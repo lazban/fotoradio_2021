@@ -3,6 +3,10 @@
 
 <head>
     {{- partial "head.html" . }}
+
+    <!-- target outside -->
+    <base target="_blank">
+    
 </head>
 
 <body class="
@@ -20,7 +24,7 @@
     </main>
     {{- partialCached "footer.html" . .Type .Layout .Params }}
 
-<!-- script per widget di SPREAKER --> 
+<!-- script per widget di SPREAKER -->
 <script async src="https://widget.spreaker.com/widgets.js"></script>
 
 </body>

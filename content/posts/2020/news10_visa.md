@@ -33,18 +33,14 @@ Il covid non ha fermato la 32a edizione di _Visa pour l'image_ di Perpignan: dec
 - - -
 ### Ascolta
 
-Le Fotonews sono su <a target="blank" href="https://www.spreaker.com/user/11400220/tourdumonde">**_Fotoradio - Un podcast che parla di fotografie_**</a>.
+Le Fotonews sono su [**_Fotoradio - Un podcast che parla di fotografie_**](https://www.spreaker.com/user/11400220/tourdumonde).
 
-iframe
-<iframe src="https://widget.spreaker.com/player?episode_id=43858754&theme=light&playlist=false&playlist-continuous=false&autoplay=false&live-autoplay=false&chapters-image=true&episode_image_position=right&hide-logo=false&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=true" width="100%" height="200px" frameborder="0"></iframe>
-
-widget classic
 <a class="spreaker-player" href="https://www.spreaker.com/episode/43858754" data-resource="episode_id=43858754" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "Fotonews #10 - LE TOUR DU MONDE" su Spreaker.</a>
 
-Oltre che sul sito di <a target="blank" href="https://www.spreaker.com/user/11400220/tourdumonde">**Spreaker**</a>, puoi ascoltare le Fotonews anche su
-<a target="blank" href="https://links.fotoradio.info/apple">**Apple iTunes**</a>, <a target="blank" href="https://links.fotoradio.info/spotify">**Spotify**</a>, <a target="blank" href="https://links.fotoradio.info/google">**Google Podcast**</a> e su molte altre piattaforme elencate <a href="/static_page/ascolta/">qui</a>.
+Oltre che sul sito di [**Spreaker**](https://www.spreaker.com/user/11400220/tourdumonde), puoi ascoltare le Fotonews anche su
+[**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
-Se vuoi lasciare un commento (grazie!), vai nella sezione <a href="/contact/">Contatti</a>
+Se vuoi lasciare un commento (grazie!), vai nella sezione [Contatti](/contact/)
 
 - - -
 ### Youtube
@@ -56,7 +52,7 @@ Una rassegna delle foto di cui parliamo nel podcast sono anche su Youtube
 - - -
 ### Newsletter
 
-Gli scatti e i testi sono anche raccolti in una newsletter su **Substack** (<a target="blank" href="https://fotoradio.substack.com/">link</a>)
+Gli scatti e i testi sono anche raccolti in una newsletter su [**Substack**](https://fotoradio.substack.com/)
 
 <br>
 
@@ -76,7 +72,7 @@ A Augusta-Priolo, in Sicilia, sorge uno dei più grandi complessi petrolchimici 
 
 Ce lo racconta **Elena Chernyshova**, classe 1981, fotografa nata a Mosca e con base in Francia, vincitrice del WPP nel 2014.
 
-* Sito under construction al momento https://elena-chernyshova.com/
+* [Sito](https://elena-chernyshova.com/) under construction al momento
 
 {{< figure src="/images/2020/news10/chernyshova.jpg" align="center" caption="⬆︎ foto di: Elena Chernyshova</br> ">}}
 
@@ -86,7 +82,7 @@ Ce lo racconta **Elena Chernyshova**, classe 1981, fotografa nata a Mosca e con 
 #### Kenya
 **Yasuyoshi Chiba** è fotografo della AFP e ha vinto il WPP nel 2020 con una foto per una manifestazione sui diritti civili in Sudan che magari vedremo in una prossima puntata delle Fotonews.
 
-* https://www.instagram.com/yasuyoshi_chiba/
+* [instagram](https://www.instagram.com/yasuyoshi_chiba/)
 
 {{< figure src="/images/2020/news10/chiba.jpg" align="center" caption="⬆︎ Sud Nigeria, foto di: Yasuyoshi Chiba</br> ">}}
 
@@ -104,8 +100,8 @@ Raqqa, in Siria, è stata la capitale dell’Isis. Adesso è una città distrutt
 #### Nagorno-Karabakh
 **Anush Babajanyan** è una fotografa armena, tra le fondatrici di 4plus, un collettivo di donne fotografe armene con lo scopo di sviluppare la fotografia documentaristica per rafforzare la figura femminile in Armenia e non solo
 
-* http://anushbabajanyan.org/
-* https://www.4plus.org/
+* [sito Babajanyan](http://anushbabajanyan.org/)
+* [sito 4plus](https://www.4plus.org/)
 
 Babajanyan ci porta alcuni ritratti di famiglia.
 
@@ -118,7 +114,7 @@ Babajanyan ci porta alcuni ritratti di famiglia.
 Sul lago vive in case galleggianti una popolazione in via di estinzione che ha 5000 anni di storia, discendenti dei primi abitanti della valle dell’Indu.
 Ce ne parla **Sarah Caron**, fotografa francese nata in Provenza nel 1972, basata ora a Islamabad in Pakistan, da dove realizza reportage per diverse testate.
 
-* https://www.instagram.com/sarah_caron_photographer/
+* [instagram](https://www.instagram.com/sarah_caron_photographer/)
 
 {{< figure src="/images/2020/news10/caron.jpg" align="center" caption="⬆︎ Lago Manchar, Pakistan. Foto di: Sarah Caron</br> ">}}
 
@@ -126,8 +122,8 @@ Ce ne parla **Sarah Caron**, fotografa francese nata in Provenza nel 1972, basat
 #### India, Mumbay e Uttar Pradesh
 **Bryan Denton** è un fotografo americano che fa base a New Delhi in India. Per il New York Times ha realizzato un reportage sul “minaccioso futuro dell’India”, dice il quotidiano: siccità o alluvioni.
 
-* https://bryandenton.com/
-* https://www.nytimes.com/interactive/2019/11/25/climate/india-monsoon-drought.html
+* [sito Denton](https://bryandenton.com/)
+* [articolo New York Times](https://www.nytimes.com/interactive/2019/11/25/climate/india-monsoon-drought.html)
 
 {{< figure src="/images/2020/news10/denton1.jpg" align="center" caption="⬆︎ Mumbay è una megalopoli indiana e la megalopoli è attraversata dal fiume Mithi che ogni tanto esonda. Foto di: Bryan Denton</br> ">}}
 
@@ -137,9 +133,9 @@ Ce ne parla **Sarah Caron**, fotografa francese nata in Provenza nel 1972, basat
 Dal Maharashtra e dalla sue piantagioni di canna da zucchero, arriva  **Chloe Sharrock**, fotografa francese nata nel 1992, concentrata sul medio oriente e sui diritti delle donne, dice il suo sito internet,
 E proprio di diritti delle donne parla _Sugar Girl_ che racconta di isterectomie, di rimozioni dell’utero. Il suo reportage è particolarmente interessante. Ne parlo un po' di più nel podcast ma, se volete, merita di essere visto, e letto, direttamente dal sito dell'autrice o dalle pagine del _Visa_.
 
-* https://www.sharrockchloe.com/
-* https://www.sharrockchloe.com/sugar-girl
-* https://www.visapourlimage.com/festival/expositions/sugar-girls
+* [sito Sharrock](https://www.sharrockchloe.com/)
+* [progetto Suger-Girl](https://www.sharrockchloe.com/sugar-girl)
+* [esposizione al Visa Pour l'Image](https://www.visapourlimage.com/festival/expositions/sugar-girls)
 
 {{< figure src="/images/2020/news10/sharrock.jpg" align="center" caption="⬆︎ Una donna cerca di creare un fascio di canne. Foto di: Chloe Sharrock</br> ">}}
 
@@ -147,14 +143,14 @@ E proprio di diritti delle donne parla _Sugar Girl_ che racconta di isterectomie
 #### India, Delhi
 **James Whitlow Delano**, classe 1960, americano che fa base a Tokyo, ha realizzato un lungo lavoro sulla plastica: negli imballaggi come nei vestiti, nei contenitori come nei molti oggetti che usiamo tutti i giorni. E la plastica usata, che non si degrada, copre ormai importanti porzioni del pianeta.
 
-* http://www.jameswhitlowdelano.com/
+* [sito Whitlow Delano](http://www.jameswhitlowdelano.com/)
 
 {{< figure src="/images/2020/news10/delano.jpg" align="center" caption="⬆︎ La plastica ormai è parte integrante del paesaggio. Foto di: James Whitlow Delano</br> ">}}
 
 #### Cina, Hong Kong
 Molte fotografie dedicate alle manifestazioni di Hong Kong di questi mesi. Abbiamo scelto il lavoro di **Anthony Wallace**, fotografo della AFP, classe 1979, che ci mostra sia le violenze della polizia che dei manifestanti.
 
-* https://www.instagram.com/antwallace/
+* [instagram Wallace](https://www.instagram.com/antwallace/)
 
 {{< figure src="/images/2020/news10/wallace.jpg" align="center" caption="⬆︎ Hong Kong. Foto di: Anthony Wallace</br> ">}}
 
@@ -163,8 +159,8 @@ Molte fotografie dedicate alle manifestazioni di Hong Kong di questi mesi. Abbia
 Da Wuhan, è partita l’epidemia del corona virus e per prima la città ha conosciuto gli effetti e i paesaggi del lockdown.
 Questi paesaggi ce li racconta **Roman Pilipey**, fotogiornalista ucraino attualmente basato a Pechino.
 
-* https://romanpilipey.com/
-* https://www.instagram.com/romanpilipey/
+* [sito Pilipey](https://romanpilipey.com/)
+* [instagram Pilipay](https://www.instagram.com/romanpilipey/)
 
 {{< figure src="/images/2020/news10/pilipey.jpg" align="center" caption="⬆︎ Foto di: Roman Pilipey</br> ">}}
 
@@ -176,17 +172,17 @@ Questi paesaggi ce li racconta **Roman Pilipey**, fotogiornalista ucraino attual
 **Josh Edelson** è un fotografo americano che fa base a San Francisco
 e che ci vuole ricordare uno degli effetti del coronavirus: il distanziamento sociale.
 
-* https://edelsonphotography.com/
+* [sito Edelson](https://edelsonphotography.com/)
 
 {{< figure src="/images/2020/news10/edelson.jpg" align="center" caption="⬆︎ Washington Square Park, San Francisco. Foto di: Josh Edelson</br> ">}}
 
 
 #### Stati Uniti, Los Angeles
 
-Un altro evento, oltre il covid, ha attraversato l’America in questi mesi è il  movimento di _Black Lives Matter_, ne abbiamo parlato in una scorsa puntata delle Fotonews (XXX).
+Un altro evento, oltre il covid, ha attraversato l’America in questi mesi è il  movimento di _Black Lives Matter_, ne abbiamo parlato in una scorsa puntata delle [Fotonews](https://fotoradio.info/2020/06/news_20200616_minneapolis/).
 **Allen J. Schaben**, fotografo americano californiano che lavora per il Los Angeles Times ha raccolto immagini dalle manifestazioni di protesta.
 
-* https://www.instagram.com/alschaben/
+* [instagram Schaben](https://www.instagram.com/alschaben/)
 
 {{< figure src="/images/2020/news10/schaben.jpg" align="center" caption="⬆︎ Manifestazione tra Manhattan Beach e XXX. Foto di: Allan Schaben</br> ">}}
 
@@ -195,9 +191,9 @@ Un altro evento, oltre il covid, ha attraversato l’America in questi mesi è i
 
 **Ian Willms**, nato nel 1985 e residente a Toronto è anche membro di Panos Pictures, una agenzia di documentazione che merita un'occhiata.
 
-* https://www.ianwillms.com/
-* https://www.ianwillms.com/oilsands#1
-* https://www.panos.co.uk/
+* [sito Willms](https://www.ianwillms.com/)
+* [progetto Oil Sands](https://www.ianwillms.com/oilsands#1)
+* [sito Panos](https://www.panos.co.uk/)
 
 Il reportage di Willms introduce il termine di _razzismo ambientale_: i nativi d'America siano stati chiusi in riserve in prossimità delle quali si sono sviluppati enormi complessi industriali altamente inquinanti.
 Il lavoro di Willms merita un approfondimento ben oltre il podcast. Guardate il suo sito personale.
@@ -209,18 +205,18 @@ Il lavoro di Willms merita un approfondimento ben oltre il podcast. Guardate il 
 
 **Alfredo Bosco**, italiano con base a Milano, sceglie di raccontarci il declino raggiunto da Acapulco, ormai una delle città più pericolose del Messico insieme a tutto lo stato che la ospita: lo stato di Guerrero.
 
-* https://www.alfredobosco.com/
-* https://www.alfredobosco.com/forgotten_guerrero-p18592
+* [sito Bosco](https://www.alfredobosco.com/)
+* [progetto Forgotten Guerrero](https://www.alfredobosco.com/forgotten_guerrero-p18592)
 
 {{< figure src="/images/2020/news10/bosco.jpg" align="center" caption="⬆︎ A Rincon de Chautla gli abitanti si organizzano per rispondere ai raid dei cartelli. Foto di: Alfredo Bosco</br> ">}}
 
 #### Cuba, l'Avana
 Altro reportage super interessante arriva da Cuba ad opera di **Sanne Derks**, fotogiornalista e antropologa olandese con diversi progetti in America Latina.
 
-* http://www.sannederks.com/
-* http://www.sannederks.com/manifiesto-del-agua
+* [sito Derks](http://www.sannederks.com/)
+* [progetto Manifiesto del Agua](http://www.sannederks.com/manifiesto-del-agua)
 
-Il New York Times ha pubblicato recentemente il reportage di Derks qui: https://www.nytimes.com/2021/02/15/travel/cuba-clean-water.html
+Il New York Times ha pubblicato recentemente il reportage di Derks [qui](https://www.nytimes.com/2021/02/15/travel/cuba-clean-water.html)
 
 L'acqua corrente è un problema per Cuba ma non sembra esserlo per le strutture turistiche.
 
@@ -231,7 +227,7 @@ L'acqua corrente è un problema per Cuba ma non sembra esserlo per le strutture 
 
 **Peter Turnley**, classe 1955, fotogiornalista americano che vive fra New York e Parigi, si è trovato bloccato nella grande mela nel periodo di lockdown dovuto al corona virus e ha deciso di tenere un _diario visivo_.
 
-* http://www.peterturnley.com/
+* [sito Turnley](http://www.peterturnley.com/)
 
 {{< figure src="/images/2020/news10/turnley.jpg" align="center" caption="⬆︎ Shannone (28 anni). Foto di: Peter Turnley</br> ">}}
 
@@ -308,8 +304,8 @@ La copertina del podcast ha anch'essa una foto mia della bandiera del _Visa pour
  e dell'episodio del podcast è di **Mike Von** via Unsplash (-> <a target="blank" href="https://unsplash.com/photos/wLY9bHf-KUU">link</a>)
 -->
 
-La musica dell'episodio è di **Yellowbase** via Epidemic Sound -> <a target="blank" href="https://www.epidemicsound.com/artists/yellowbase">link</a>.
-L'artista è anche su Spotify -> <a target="blank" href="https://open.spotify.com/artist/08RrRBdcoplP0QFGopcJfC">link</a>
+La musica dell'episodio è di **Yellowbase** via [Epidemic Sound](https://www.epidemicsound.com/artists/yellowbase).
+L'artista è anche su [Spotify](https://open.spotify.com/artist/08RrRBdcoplP0QFGopcJfC)
 
 </br>
 
@@ -318,4 +314,4 @@ L'artista è anche su Spotify -> <a target="blank" href="https://open.spotify.co
 
 ## Fair use
 
-In questo sito si seguono le regole del **Fair use** vigenti in America per l'utilizzo di immagini di proprietà di terzi. Spiego meglio <a href="/static_page/fair_use/">qui</a>
+In questo sito si seguono le regole del **Fair use** vigenti in America per l'utilizzo di immagini di proprietà di terzi. Spiego meglio [qui](/static_page/fair_use/)
