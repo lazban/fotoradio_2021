@@ -53,8 +53,8 @@ params:
         title: " "
         subtitle: "un sito, un podcast e una newsletter che parlano di fotografie"
         imageUrl: "/img/general/fotoradio_icona_grafica.jpg"
-        imageWidth: 400
-        imageHeight: 400
+        imageWidth: 200
+        imageHeight: 200
         imageTitle: "Copertina Fotoradio"
         buttons:
             - name: Podcast
