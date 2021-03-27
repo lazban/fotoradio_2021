@@ -31,7 +31,7 @@ Il covid non ha fermato la 32a edizione di _Visa pour l'image_ di Perpignan: dec
 <!--more-->
 
 - - -
-### Ascolta
+## Ascolta
 
 Le Fotonews sono su [**_Fotoradio - Un podcast che parla di fotografie_**](https://www.spreaker.com/user/11400220/tourdumonde).
 
@@ -43,20 +43,20 @@ Oltre che sul sito di [**Spreaker**](https://www.spreaker.com/user/11400220/tour
 Se vuoi lasciare un commento (grazie!), vai nella sezione [Contatti](/contact/)
 
 - - -
-### Youtube
+## Youtube
 
 Una rassegna delle foto di cui parliamo nel podcast sono anche su Youtube
 
 {{< youtube gwBbDf5jbBE >}}
 
 - - -
-### Newsletter
+## Newsletter
 
 Gli scatti e i testi sono anche raccolti in una newsletter su [**Substack**](https://fotoradio.substack.com/)
 
 <br>
 
-## Puntata #10 - Visa pour l'image
+# Puntata #10 - Visa pour l'image
 - - -
 
 Si tiene ormai da 32 anni a Perpignan _Visa pour l'image_ una rassegna di mostre di fotogiornalismo. Nel podcast facciamo un giro intorno al mondo ripercorrendo il _tour du monde_ in 80 giorni di Jules Verne.
@@ -64,9 +64,9 @@ Si tiene ormai da 32 anni a Perpignan _Visa pour l'image_ una rassegna di mostre
 Cominciamo.
 
 
-### Europa
+## Europa
 - - -
-#### Sicilia, Priolo
+### Sicilia, Priolo
 
 A Augusta-Priolo, in Sicilia, sorge uno dei più grandi complessi petrolchimici d’Europa che fornisce 1/3 del fabbisogno di petrolio dell’Italia. E ovviamente, in uno degli angoli più belli delle coste italiane, cresce il degrado, l’inquinamento e i tumori che colpiscono la popolazione.
 
@@ -77,9 +77,9 @@ Ce lo racconta **Elena Chernyshova**, classe 1981, fotografa nata a Mosca e con 
 {{< figure src="/images/2020/news10/chernyshova.jpg" align="center" caption="⬆︎ foto di: Elena Chernyshova</br> ">}}
 
 
-### Africa
+## Africa
 - - -
-#### Kenya
+### Kenya
 **Yasuyoshi Chiba** è fotografo della AFP e ha vinto il WPP nel 2020 con una foto per una manifestazione sui diritti civili in Sudan che magari vedremo in una prossima puntata delle Fotonews.
 
 * [instagram Chiba](https://www.instagram.com/yasuyoshi_chiba/)
@@ -87,17 +87,17 @@ Ce lo racconta **Elena Chernyshova**, classe 1981, fotografa nata a Mosca e con 
 {{< figure src="/images/2020/news10/chiba.jpg" align="center" caption="⬆︎ Sud Nigeria, foto di: Yasuyoshi Chiba</br> ">}}
 
 
-### Asia
+## Asia
 - - -
 
-#### Siria - Raqqa
+### Siria - Raqqa
 Raqqa, in Siria, è stata la capitale dell’Isis. Adesso è una città distrutta, popolata solo di donne e bambini, che gli uomini o sono morti o sono in galera.
 **Tim Dirven** inviato dal quotidiano belga _De Morgen_ è nato nel 1968 e collabora da lungo tempo con il giornale.
 
 {{< figure src="/images/2020/news10/dirven.jpg" align="center" caption="⬆︎ Raqqa, foto di: Tim Dirven</br> ">}}
 
 
-#### Nagorno-Karabakh
+### Nagorno-Karabakh
 **Anush Babajanyan** è una fotografa armena, tra le fondatrici di 4plus, un collettivo di donne fotografe armene con lo scopo di sviluppare la fotografia documentaristica per rafforzare la figura femminile in Armenia e non solo
 
 * [sito Babajanyan](http://anushbabajanyan.org/)
@@ -109,7 +109,7 @@ Babajanyan ci porta alcuni ritratti di famiglia.
 
 
 
-#### Pakistan, Lago Manchar
+### Pakistan, Lago Manchar
 
 Sul lago vive in case galleggianti una popolazione in via di estinzione che ha 5000 anni di storia, discendenti dei primi abitanti della valle dell’Indu.
 Ce ne parla **Sarah Caron**, fotografa francese nata in Provenza nel 1972, basata ora a Islamabad in Pakistan, da dove realizza reportage per diverse testate.
@@ -119,7 +119,7 @@ Ce ne parla **Sarah Caron**, fotografa francese nata in Provenza nel 1972, basat
 {{< figure src="/images/2020/news10/caron.jpg" align="center" caption="⬆︎ Lago Manchar, Pakistan. Foto di: Sarah Caron</br> ">}}
 
 
-#### India, Mumbay e Uttar Pradesh
+### India, Mumbay e Uttar Pradesh
 **Bryan Denton** è un fotografo americano che fa base a New Delhi in India. Per il New York Times ha realizzato un reportage sul “minaccioso futuro dell’India”, dice il quotidiano: siccità o alluvioni.
 
 * [sito Denton](https://bryandenton.com/)
@@ -129,7 +129,7 @@ Ce ne parla **Sarah Caron**, fotografa francese nata in Provenza nel 1972, basat
 
 {{< figure src="/images/2020/news10/denton2.jpg" align="center" caption="⬆︎ Nell'Uttar Pradesh invece il terreno è ormai completamente arido. Foto di: Bryan Denton</br> ">}}
 
-#### India, Maharashtra
+### India, Maharashtra
 Dal Maharashtra e dalla sue piantagioni di canna da zucchero, arriva  **Chloe Sharrock**, fotografa francese nata nel 1992, concentrata sul medio oriente e sui diritti delle donne, dice il suo sito internet,
 E proprio di diritti delle donne parla _Sugar Girl_ che racconta di isterectomie, di rimozioni dell’utero. Il suo reportage è particolarmente interessante. Ne parlo un po' di più nel podcast ma, se volete, merita di essere visto, e letto, direttamente dal sito dell'autrice o dalle pagine del _Visa_.
 
@@ -140,14 +140,14 @@ E proprio di diritti delle donne parla _Sugar Girl_ che racconta di isterectomie
 {{< figure src="/images/2020/news10/sharrock.jpg" align="center" caption="⬆︎ Una donna cerca di creare un fascio di canne. Foto di: Chloe Sharrock</br> ">}}
 
 
-#### India, Delhi
+### India, Delhi
 **James Whitlow Delano**, classe 1960, americano che fa base a Tokyo, ha realizzato un lungo lavoro sulla plastica: negli imballaggi come nei vestiti, nei contenitori come nei molti oggetti che usiamo tutti i giorni. E la plastica usata, che non si degrada, copre ormai importanti porzioni del pianeta.
 
 * [sito Whitlow Delano](http://www.jameswhitlowdelano.com/)
 
 {{< figure src="/images/2020/news10/delano.jpg" align="center" caption="⬆︎ La plastica ormai è parte integrante del paesaggio. Foto di: James Whitlow Delano</br> ">}}
 
-#### Cina, Hong Kong
+### Cina, Hong Kong
 Molte fotografie dedicate alle manifestazioni di Hong Kong di questi mesi. Abbiamo scelto il lavoro di **Anthony Wallace**, fotografo della AFP, classe 1979, che ci mostra sia le violenze della polizia che dei manifestanti.
 
 * [instagram Wallace](https://www.instagram.com/antwallace/)
@@ -155,7 +155,7 @@ Molte fotografie dedicate alle manifestazioni di Hong Kong di questi mesi. Abbia
 {{< figure src="/images/2020/news10/wallace.jpg" align="center" caption="⬆︎ Hong Kong. Foto di: Anthony Wallace</br> ">}}
 
 
-#### Cina, Wuhan
+### Cina, Wuhan
 Da Wuhan, è partita l’epidemia del corona virus e per prima la città ha conosciuto gli effetti e i paesaggi del lockdown.
 Questi paesaggi ce li racconta **Roman Pilipey**, fotogiornalista ucraino attualmente basato a Pechino.
 
@@ -165,9 +165,9 @@ Questi paesaggi ce li racconta **Roman Pilipey**, fotogiornalista ucraino attual
 {{< figure src="/images/2020/news10/pilipey.jpg" align="center" caption="⬆︎ Foto di: Roman Pilipey</br> ">}}
 
 
-### America
+## America
 - - -
-#### Stati Uniti, San Francisco
+### Stati Uniti, San Francisco
 
 **Josh Edelson** è un fotografo americano che fa base a San Francisco
 e che ci vuole ricordare uno degli effetti del coronavirus: il distanziamento sociale.
@@ -177,7 +177,7 @@ e che ci vuole ricordare uno degli effetti del coronavirus: il distanziamento so
 {{< figure src="/images/2020/news10/edelson.jpg" align="center" caption="⬆︎ Washington Square Park, San Francisco. Foto di: Josh Edelson</br> ">}}
 
 
-#### Stati Uniti, Los Angeles
+### Stati Uniti, Los Angeles
 
 Un altro evento, oltre il covid, ha attraversato l’America in questi mesi è il  movimento di _Black Lives Matter_, ne abbiamo parlato in una scorsa puntata delle [Fotonews](https://fotoradio.info/2020/06/news_20200616_minneapolis/).
 **Allen J. Schaben**, fotografo americano californiano che lavora per il Los Angeles Times ha raccolto immagini dalle manifestazioni di protesta.
@@ -187,7 +187,7 @@ Un altro evento, oltre il covid, ha attraversato l’America in questi mesi è i
 {{< figure src="/images/2020/news10/schaben.jpg" align="center" caption="⬆︎ Manifestazione tra Manhattan Beach e XXX. Foto di: Allan Schaben</br> ">}}
 
 
-#### Canada, Alberta
+### Canada, Alberta
 
 **Ian Willms**, nato nel 1985 e residente a Toronto è anche membro di Panos Pictures, una agenzia di documentazione che merita un'occhiata.
 
@@ -201,7 +201,7 @@ Il lavoro di Willms merita un approfondimento ben oltre il podcast. Guardate il 
 {{< figure src="/images/2020/news10/willms.jpg" align="center" caption="⬆︎ Impianti petrolchimici in prossimità di Fort McMurray. Foto di: Ian Willms</br> ">}}
 
 
-#### Messico, stato di Guerrero
+### Messico, stato di Guerrero
 
 **Alfredo Bosco**, italiano con base a Milano, sceglie di raccontarci il declino raggiunto da Acapulco, ormai una delle città più pericolose del Messico insieme a tutto lo stato che la ospita: lo stato di Guerrero.
 
@@ -210,7 +210,7 @@ Il lavoro di Willms merita un approfondimento ben oltre il podcast. Guardate il 
 
 {{< figure src="/images/2020/news10/bosco.jpg" align="center" caption="⬆︎ A Rincon de Chautla gli abitanti si organizzano per rispondere ai raid dei cartelli. Foto di: Alfredo Bosco</br> ">}}
 
-#### Cuba, l'Avana
+### Cuba, l'Avana
 Altro reportage super interessante arriva da Cuba ad opera di **Sanne Derks**, fotogiornalista e antropologa olandese con diversi progetti in America Latina.
 
 * [sito Derks](http://www.sannederks.com/)
@@ -223,7 +223,7 @@ L'acqua corrente è un problema per Cuba ma non sembra esserlo per le strutture 
 {{< figure src="/images/2020/news10/derks.jpg" align="center" caption="⬆︎ Piscina di un albergo in centro a L'Avana e taniche d'acqua sui tetti delle case. Foto di: Sanne Derks</br> ">}}
 
 
-#### Stati Uniti, New York
+### Stati Uniti, New York
 
 **Peter Turnley**, classe 1955, fotogiornalista americano che vive fra New York e Parigi, si è trovato bloccato nella grande mela nel periodo di lockdown dovuto al corona virus e ha deciso di tenere un _diario visivo_.
 
@@ -235,7 +235,7 @@ L'acqua corrente è un problema per Cuba ma non sembra esserlo per le strutture 
 
 - - -
 
-## Grazie!
+# Grazie!
 
 _Grazie di aver ascoltato questo episodio. Alla prossima!_
 
@@ -243,7 +243,7 @@ _Grazie di aver ascoltato questo episodio. Alla prossima!_
 
 <!--
 - - -
-### Contributi audio
+## Contributi audio
 
 
 In questa puntata delle Fotonews abbiamo anche dei contributi audio, tutti reperibili in forma integrale su Youtube.
@@ -262,7 +262,7 @@ Il testo integrale del discorso è stato anche pubblicato in diversi libri. Io l
 <!--
 - - -
 
-### Citazioni
+## Citazioni
 
 
 - Fabrizio Gatti, con le immagini di Massimo Sestini, _Dimmi dove sei_, National Geographic Italia, giugno 2019
@@ -284,15 +284,13 @@ Inoltre, nel podcast dico che Raqqa è in Iraq mentre invece è in Siria.
 
 <!--
 - - -
-
-### Altri link
+## Altri link
 
 - La puntata di **Be My Diary** di Rossella Pivanti citata nell'episodio è ascoltabile a questo (<a target="blank" href="https://www.spreaker.com/user/bemydiary/bmd-s02e10-finito">link</a>)
 
 -->
 
 - - -
-
 ## Credits per l'episodio
 
 La foto di copertina dell'articolo è mia ed è presa dentro il _couvent des minimes_ a Perpignan nello spazio dedicato a Yasuyoshi Chiba.
@@ -310,8 +308,6 @@ L'artista è anche su [Spotify](https://open.spotify.com/artist/08RrRBdcoplP0QFG
 </br>
 
 - - -
-
-
 ## Fair use
 
 In questo sito si seguono le regole del **Fair use** vigenti in America per l'utilizzo di immagini di proprietà di terzi. Spiego meglio [qui](/static_page/fair_use/)
