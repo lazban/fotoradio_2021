@@ -62,7 +62,10 @@ params:
             - name: Tags
               url: tags
 
-# home params were here
+    # home-info mode
+    homeInfoParams:
+        Title: "Hi there \U0001F44B"
+        Content: Welcome to my blog
 
     socialIcons:
         - name: twitter
