@@ -2,7 +2,7 @@
 title: "Fotonews #09 - NAGASAKI"
 slug: "09_nagasaki"
 date: 2020-08-01T11:30:03+00:00
-# weight: 1
+# weight: 1 - to pin posts
 # aliases: ["/first"]
 tags: ["storia"]
 author: ""

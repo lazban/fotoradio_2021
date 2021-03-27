@@ -2,7 +2,7 @@
 title: "Fotonews #10 - LE TOUR DU MONDE"
 slug: "news_10_visa"
 date: 2020-09-01T11:30:03+00:00
-# weight: 1
+# weight: 1 - to pin posts
 # aliases: ["/first"]
 tags: ["mostre"]
 author: ""
@@ -30,6 +30,9 @@ Il covid non ha fermato la 32a edizione di _Visa pour l'image_ di Perpignan: dec
 
 <!--more-->
 
+- - -
+### Ascolta
+
 Le Fotonews sono su <a target="blank" href="https://www.spreaker.com/user/11400220/tourdumonde">**_Fotoradio - Un podcast che parla di fotografie_**</a>.
 
 <a target="blank" class="spreaker-player" href="https://www.spreaker.com/episode/43858754" data-resource="episode_id=43858754" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "Fotonews #10 - LE TOUR DU MONDE" su Spreaker.</a>
@@ -40,10 +43,14 @@ Oltre che sul sito di <a target="blank" href="https://www.spreaker.com/user/1140
 Se vuoi lasciare un commento (grazie!), vai nella sezione <a href="/contact/">Contatti</a>
 
 - - -
-
-### Youtube e newsletter
+### Youtube
 
 Una rassegna delle foto di cui parliamo nel podcast sono anche su Youtube
+
+{{< youtube gwBbDf5jbBE >}}
+
+- - -
+### Newsletter
 
 Gli scatti e i testi sono anche raccolti in una newsletter su **Substack** (<a target="blank" href="https://fotoradio.substack.com/">link</a>)
 
@@ -67,7 +74,7 @@ Ce lo racconta **Elena Chernyshova**, classe 1981, fotografa nata a Mosca e con 
 
 * Sito under construction al momento https://elena-chernyshova.com/
 
-{{< figure src="/images/2020/news10/chernyshova.jpg" caption="⬆︎ foto di: Elena Chernyshova</br> ">}}
+{{< figure src="/images/2020/news10/chernyshova.jpg" align="center" caption="⬆︎ foto di: Elena Chernyshova</br> ">}}
 
 
 ### Africa
@@ -77,7 +84,7 @@ Ce lo racconta **Elena Chernyshova**, classe 1981, fotografa nata a Mosca e con 
 
 * https://www.instagram.com/yasuyoshi_chiba/
 
-{{< figure src="/images/2020/news10/chiba.jpg" caption="⬆︎ Sud Nigeria, foto di: Yasuyoshi Chiba</br> ">}}
+{{< figure src="/images/2020/news10/chiba.jpg" align="center" caption="⬆︎ Sud Nigeria, foto di: Yasuyoshi Chiba</br> ">}}
 
 
 ### Asia
@@ -87,7 +94,7 @@ Ce lo racconta **Elena Chernyshova**, classe 1981, fotografa nata a Mosca e con 
 Raqqa, in Siria, è stata la capitale dell’Isis. Adesso è una città distrutta, popolata solo di donne e bambini, che gli uomini o sono morti o sono in galera.
 **Tim Dirven** inviato dal quotidiano belga _De Morgen_ è nato nel 1968 e collabora da lungo tempo con il giornale.
 
-{{< figure src="/images/2020/news10/dirven.jpg" caption="⬆︎ Raqqa, foto di: Tim Dirven</br> ">}}
+{{< figure src="/images/2020/news10/dirven.jpg" align="center" caption="⬆︎ Raqqa, foto di: Tim Dirven</br> ">}}
 
 
 #### Nagorno-Karabakh
@@ -98,7 +105,7 @@ Raqqa, in Siria, è stata la capitale dell’Isis. Adesso è una città distrutt
 
 Babajanyan ci porta alcuni ritratti di famiglia.
 
-{{< figure src="/images/2020/news10/babajanyan.jpg" caption="⬆︎ Nagorno-Karabakh, 2017, foto di: Anush Babajanyan</br> ">}}
+{{< figure src="/images/2020/news10/babajanyan.jpg" align="center" caption="⬆︎ Nagorno-Karabakh, 2017, foto di: Anush Babajanyan</br> ">}}
 
 
 
@@ -109,7 +116,7 @@ Ce ne parla **Sarah Caron**, fotografa francese nata in Provenza nel 1972, basat
 
 * https://www.instagram.com/sarah_caron_photographer/
 
-{{< figure src="/images/2020/news10/caron.jpg" caption="⬆︎ Lago Manchar, Pakistan. Foto di: Sarah Caron</br> ">}}
+{{< figure src="/images/2020/news10/caron.jpg" align="center" caption="⬆︎ Lago Manchar, Pakistan. Foto di: Sarah Caron</br> ">}}
 
 
 #### India, Mumbay e Uttar Pradesh
@@ -118,9 +125,9 @@ Ce ne parla **Sarah Caron**, fotografa francese nata in Provenza nel 1972, basat
 * https://bryandenton.com/
 * https://www.nytimes.com/interactive/2019/11/25/climate/india-monsoon-drought.html
 
-{{< figure src="/images/2020/news10/denton1.jpg" caption="⬆︎ Mumbay è una megalopoli indiana e la megalopoli è attraversata dal fiume Mithi che ogni tanto esonda. Foto di: Bryan Denton</br> ">}}
+{{< figure src="/images/2020/news10/denton1.jpg" align="center" caption="⬆︎ Mumbay è una megalopoli indiana e la megalopoli è attraversata dal fiume Mithi che ogni tanto esonda. Foto di: Bryan Denton</br> ">}}
 
-{{< figure src="/images/2020/news10/denton2.jpg" caption="⬆︎ Nell'Uttar Pradesh invece il terreno è ormai completamente arido. Foto di: Bryan Denton</br> ">}}
+{{< figure src="/images/2020/news10/denton2.jpg" align="center" caption="⬆︎ Nell'Uttar Pradesh invece il terreno è ormai completamente arido. Foto di: Bryan Denton</br> ">}}
 
 #### India, Maharashtra
 Dal Maharashtra e dalla sue piantagioni di canna da zucchero, arriva  **Chloe Sharrock**, fotografa francese nata nel 1992, concentrata sul medio oriente e sui diritti delle donne, dice il suo sito internet,
@@ -130,7 +137,7 @@ E proprio di diritti delle donne parla _Sugar Girl_ che racconta di isterectomie
 * https://www.sharrockchloe.com/sugar-girl
 * https://www.visapourlimage.com/festival/expositions/sugar-girls
 
-{{< figure src="/images/2020/news10/sharrock.jpg" caption="⬆︎ Una donna cerca di creare un fascio di canne. Foto di: Chloe Sharrock</br> ">}}
+{{< figure src="/images/2020/news10/sharrock.jpg" align="center" caption="⬆︎ Una donna cerca di creare un fascio di canne. Foto di: Chloe Sharrock</br> ">}}
 
 
 #### India, Delhi
@@ -138,14 +145,14 @@ E proprio di diritti delle donne parla _Sugar Girl_ che racconta di isterectomie
 
 * http://www.jameswhitlowdelano.com/
 
-{{< figure src="/images/2020/news10/delano.jpg" caption="⬆︎ La plastica ormai è parte integrante del paesaggio. Foto di: James Whitlow Delano</br> ">}}
+{{< figure src="/images/2020/news10/delano.jpg" align="center" caption="⬆︎ La plastica ormai è parte integrante del paesaggio. Foto di: James Whitlow Delano</br> ">}}
 
 #### Cina, Hong Kong
 Molte fotografie dedicate alle manifestazioni di Hong Kong di questi mesi. Abbiamo scelto il lavoro di **Anthony Wallace**, fotografo della AFP, classe 1979, che ci mostra sia le violenze della polizia che dei manifestanti.
 
 * https://www.instagram.com/antwallace/
 
-{{< figure src="/images/2020/news10/wallace.jpg" caption="⬆︎ Hong Kong. Foto di: Anthony Wallace</br> ">}}
+{{< figure src="/images/2020/news10/wallace.jpg" align="center" caption="⬆︎ Hong Kong. Foto di: Anthony Wallace</br> ">}}
 
 
 #### Cina, Wuhan
@@ -155,7 +162,7 @@ Questi paesaggi ce li racconta **Roman Pilipey**, fotogiornalista ucraino attual
 * https://romanpilipey.com/
 * https://www.instagram.com/romanpilipey/
 
-{{< figure src="/images/2020/news10/pilipey.jpg" caption="⬆︎ Foto di: Roman Pilipey</br> ">}}
+{{< figure src="/images/2020/news10/pilipey.jpg" align="center" caption="⬆︎ Foto di: Roman Pilipey</br> ">}}
 
 
 ### America
@@ -167,7 +174,7 @@ e che ci vuole ricordare uno degli effetti del coronavirus: il distanziamento so
 
 * https://edelsonphotography.com/
 
-{{< figure src="/images/2020/news10/edelson.jpg" caption="⬆︎ Washington Square Park, San Francisco. Foto di: Josh Edelson</br> ">}}
+{{< figure src="/images/2020/news10/edelson.jpg" align="center" caption="⬆︎ Washington Square Park, San Francisco. Foto di: Josh Edelson</br> ">}}
 
 
 #### Stati Uniti, Los Angeles
@@ -177,7 +184,7 @@ Un altro evento, oltre il covid, ha attraversato l’America in questi mesi è i
 
 * https://www.instagram.com/alschaben/
 
-{{< figure src="/images/2020/news10/schaben.jpg" caption="⬆︎ Manifestazione tra Manhattan Beach e XXX. Foto di: Allan Schaben</br> ">}}
+{{< figure src="/images/2020/news10/schaben.jpg" align="center" caption="⬆︎ Manifestazione tra Manhattan Beach e XXX. Foto di: Allan Schaben</br> ">}}
 
 
 #### Canada, Alberta
@@ -191,7 +198,7 @@ Un altro evento, oltre il covid, ha attraversato l’America in questi mesi è i
 Il reportage di Willms introduce il termine di _razzismo ambientale_: i nativi d'America siano stati chiusi in riserve in prossimità delle quali si sono sviluppati enormi complessi industriali altamente inquinanti.
 Il lavoro di Willms merita un approfondimento ben oltre il podcast. Guardate il suo sito personale.
 
-{{< figure src="/images/2020/news10/willms.jpg" caption="⬆︎ Impianti petrolchimici in prossimità di Fort McMurray. Foto di: Ian Willms</br> ">}}
+{{< figure src="/images/2020/news10/willms.jpg" align="center" caption="⬆︎ Impianti petrolchimici in prossimità di Fort McMurray. Foto di: Ian Willms</br> ">}}
 
 
 #### Messico, stato di Guerrero
@@ -201,7 +208,7 @@ Il lavoro di Willms merita un approfondimento ben oltre il podcast. Guardate il 
 * https://www.alfredobosco.com/
 * https://www.alfredobosco.com/forgotten_guerrero-p18592
 
-{{< figure src="/images/2020/news10/bosco.jpg" caption="⬆︎ A Rincon de Chautla gli abitanti si organizzano per rispondere ai raid dei cartelli. Foto di: Alfredo Bosco</br> ">}}
+{{< figure src="/images/2020/news10/bosco.jpg" align="center" caption="⬆︎ A Rincon de Chautla gli abitanti si organizzano per rispondere ai raid dei cartelli. Foto di: Alfredo Bosco</br> ">}}
 
 #### Cuba, l'Avana
 Altro reportage super interessante arriva da Cuba ad opera di **Sanne Derks**, fotogiornalista e antropologa olandese con diversi progetti in America Latina.
@@ -213,7 +220,7 @@ Il New York Times ha pubblicato recentemente il reportage di Derks qui: https://
 
 L'acqua corrente è un problema per Cuba ma non sembra esserlo per le strutture turistiche.
 
-{{< figure src="/images/2020/news10/derks.jpg" caption="⬆︎ Piscina di un albergo in centro a L'Avana e taniche d'acqua sui tetti delle case. Foto di: Sanne Derks</br> ">}}
+{{< figure src="/images/2020/news10/derks.jpg" align="center" caption="⬆︎ Piscina di un albergo in centro a L'Avana e taniche d'acqua sui tetti delle case. Foto di: Sanne Derks</br> ">}}
 
 
 #### Stati Uniti, New York
@@ -222,7 +229,7 @@ L'acqua corrente è un problema per Cuba ma non sembra esserlo per le strutture 
 
 * http://www.peterturnley.com/
 
-{{< figure src="/images/2020/news10/turnley.jpg" caption="⬆︎ Shannone (28 anni). Foto di: Peter Turnley</br> ">}}
+{{< figure src="/images/2020/news10/turnley.jpg" align="center" caption="⬆︎ Shannone (28 anni). Foto di: Peter Turnley</br> ">}}
 
 </br>
 
