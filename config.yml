@@ -35,6 +35,7 @@ params:
     hidemeta: false
     showtoc: false
     tocopen: false
+    ShowPostNavLinks: true
 
     assets:
         # disableHLJS: true # to disable highlight.js
@@ -60,24 +61,16 @@ params:
         imageHeight: 200
         imageTitle: "Copertina Fotoradio"
         buttons:
-            - name: Podcast
-              url: posts
-            - name: Tags
-              url: tags
-            - name: Newsletter
-              url: "https://fotoradio.substack.com"
             - name: Ascolta
               url: "/static_page/listen/"
+            - name: Podcast
+              url: posts
+            - name: Newsletter
+              url: "https://fotoradio.substack.com"
+
 
     # home-info mode
-
-    socialIcons:
-        - name: twitter
-          url: "https://twitter.com/"
-        - name: stackoverflow
-          url: "https://stackoverflow.com"
-        - name: github
-          url: "https://github.com/"
+    # socialIcons
 
     analytics:
         google:
@@ -98,20 +91,32 @@ params:
         threshold: 0.4
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary", "content"]
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
 menu:
     main:
-        - identifier: categories
-          name: categories
-          url: /categories/
+        - identifier: cerca
+          name: cerca
+          url: /search/
           weight: 10
+        - identifier: ascolta
+          name: ascolta
+          url: /static_page/listen/
+          weight: 20
         - identifier: tags
           name: tags
           url: /tags/
-          weight: 20
-        - identifier: example
-          name: example.org
-          url: https://example.org
           weight: 30
+        - identifier: archivio
+          name: archivio
+          url: /archives/
+          weight: 40
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:

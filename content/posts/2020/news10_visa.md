@@ -16,7 +16,7 @@ description: "A Perpignan la 32a edizione del Visa pour l'image"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
-searchHidden: true
+searchHidden: false
 cover:
     image: "/images/2020/news10/copertina_articolo.jpg" # image path/url
     alt: "Visa pour l'image di Perpignan edizione 2020" # alt text

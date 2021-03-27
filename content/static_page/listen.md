@@ -24,7 +24,6 @@ cover:
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-
 ---
 
 Se vuoi ascoltare Fotoradio qui ci sono tutti i link per collegarti alla tua piattaforma preferita.
