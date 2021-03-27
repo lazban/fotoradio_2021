@@ -35,6 +35,10 @@ Il covid non ha fermato la 32a edizione di _Visa pour l'image_ di Perpignan: dec
 
 Le Fotonews sono su <a target="blank" href="https://www.spreaker.com/user/11400220/tourdumonde">**_Fotoradio - Un podcast che parla di fotografie_**</a>.
 
+iframe
+<iframe src="https://widget.spreaker.com/player?episode_id=43858754&theme=light&playlist=false&playlist-continuous=false&autoplay=false&live-autoplay=false&chapters-image=true&episode_image_position=right&hide-logo=false&hide-likes=false&hide-comments=false&hide-sharing=false&hide-download=true" width="100%" height="200px" frameborder="0"></iframe>
+
+widget classic
 <a class="spreaker-player" href="https://www.spreaker.com/episode/43858754" data-resource="episode_id=43858754" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "Fotonews #10 - LE TOUR DU MONDE" su Spreaker.</a>
 
 Oltre che sul sito di <a target="blank" href="https://www.spreaker.com/user/11400220/tourdumonde">**Spreaker**</a>, puoi ascoltare le Fotonews anche su
