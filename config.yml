@@ -1,5 +1,5 @@
 baseURL: "/"
-title: ExampleSite
+title: Fotoradio
 paginate: 5
 theme: PaperMod
 
@@ -16,8 +16,8 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: ExampleSite
-    description: "ExampleSite description"
+    title: Fotoradio
+    description: "un podcast, un sito e una newsletter che parlano di fotografie"
     author: Me
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -43,8 +43,8 @@ params:
         safari_pinned_tab: "<link / abs url>"
 
     label:
-        text: "Home"
-        icon: /apple-touch-icon.png
+        text: " "
+        icon: /img/general/fotoradio_logo_200.png
         iconHeight: 35
 
     # profile-mode
@@ -64,23 +64,23 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "Hi there \U0001F44B"
-        Content: Welcome to my blog
+        Title: ""
+        Content: un podcast che parla di fotografie
 
-    socialIcons:
-        - name: twitter
-          url: "https://twitter.com/"
-        - name: stackoverflow
-          url: "https://stackoverflow.com"
-        - name: github
-          url: "https://github.com/"
+    # socialIcons:
+    #    - name: twitter
+    #      url: ""
+    #    - name: stackoverflow
+    #      url: "https://stackoverflow.com"
+    #    - name: github
+    #      url: "https://github.com/"
 
     analytics:
         google:
             SiteVerificationTag: "XYZabc"
 
     cover:
-        hidden: true # hide everywhere but not in structured data
+        hidden: false # hide everywhere but not in structured data
         hiddenInList: true # hide on list pages and home
         hiddenInSingle: true # hide on single page
 
