@@ -66,6 +66,8 @@ params:
               url: tags
             - name: Newsletter
               url: "https://fotoradio.substack.com"
+            - name: Ascolta
+              url: "/static_page/listen/"
 
     # home-info mode
 
