@@ -18,7 +18,7 @@ params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Fotoradio
     description: "un podcast, un sito e una newsletter che parla di fotografie"
-    author: Me
+    author: ""
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
 
@@ -27,7 +27,7 @@ params:
 
     ShowReadingTime: true
     ShowShareButtons: true
-    disableSpecial1stPost: false
+    disableSpecial1stPost: true
     comments: false
     hidemeta: false
     showtoc: false
@@ -43,24 +43,26 @@ params:
         safari_pinned_tab: "<link / abs url>"
 
     label:
-        text: "Home"
+        text: " "
         icon: /img/general/fotoradio_logo_200.png
         iconHeight: 35
 
     # profile-mode
     profileMode:
-        enabled: false # needs to be explicitly set
-        title: Fotoradio
+        enabled: true # needs to be explicitly set
+        title: " "
         subtitle: "un sito, un podcast e una newsletter che parlano di fotografie"
-        imageUrl: "<img location>"
-        imageWidth: 120
-        imageHeight: 120
-        imageTitle: my image
+        imageUrl: "/img/general/fotoradio_icona_grafica.jpg"
+        imageWidth: 400
+        imageHeight: 400
+        imageTitle: "Copertina Fotoradio"
         buttons:
-            - name: Posts
+            - name: Podcast
               url: posts
             - name: Tags
               url: tags
+            - name: Newsletter
+              url: "https://fotoradio.substack.com"
 
     # home-info mode
 
