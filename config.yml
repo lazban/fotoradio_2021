@@ -64,10 +64,10 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: ""
-        Content: un podcast che parla di fotografie
+        Title: " "
+        Content: "un podcast che parla di fotografie"
 
-     socialIcons:
+    socialIcons:
         - name: twitter
           url: "https://twitter.com"
         - name: stackoverflow
