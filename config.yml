@@ -16,8 +16,8 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: ExampleSite
-    description: "ExampleSite description"
+    title: Fotoradio
+    description: "un podcast, un sito e una newsletter che parla di fotografie"
     author: Me
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -44,14 +44,14 @@ params:
 
     label:
         text: "Home"
-        icon: /apple-touch-icon.png
+        icon: /img/general/fotoradio_logo_200.png
         iconHeight: 35
 
     # profile-mode
     profileMode:
         enabled: false # needs to be explicitly set
-        title: ExampleSite
-        subtitle: "This is subtitle"
+        title: Fotoradio
+        subtitle: "un sito, un podcast e una newsletter che parlano di fotografie"
         imageUrl: "<img location>"
         imageWidth: 120
         imageHeight: 120
@@ -63,9 +63,6 @@ params:
               url: tags
 
     # home-info mode
-    homeInfoParams:
-        Title: "Hi there \U0001F44B"
-        Content: Welcome to my blog
 
     socialIcons:
         - name: twitter
@@ -80,7 +77,7 @@ params:
             SiteVerificationTag: "XYZabc"
 
     cover:
-        hidden: true # hide everywhere but not in structured data
+        hidden: false # hide everywhere but not in structured data
         hiddenInList: true # hide on list pages and home
         hiddenInSingle: true # hide on single page
 
