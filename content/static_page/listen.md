@@ -1,22 +1,23 @@
 ---
-title: "ascolta"
-slug: "ascolta"
+title: "come ascoltare Fotoradio"
+slug: "listen"
 date: 2019-10-01T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: [""]
 author: ""
 # author: ["Me", "You"] # multiple authors
-showToc: true
+ShowReadingTime: false
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "A Perpignan la 32a edizione del Visa pour l'image"
+description: ""
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
-searchHidden: true
+searchHidden: false
 cover:
     image: "" # image path/url
     alt: "" # alt text
@@ -34,11 +35,11 @@ Puoi ascoltare Fotoradio su:
 
 - <a target="blank" href="https://links.fotoradio.info/spotify">**Spotify**</a>
 
-- <a href="https://links.fotoradio.info/apple">**Apple Podcast**</a>
+- <a target="blank" href="https://links.fotoradio.info/apple">**Apple Podcast**</a>
 
-- <a href="https://links.fotoradio.info/google">**Google Podcast**</a>
+- <a target="blank" href="https://links.fotoradio.info/google">**Google Podcast**</a>
 
-- <a href="https://links.fotoradio.info/spreaker">**Spreaker**</a>
+- <a target="blank" href="https://links.fotoradio.info/spreaker">**Spreaker**</a>
 
 ma anche su:
 
