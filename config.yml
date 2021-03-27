@@ -45,7 +45,7 @@ params:
     label:
         text: "Home"
         icon: /img/general/fotoradio_logo_200.png
-        iconHeight: 35
+ù        iconHeight: 35
 
     # profile-mode
     profileMode:
