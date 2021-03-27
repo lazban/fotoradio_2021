@@ -1,5 +1,5 @@
-baseURL: "https://examplesite.com"
-title: ExampleSite
+baseURL: "/"
+title: Fotoradio
 paginate: 5
 theme: PaperMod
 
@@ -44,7 +44,7 @@ params:
 
     label:
         text: "Home"
-        icon: /apple-touch-icon.png
+        icon: /img/general/fotoradio_logo_200.png
         iconHeight: 35
 
     # profile-mode
