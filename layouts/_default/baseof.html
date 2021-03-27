@@ -6,7 +6,12 @@
 
     <!-- target outside -->
     <base target="_blank">
-    
+
+    <!-- base per commenti valine
+    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+    <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+    -->
+
 </head>
 
 <body class="
@@ -26,6 +31,20 @@
 
 <!-- script per widget di SPREAKER -->
 <script async src="https://widget.spreaker.com/widgets.js"></script>
+
+<!-- script per COMMENTI TALKYARD
+<hr />
+<h2> Commenti </h2>
+<script>talkyardServerUrl='{{ .Site.Params.talkyardServerUrl }}';</script>
+<script async defer src="{{ .Site.Params.talkyardScriptUrl }}"></script>
+You can specify a per page discussion id on the next line, if your URLs might change.
+
+<div class="talkyard-comments" data-discussion-id="{{ .Params.discussionId }}" style="margin-top: 45px;">
+<noscript>Please enable Javascript to view comments.</noscript>
+<p style="margin-top: 25px; opacity: 0.9; font-size: 96%">Comments powered by
+<a href="https://www.talkyard.io">Talkyard</a>.</p>
+</div>
+-->
 
 </body>
 

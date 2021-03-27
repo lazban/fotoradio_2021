@@ -72,7 +72,7 @@ A Augusta-Priolo, in Sicilia, sorge uno dei più grandi complessi petrolchimici 
 
 Ce lo racconta **Elena Chernyshova**, classe 1981, fotografa nata a Mosca e con base in Francia, vincitrice del WPP nel 2014.
 
-* [Sito](https://elena-chernyshova.com/) under construction al momento
+* [Sito Chernyshova](https://elena-chernyshova.com/) under construction al momento
 
 {{< figure src="/images/2020/news10/chernyshova.jpg" align="center" caption="⬆︎ foto di: Elena Chernyshova</br> ">}}
 
@@ -82,7 +82,7 @@ Ce lo racconta **Elena Chernyshova**, classe 1981, fotografa nata a Mosca e con 
 #### Kenya
 **Yasuyoshi Chiba** è fotografo della AFP e ha vinto il WPP nel 2020 con una foto per una manifestazione sui diritti civili in Sudan che magari vedremo in una prossima puntata delle Fotonews.
 
-* [instagram](https://www.instagram.com/yasuyoshi_chiba/)
+* [instagram Chiba](https://www.instagram.com/yasuyoshi_chiba/)
 
 {{< figure src="/images/2020/news10/chiba.jpg" align="center" caption="⬆︎ Sud Nigeria, foto di: Yasuyoshi Chiba</br> ">}}
 
@@ -114,7 +114,7 @@ Babajanyan ci porta alcuni ritratti di famiglia.
 Sul lago vive in case galleggianti una popolazione in via di estinzione che ha 5000 anni di storia, discendenti dei primi abitanti della valle dell’Indu.
 Ce ne parla **Sarah Caron**, fotografa francese nata in Provenza nel 1972, basata ora a Islamabad in Pakistan, da dove realizza reportage per diverse testate.
 
-* [instagram](https://www.instagram.com/sarah_caron_photographer/)
+* [instagram Caron](https://www.instagram.com/sarah_caron_photographer/)
 
 {{< figure src="/images/2020/news10/caron.jpg" align="center" caption="⬆︎ Lago Manchar, Pakistan. Foto di: Sarah Caron</br> ">}}
 
