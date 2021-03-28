@@ -34,7 +34,9 @@ Il canale che preferisco è un messaggio [**telegram @fotoradio**](https://t.me/
 
 o puoi scrivere una buona vecchia **email** a fotoradio.info at gmail.com;
 
+<!--
 o usare il **form di contatto** [qui](#form-contatti) sotto (nessun dato verrà memorizzato o utilizzato se non per rispondere al messaggio);
+-->
 
 o, se mi conosci e sei delle mie parti, puoi fermarmi per **strada** e dirmi cosa ne pensi (mi raccomando la mascherina :))
 
@@ -48,8 +50,9 @@ C'è anche un [**Canale Youtube**](https://www.youtube.com/channel/UCiaiddtEOdYK
 
 Se vuoi rimanere in aggiornato con le novità del sito e le nuove puntate del podcast, puoi iscriverti alla [**Newsletter**](https://fotoradio.substack.com) di Fotoradio (il servizio è offerto da Substack che tratta i dati secondo le privacy policy al link indicato; puoi cancellarti in ogni momento e, ovviamente, niente spam)
 
-
+<!--
 #### form contatti
+-->
 
 <!--
 <form method="POST" action="">
@@ -60,6 +63,7 @@ Se vuoi rimanere in aggiornato con le novità del sito e le nuove puntate del po
 </form>
 -->
 
+<!--
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/fotoradio.info@gmail.com" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
@@ -72,3 +76,4 @@ Se vuoi rimanere in aggiornato con le novità del sito e le nuove puntate del po
   </fieldset>
   <input type="submit" value="Submit">
 </form>
+-->
