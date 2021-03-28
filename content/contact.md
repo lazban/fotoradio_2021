@@ -44,53 +44,31 @@ Se ancora usi [**facebook**](https://fb.me/fotoradio.info) ;-) c'è anche una de
 
 Esiste anche un profilo [**instagram**](https://instagram.com/fotoradio) dove pubblico alcune foto degli episodi o anticipazioni su future puntate.
 
-C'è anche un [**Canale Youtube](https://www.youtube.com/channel/UCiaiddtEOdYK2YaRBcZAm2Q) che dove si scorrono insieme le foto dell'episodio del podcast.
+C'è anche un [**Canale Youtube**](https://www.youtube.com/channel/UCiaiddtEOdYK2YaRBcZAm2Q) che dove si scorrono insieme le foto dell'episodio del podcast.
 
 Se vuoi rimanere in aggiornato con le novità del sito e le nuove puntate del podcast, puoi iscriverti alla [**Newsletter**](https://fotoradio.substack.com) di Fotoradio (il servizio è offerto da Substack che tratta i dati secondo le privacy policy al link indicato; puoi cancellarti in ogni momento e, ovviamente, niente spam)
 
 
 #### form contatti
 
-<form method="POST" action="https://formspree.io/fotoradio.info@gmail.com">
+<!--
+<form method="POST" action="">
   <b>Hai una domanda o un commento da fare? / Questions?</b><br>
   <input type="text" name="email" placeholder="indirizzo email / email address"><br>
   <textarea type="text" name="message" placeholder="messaggio / message"></textarea><br>
   <button type="submit" class="font-button">Spedisci / Send</button>
 </form>
+-->
 
-<!-- Read the Formbutton docs at formspree.io/formbutton/docs. See more examples at codepen.io/formspree -->
-<script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
-<script>
-  /* paste this line in verbatim */
-  window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
-
-  /* customize formbutton below*/     
-  formbutton("create", {
-    action: "https://formspree.io/f/fotoradio.info@gmail.com",
-    title: "How can we help?",
-    fields: [
-      {
-        type: "email",
-        label: "Email:",
-        name: "email",
-        required: true,
-        placeholder: "your@email.com"
-      },
-      {
-        type: "textarea",
-        label: "Message:",
-        name: "message",
-        placeholder: "What's on your mind?",
-      },
-      { type: "submit" }      
-    ],
-    styles: {
-      title: {
-        backgroundColor: "gray"
-      },
-      button: {
-        backgroundColor: "gray"
-      }
-    }
-  });
-</script>
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/fotoradio.info@gmail.com" method="post">
+  <fieldset id="fs-frm-inputs">
+    <label for="full-name">Full Name</label>
+    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+    <label for="email-address">Email Address</label>
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+    <label for="message">Message</label>
+    <textarea rows="5" name="message" id="message" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus." required=""></textarea>
+    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+  </fieldset>
+  <input type="submit" value="Submit">
+</form>
