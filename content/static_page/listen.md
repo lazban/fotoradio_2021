@@ -32,18 +32,22 @@ Dal momento della pubblicazione della puntata può passare qualche ora prima che
 
 Puoi ascoltare Fotoradio su:
 
-- <a target="blank" href="https://links.fotoradio.info/spotify">**Spotify**</a>
+- [**Spotify**](https://links.fotoradio.info/spotify)
 
-- <a target="blank" href="https://links.fotoradio.info/apple">**Apple Podcast**</a>
+- [**Apple Podcast**](https://links.fotoradio.info/apple)
 
-- <a target="blank" href="https://links.fotoradio.info/google">**Google Podcast**</a>
+- [**Google Podcast**](https://links.fotoradio.info/google)
 
-- <a target="blank" href="https://links.fotoradio.info/spreaker">**Spreaker**</a>
+- [**Spreaker**](https://links.fotoradio.info/spreaker)
 
 ma anche su:
 
-su <a target="blank" href="https://castbox.fm/channel/Fotoradio-un-podcast-sulle-fotografie-id2203635?country=it">**Castbox**</a>; <a target="blank" href="https://www.deezer.com/it/show/419562">**Deezer**</a>; <a target="blank" href="https://overcast.fm/itunes1473090985">**Overcast**</a>; <a target="blank" href="https://pca.st/itunes/1473090985">**Pocketcast**</a>; <a target="blank" href="https://podcastaddict.com/podcast/2413816">**Podcast Addict**</a>; <a target="blank" href="https://www.podchaser.com/podcasts/fotoradio-un-podcast-sulle-fot-894285">**Podchaser**</a>.
+su [**Castbox**](https://castbox.fm/channel/Fotoradio-un-podcast-sulle-fotografie-id2203635?country=it); [**Deezer**](https://www.deezer.com/it/show/419562); [**Overcast**](https://overcast.fm/itunes1473090985); [**Pocketcast**](https://pca.st/itunes/1473090985); [**Podcast Addict**](https://podcastaddict.com/podcast/2413816); [**Podchaser**](https://www.podchaser.com/podcasts/fotoradio-un-podcast-sulle-fot-894285).
 
-e anche sulle pagine del blog <a target="blank" href="/">**Fotoradio**</a>
+e anche direttamente sulle pagine del blog [**Fotoradio**](https://fotoradio.info).
 
-Se vuoi lasciare un messaggio vai nell'area <a href="/contact/">contatti</a> e se vuoi saperne di più nell'area <a href="/about/">about</a>.
+Se vuoi lasciare un messaggio vai nell'area [Contatti](/contact/) e se vuoi saperne di più nell'area [about](/about/).
+
+# test
+
+<link href="https://google.com" target="_blank">google link</a>

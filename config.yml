@@ -63,7 +63,7 @@ params:
         buttons:
             - name: Ascolta
               url: "/static_page/listen/"
-            - name: Podcast
+            - name: Articoli
               url: posts
             - name: Newsletter
               url: "https://fotoradio.substack.com"
@@ -104,6 +104,14 @@ menu:
           name: cerca
           url: /search/
           weight: 10
+        - identifier: contatti
+          name: contatti
+          url: /contact/
+          weight: 95
+        - identifier: about
+          name: about
+          url: /about/
+          weight: 99
         - identifier: ascolta
           name: ascolta
           url: /static_page/listen/
