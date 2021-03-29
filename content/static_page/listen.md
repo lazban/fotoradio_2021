@@ -46,8 +46,4 @@ su [**Castbox**](https://castbox.fm/channel/Fotoradio-un-podcast-sulle-fotografi
 
 e anche direttamente sulle pagine del blog [**Fotoradio**](https://fotoradio.info).
 
-Se vuoi lasciare un messaggio vai nell'area [Contatti](/contact/) e se vuoi saperne di più nell'area [about](/about/).
-
-# test
-
-<link href="https://google.com" target="_blank">google link</a>
+Se vuoi mandare un messaggio vai nell'area [Contatti](/contact/) e se vuoi saperne di più nell'area [About](/about/).

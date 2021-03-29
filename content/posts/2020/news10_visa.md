@@ -28,12 +28,13 @@ cover:
 
 Il covid non ha fermato la 32a edizione di _Visa pour l'image_ di Perpignan: decine di esposizioni di fotografe e fotografi da tutto il mondo.
 
-<!--more-->
 
 - - -
 ## Ascolta
 
 Le Fotonews sono su [**_Fotoradio - Un podcast che parla di fotografie_**](https://www.spreaker.com/user/11400220/tourdumonde).
+
+<iframe src="https://anchor.fm/collettivosr/embed/episodes/Mind-the-Gap---Nico-3---Sta-in-metro--come-sta-a-casa-ehikqc" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 <a class="spreaker-player" href="https://www.spreaker.com/episode/43858754" data-resource="episode_id=43858754" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "Fotonews #10 - LE TOUR DU MONDE" su Spreaker.</a>
 

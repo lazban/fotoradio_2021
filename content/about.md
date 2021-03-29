@@ -98,4 +98,4 @@ e poi ci sono io, **Alessandro** che mi diverto a fare questo esperimento tra fo
 Fotoradio is an italian language podcast dedicated to photographs.
 In this website we show pictures we talk about in the show and we credit owners. We refer to the Fair Use as stated in the US Copyright Act. Please check [this page](https://fotoradio.info/static_page/fair_use/) for more information.
 
-If you like to get in touch, please use [contact page](https://fotoradio.info/contact/).
+If you like to get in touch, please check all social [**contacts**](https://fotoradio.info/contact/).

@@ -1,5 +1,5 @@
 ---
-title: "Fotonews #10 - LE TOUR DU MONDE"
+title: "Fotonews #10 - THE PRESIDENT OF UNITED STATES"
 slug: "11_thepresident"
 date: 2020-11-01T11:30:03+00:00
 # weight: 1 - to pin posts
