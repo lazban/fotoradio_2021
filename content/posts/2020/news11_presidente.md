@@ -1,5 +1,5 @@
 ---
-title: "Fotonews #10 - THE PRESIDENT OF UNITED STATES"
+title: "Fotonews #11 - THE PRESIDENT OF UNITED STATES"
 slug: "11_thepresident"
 date: 2020-11-01T11:30:03+00:00
 # weight: 1 - to pin posts
@@ -28,13 +28,12 @@ cover:
 
 Il covid non ha fermato la 32a edizione di _Visa pour l'image_ di Perpignan: decine di esposizioni di fotografe e fotografi da tutto il mondo.
 
-
 - - -
 ## Ascolta
 
 Le Fotonews sono su [**_Fotoradio - Un podcast che parla di fotografie_**](https://www.spreaker.com/user/11400220/tourdumonde).
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/43858754" data-resource="episode_id=43858754" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "Fotonews #10 - LE TOUR DU MONDE" su Spreaker.</a>
+{{< spreaker 43858754 light >}}
 
 Oltre che sul sito di [**Spreaker**](https://www.spreaker.com/user/11400220/tourdumonde), puoi ascoltare le Fotonews anche su
 [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
