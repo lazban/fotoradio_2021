@@ -4,7 +4,8 @@ slug: "11_thepresident"
 date: 2020-11-01T11:30:03+00:00
 # weight: 1 - to pin posts
 # aliases: ["/first"]
-tags: ["ritratti"]
+tags: ["Souza"]
+categories: ["ritratti"]
 author: ""
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -33,7 +34,7 @@ Il covid non ha fermato la 32a edizione di _Visa pour l'image_ di Perpignan: dec
 
 Le Fotonews sono su [**_Fotoradio - Un podcast che parla di fotografie_**](https://www.spreaker.com/user/11400220/tourdumonde).
 
-{{< spreaker 43858754 light >}}
+{{< spreaker 43858754 dark >}}
 
 Oltre che sul sito di [**Spreaker**](https://www.spreaker.com/user/11400220/tourdumonde), puoi ascoltare le Fotonews anche su
 [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).

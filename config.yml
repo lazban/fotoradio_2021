@@ -15,7 +15,7 @@ minify:
     minifyOutput: true
 
 permalinks:
-  post: "/:year/:month/:slug/"
+  posts: "/:year/:month/:slug/"
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema and seo.
@@ -108,6 +108,10 @@ menu:
           name: ascolta
           url: /static_page/listen/
           weight: 20
+        - identifier: categorie
+          name: categorie
+          url: /categories/
+          weight: 25
         - identifier: tags
           name: tags
           url: /tags/
