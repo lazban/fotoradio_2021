@@ -169,4 +169,4 @@ Arrivano da Epidemic Sound -> <a target="blank" href="https://www.epidemicsound.
 
 # Fair use
 
-In questo sito si seguono le regole del **Fair use** vigenti in America per l'utilizzo di immagini di proprietà di terzi. Spiego meglio <a href="/static_page/fair_use/">qui</a>
+In questo sito si seguono le regole del **Fair use** vigenti in America per l'utilizzo di immagini di proprietà di terzi. Spiego meglio [qui](/static_page/fair_use/)

@@ -53,7 +53,7 @@ params:
 
     # profile-mode
     profileMode:
-        enabled: true # needs to be explicitly set
+        enabled: false # needs to be explicitly set
         title: " "
         subtitle: "un sito, un podcast e una newsletter che parlano di fotografie"
         imageUrl: "/img/general/fotoradio_icona_grafica.jpg"
@@ -63,7 +63,7 @@ params:
         buttons:
             - name: Ascolta
               url: "/static_page/listen/"
-            - name: Articoli
+            - name: Podcast
               url: posts
             - name: Newsletter
               url: "https://fotoradio.substack.com"
@@ -104,14 +104,6 @@ menu:
           name: cerca
           url: /search/
           weight: 10
-        - identifier: contatti
-          name: contatti
-          url: /contact/
-          weight: 95
-        - identifier: about
-          name: about
-          url: /about/
-          weight: 99
         - identifier: ascolta
           name: ascolta
           url: /static_page/listen/
@@ -124,6 +116,14 @@ menu:
           name: archivio
           url: /archives/
           weight: 40
+        - identifier: contatti
+          name: contatti
+          url: /contact/
+          weight: 95
+        - identifier: about
+          name: about
+          url: /about/
+          weight: 99
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
