@@ -1,14 +1,30 @@
-+++
-showonlyimage = true
-draft = false
-image = "img/0x1/climate_cover.jpg"
-date = "2019-08-05T06:00:00+02:00"
-title = "Fotografia e Climate Change (Gideon Mendel)"
-slug = "climate_change_mendel"
-description = "Attraverso la fotografia di Gideon Mendel (i suoi _Submerged Portraits_) Fotoradio racconta i danni del climate change"
-writer = ""
-weight = 1
-+++
+---
+title: "Fotografia e Climate Change (Gideon Mendel)"
+slug: "climate_change_mendel"
+date: 2019-08-05T06:00:00+02:00
+# weight: 1 - to pin posts
+# aliases: ["/first"]
+tags: [""]
+categories: [""]
+author: ""
+# author: ["Me", "You"] # multiple authors
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: "Attraverso la fotografia di Gideon Mendel (i suoi _Submerged Portraits_) Fotoradio racconta i danni del climate change"
+disableHLJS: true # to disable highlightjs
+disableShare: false
+disableHLJS: false
+searchHidden: false
+cover:
+    image: "img/0x1/climate_cover.jpg" # image path/url
+    alt: "" # alt text
+    caption: "" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
+---
 
 Prima puntata di Fotoradio dove iniziamo a parlare di fotografie con i ritratti di Gideon Mendel e le connessioni con il cambiamento climatico
 <!--more-->

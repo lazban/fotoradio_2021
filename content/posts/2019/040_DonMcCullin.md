@@ -1,14 +1,30 @@
-+++
-showonlyimage = true
-draft = false
-image = "img/0x4/0X4_mccullin_cover.jpg"
-date = "2019-08-26T06:00:00+02:00"
-title = "La morte, la guerra e noi nelle foto di Don McCullin"
-slug = "guerra_mccullin"
-description = "Don McCullin ha fotografato la guerra e la morte per farci sapere cosa succede nel mondo"
-writer = ""
-weight = 1
-+++
+---
+title: "La morte, la guerra e noi nelle foto di Don McCullin)"
+slug: "guerra_mccullin"
+date: 2019-08-26T06:00:00+02:00
+# weight: 1 - to pin posts
+# aliases: ["/first"]
+tags: [""]
+categories: [""]
+author: ""
+# author: ["Me", "You"] # multiple authors
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: "Don McCullin ha fotografato la guerra e la morte per farci sapere cosa succede nel mondo"
+disableHLJS: true # to disable highlightjs
+disableShare: false
+disableHLJS: false
+searchHidden: false
+cover:
+    image: "img/0x4/0X4_mccullin_cover.jpg" # image path/url
+    alt: "" # alt text
+    caption: "" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
+---
 
 Nuova puntata di Fotoradio dedicata a Don McCullin e ai suoi scatti a Cipro nel 1964.
 <!--more-->

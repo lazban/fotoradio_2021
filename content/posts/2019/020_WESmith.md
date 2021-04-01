@@ -1,14 +1,30 @@
-+++
-showonlyimage = true
-draft = false
-image = "img/0x2/0x2_smith_cover.jpg"
-date = "2019-08-05T06:00:00+02:00"
-title = "La città, l'industria (e l'ossessione) nelle foto di W. Eugene Smith"
-slug = "pittsburgh_smith"
-description = "Analisi di alcuni scatti fatti da W. Eugene Smith nel suo monumentale progetto su Pittsburgh"
-writer = ""
-weight = 1
-+++
+---
+title: "La città, l'industria (e l'ossessione) nelle foto di W. Eugene Smith"
+slug: "pittsburgh_smith"
+date: 2019-08-05T06:00:00+02:00
+# weight: 1 - to pin posts
+# aliases: ["/first"]
+tags: [""]
+categories: [""]
+author: ""
+# author: ["Me", "You"] # multiple authors
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: "Analisi di alcuni scatti fatti da W. Eugene Smith nel suo monumentale progetto su Pittsburgh"
+disableHLJS: true # to disable highlightjs
+disableShare: false
+disableHLJS: false
+searchHidden: false
+cover:
+    image: "img/0x2/0x2_smith_cover.jpg" # image path/url
+    alt: "" # alt text
+    caption: "" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
+---
 
 Nuova puntata di Fotoradio dedicata a W. Eugene Smith e ai suoi scatti su Pittsburgh: la città, l'industria e l'ossessione.
 <!--more-->

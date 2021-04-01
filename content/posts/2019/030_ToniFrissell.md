@@ -1,14 +1,31 @@
-+++
-showonlyimage = true
-draft = false
-image = "img/0x3/0x3_frissell_cover.jpg"
-date = "2019-08-19T06:00:00+02:00"
-title = "Fotografia di moda e emancipazione femminile (Toni Frissell)"
-slug = "moda_frissell"
-description = "Una foto di Toni Frissell pubblicata nel 1935 da Vogue rivoluziona la fotografia di moda e aiuta l'emancipazione femminile in America"
-writer = ""
-weight = 1
-+++
+---
+title: "Fotografia di moda e emancipazione femminile (Toni Frissell)"
+slug: "moda_frissell"
+date: 2019-08-19T06:00:00+02:00
+# weight: 1 - to pin posts
+# aliases: ["/first"]
+tags: [""]
+categories: [""]
+author: ""
+# author: ["Me", "You"] # multiple authors
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: "Una foto di Toni Frissell pubblicata nel 1935 da Vogue rivoluziona la fotografia di moda e aiuta l'emancipazione femminile in America"
+disableHLJS: true # to disable highlightjs
+disableShare: false
+disableHLJS: false
+searchHidden: false
+cover:
+    image: "img/0x3/0x3_frissell_cover.jpg" # image path/url
+    alt: "" # alt text
+    caption: "" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
+---
+
 
 Nuova puntata di Fotoradio dedicata a uno scatto di Toni Frissell, pubblicato nel 1935 da Vogue.
 <!--more-->
