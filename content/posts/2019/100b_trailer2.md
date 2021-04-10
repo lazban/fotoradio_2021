@@ -1,8 +1,37 @@
+---
+title: "Fotonews #09 - NAGASAKI"
+slug: "09_nagasaki"
+date: 2020-04-19T07:00:00+02:00
+# weight: 1 - to pin posts
+# aliases: ["/first"]
+tags: ["Yamahata"]
+categories: ["storia"]
+author: ""
+# author: ["Me", "You"] # multiple authors
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: "Parliamo delle fotografie che raccontano la tragedia di Nagasaki"
+disableHLJS: true # to disable highlightjs
+disableShare: false
+disableHLJS: false
+searchHidden: false
+cover:
+    image: "/images/2020/news09/nagasaki_cover.jpg" # image path/url
+    alt: "una foto di Yosuke Yamahata del 10 agosto 1945" # alt text
+    caption: "una foto di Yosuke Yamahata del 10 agosto 1945" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
+
+---
+
 +++
 showonlyimage = true
 draft = false
 image = "img/ANTROPOCENE/anthro_00b_cover.jpeg"
-date = "2020-04-19T07:00:00+02:00"
+date = ""
 title = "Fotoradio - new season"
 slug = "antropocene"
 description = "parliamo di cosa parlerà la nuova stagione di Fotoradio"

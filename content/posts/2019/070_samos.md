@@ -1,8 +1,37 @@
+---
+title: "Fotonews #09 - NAGASAKI"
+slug: "09_nagasaki"
+date: 2019-09-17T06:00:00+02:00
+# weight: 1 - to pin posts
+# aliases: ["/first"]
+tags: ["Yamahata"]
+categories: ["storia"]
+author: ""
+# author: ["Me", "You"] # multiple authors
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: "Parliamo delle fotografie che raccontano la tragedia di Nagasaki"
+disableHLJS: true # to disable highlightjs
+disableShare: false
+disableHLJS: false
+searchHidden: false
+cover:
+    image: "/images/2020/news09/nagasaki_cover.jpg" # image path/url
+    alt: "una foto di Yosuke Yamahata del 10 agosto 1945" # alt text
+    caption: "una foto di Yosuke Yamahata del 10 agosto 1945" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
+
+---
+
 +++
 showonlyimage = true
 draft = false
 image = "img/0x7/0x7-cover.jpg"
-date = "2019-09-17T06:00:00+02:00"
+date = ""
 title = "Attraverso i nostri occhi (nel campo di Samos)"
 slug = "samos"
 description = "documentare la vita in un campo profughi attraverso gli occhi di chi ci vive. Da Samos, Grecia, l'ong Still I Rise ha creato un progetto fotografico"

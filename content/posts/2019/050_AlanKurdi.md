@@ -1,8 +1,37 @@
+---
+title: "Fotonews #09 - NAGASAKI"
+slug: "09_nagasaki"
+date: 2019-09-03T05:00:00+02:00
+# weight: 1 - to pin posts
+# aliases: ["/first"]
+tags: ["Yamahata"]
+categories: ["storia"]
+author: ""
+# author: ["Me", "You"] # multiple authors
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: "Parliamo delle fotografie che raccontano la tragedia di Nagasaki"
+disableHLJS: true # to disable highlightjs
+disableShare: false
+disableHLJS: false
+searchHidden: false
+cover:
+    image: "/images/2020/news09/nagasaki_cover.jpg" # image path/url
+    alt: "una foto di Yosuke Yamahata del 10 agosto 1945" # alt text
+    caption: "una foto di Yosuke Yamahata del 10 agosto 1945" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
+
+---
+
 +++
 showonlyimage = true
 draft = false
 image = "img/0x5/0x5_cover.jpg"
-date = "2019-09-03T05:00:00+02:00"
+date = ""
 title = "La foto e il sacrificio di Alan Kurdi"
 slug = "alan_kurdi"
 description = "Come la foto di Alan Kurdi ha cambiato (o forse no) la percezione sui migranti"
