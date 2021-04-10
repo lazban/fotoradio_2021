@@ -50,7 +50,7 @@ C'è anche un [**Canale Youtube**](https://www.youtube.com/channel/UCiaiddtEOdYK
 
 Se vuoi rimanere in aggiornato con le novità del sito e le nuove puntate del podcast, puoi iscriverti alla [**Newsletter**](https://fotoradio.substack.com) di Fotoradio (il servizio è offerto da Substack che tratta i dati secondo le privacy policy al link indicato; puoi cancellarti in ogni momento e, ovviamente, niente spam).
 
-Se invece volete mandare un messaggio istantaneo, [usate questo form](https://forms.gle/8XriPxFcx43We6uS6). I dati saranno utilizzati solo per eventuale risposta e non per altro.
+Se invece volete mandare un messaggio istantaneo, [usate questo **google form**](https://forms.gle/8XriPxFcx43We6uS6). I dati saranno utilizzati solo per eventuale risposta e non per altro.
 
 
 <!--

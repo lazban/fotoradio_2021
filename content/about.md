@@ -93,9 +93,19 @@ e poi ci sono io, **Alessandro** che mi diverto a fare questo esperimento tra fo
 
 
 - - -
+## Roadmap
+Quando viene pubblicata ogni puntata?
+Purtroppo non è sempre facile da prevedere perché dipende dal tempo che ci metto a studiare i vari argomenti e da fattori esterni.
+Qui però c'è una roadmap per i più curiosi.
+
+{{< roadmap >}}
+
+vuoi lasciare un suggerimento per le prossime puntate. Usa [questo **google form** anonimo](https://forms.gle/1VdVNa45YEbxma2a8).
+
+- - -
 ## english language visitors?
 
 Fotoradio is an italian language podcast dedicated to photographs.
-In this website we show pictures we talk about in the show and we credit owners. We refer to the Fair Use as stated in the US Copyright Act. Please check [this page](https://fotoradio.info/static_page/fair_use/) for more information.
+In this website we show pictures we talk about in the show and we credit owners. We refer to the Fair Use as stated in the US Copyright Act. Please check [this page](/static_page/fair_use/) for more information.
 
-If you like to get in touch, please check all social [**contacts**](https://fotoradio.info/contact/).
+If you like to get in touch, please check all social [**contacts**](/contact/).
