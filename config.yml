@@ -70,6 +70,17 @@ params:
 
 
     # home-info mode
+    homeInfoParams:
+        Title: "un blog per parlare di fotografie"
+        Content: >
+            Benvenuti e benvenute su **Fotoradio.info**, un [podcast](/static_page/listen/), una [newsletter](https://fotoradio.substack.com/) e un [blog](/archives/) per parlare di fotografie. Leggi o ascolta e facci sapere cosa ne pensi !
+    socialIcons:
+        - name: telegram
+          url: "https://t.me/fotoradio"
+        - name: RsS
+          url: "index.xml"
+
+
     # socialIcons
 
     analytics:

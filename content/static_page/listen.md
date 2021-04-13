@@ -26,11 +26,11 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-Se vuoi ascoltare Fotoradio qui ci sono tutti i link per collegarti alla tua piattaforma preferita.
+Puoi ascoltare l'ultima puntata pubblicata direttamente qui.
 
-Dal momento della pubblicazione della puntata può passare qualche ora prima che sia disponibile sulle piattaforme esterne a Spreaker.
+{{< spreaker 43858754 dark >}}
 
-Puoi ascoltare Fotoradio su:
+Oppure sulla tua piattaforma preferita:
 
 - [**Spotify**](https://links.fotoradio.info/spotify)
 
@@ -44,6 +44,8 @@ ma anche su:
 
 su [**Castbox**](https://castbox.fm/channel/Fotoradio-un-podcast-sulle-fotografie-id2203635?country=it); [**Deezer**](https://www.deezer.com/it/show/419562); [**Overcast**](https://overcast.fm/itunes1473090985); [**Pocketcast**](https://pca.st/itunes/1473090985); [**Podcast Addict**](https://podcastaddict.com/podcast/2413816); [**Podchaser**](https://www.podchaser.com/podcasts/fotoradio-un-podcast-sulle-fot-894285).
 
-e anche direttamente sulle pagine del blog [**Fotoradio**](https://fotoradio.info).
+Dal momento della pubblicazione della puntata può passare qualche ora prima che sia disponibile sulle piattaforme esterne a Spreaker.
+
+I singoli episodi sono ascoltabili anche dalle pagine del blog [**Fotoradio**](https://fotoradio.info).
 
 Se vuoi mandare un messaggio vai nell'area [Contatti](/contact/) e se vuoi saperne di più nell'area [About](/about/).
