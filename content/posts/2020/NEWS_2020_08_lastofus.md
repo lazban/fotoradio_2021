@@ -1,11 +1,11 @@
 ---
-title: "Fotonews #09 - NAGASAKI"
-slug: "09_nagasaki"
-date: 2020-08-01T11:30:03+00:00
+title: "FOTONEWS #08: The Last of Us"
+slug: "news08_thelastofus"
+date: 2020-07-01T11:30:03+00:00
 # weight: 1 - to pin posts
 # aliases: ["/first"]
-tags: ["Yamahata"]
-categories: ["storia"]
+tags: [""]
+categories: ["cronaca"]
 author: ""
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -13,31 +13,19 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Parliamo delle fotografie che raccontano la tragedia di Nagasaki"
+description: "Parliamo di fotografie partendo da un videogioco: The Last of Us"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 searchHidden: false
 cover:
-    image: "/images/2020/news09/nagasaki_cover.jpg" # image path/url
+    image: "/images/2020/news08/0 blog.jpg" # image path/url
     alt: "una foto di Yosuke Yamahata del 10 agosto 1945" # alt text
     caption: "una foto di Yosuke Yamahata del 10 agosto 1945" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 
 ---
-
-+++
-showonlyimage = true
-draft = false
-image = "img/NEWS/news08/0 blog.jpg"
-date = ""
-title = "FOTONEWS #08: The Last of Us"
-slug = "news08_thelastofus"
-description = "Parliamo di fotografie partendo da un videogioco: The Last of Us"
-writer = ""
-weight = 1
-+++
 
 In questa puntata delle fotonews parliamo di fotografie, prendendo spunto da un videogioco, _The Last of Us_, che propone dei temi forti su come la società potrebbe evolversi se raggiungerà condizioni estreme.
 
@@ -110,7 +98,7 @@ Parlando di ghetti, è imprescindibile il lavoro sui **Manicomi** di Gianni Bere
 
 **In festa** è un lavoro monumentale che presenta fotografie tra gli anni '50 e il 2000, dal nord al sud d'Italia. E in questo lavoro trovano anche spazio due scatti presi in un campo rom.
 
-{{< figure src="/img/NEWS/news08/1 firenze93.jpg" caption="⬆︎ Campo Rom Firenze, Gianni Berengo Gardin, 1993</br> ">}}
+{{< figure src="/images/2020/news08/1 firenze93.jpg" caption="⬆︎ Campo Rom Firenze, Gianni Berengo Gardin, 1993</br> ">}}
 
 _In festa_ è anche un volume, a catalogo per Contrasto -> https://amzn.to/2XfTSaV
 
@@ -119,7 +107,7 @@ _In festa_ è anche un volume, a catalogo per Contrasto -> https://amzn.to/2XfTS
 
 Heinrich Jost è un soldato nazista di cui racconta un libro di Susie Lindfield, _La luce crudele - fotografia e violenza politica_, edito da Contrasto nel 2013 (-> https://amzn.to/2ZaeLVO).
 
-{{< figure src="/img/NEWS/news08/2 jost.jpeg" caption="⬆︎ Donna nel ghetto di Varsavia, Heinrich Jost, 1941</br> ">}}
+{{< figure src="/images/2020/news08/2 jost.jpeg" caption="⬆︎ Donna nel ghetto di Varsavia, Heinrich Jost, 1941</br> ">}}
 
 
 ## Natura
@@ -132,9 +120,9 @@ https://www.cortonaonthemove.com/exhibit/daniele-ratti/
 
 Nel suo lavoro Ratti ci mostra come luoghi usualmente affollati sono diventati deserti e come questo ci appaia estraniante (anche grazie a scelte azzeccate dal punto di vista cromatico e dell'illuminazione).
 
-{{< figure src="/img/NEWS/news08/3 ratti1.jpeg" caption="⬆︎ Daniele Ratti, 2020</br> ">}}
+{{< figure src="/images/2020/news08/3 ratti1.jpeg" caption="⬆︎ Daniele Ratti, 2020</br> ">}}
 
-{{< figure src="/img/NEWS/news08/4 ratti2.jpeg" caption="⬆︎ Daniele Ratti, 2020</br> ">}}
+{{< figure src="/images/2020/news08/4 ratti2.jpeg" caption="⬆︎ Daniele Ratti, 2020</br> ">}}
 
 Il sito personale del fotografo --> https://www.danieleratti.it/
 
@@ -144,9 +132,9 @@ Simon Yeung non si trova sui libri di storia della fotografia ma su instagram (-
 
 Yeung realizza i suoi scatti in luoghi abbandonati, dove l'incuria ha progressivamente distrutto le costruzioni dell'uomo e dove la natura si è ripresa lo spazio disabitato.
 
-{{< figure src="/img/NEWS/news08/5 yeung1.jpeg" caption="⬆︎ Simon Yeung</br> ">}}
+{{< figure src="/images/2020/news08/5 yeung1.jpeg" caption="⬆︎ Simon Yeung</br> ">}}
 
-{{< figure src="/img/NEWS/news08/6 yeung2.jpeg" caption="⬆︎ Simon Yeung</br> ">}}
+{{< figure src="/images/2020/news08/6 yeung2.jpeg" caption="⬆︎ Simon Yeung</br> ">}}
 
 
 ## Famiglia
@@ -156,7 +144,7 @@ Yeung realizza i suoi scatti in luoghi abbandonati, dove l'incuria ha progressiv
 
 Di Elliott Erwitt abbiamo già parlato e la sua produzione è talmente estesa e interessante che sicuramente ne riparleremo in futuro. Qui presentiamo uno scatto visto nella mostra _Family_ vista al Mudec di Milano qualche mese fa.
 
-{{< figure src="/img/NEWS/news08/7 erwitt.jpeg" caption="⬆︎ Elliott Erwitt, New York, 1953</br> ">}}
+{{< figure src="/images/2020/news08/7 erwitt.jpeg" caption="⬆︎ Elliott Erwitt, New York, 1953</br> ">}}
 
 Se c'è una foto che racconta l'intensità dei rapporti umani e, nello specifico, dell'amore fra madre e figlie, beh, è questa. Qui Lucienne, la prima moglie di Erwitt, guarda in uno stato di adorazione sua figlia Jennifer.
 
@@ -170,7 +158,7 @@ Introduciamo qui un nuovo ambito dell'arte fotografica: la _Virtual Photography_
 
 Cristiano Bonora è il creatore di Vertical Gaming Photography (--> https://www.verticalgamingphotography.com/) dove ci sono diverse _gallery_ dedicate a molti videogiochi, fra i quali anche _The last of us parte seconda_.
 
-{{< figure src="/img/NEWS/news08/8 bonora.jpeg" caption="⬆︎ Cristiano Bonora, _The last of us parte seconda_, 2020</br> ">}}
+{{< figure src="/images/2020/news08/8 bonora.jpeg" caption="⬆︎ Cristiano Bonora, _The last of us parte seconda_, 2020</br> ">}}
 
 Le emozioni di queste foto emergono come nelle foto _vere_ e alcune composizioni e giochi di luce sono notevoli. In questo scatto, Ellie, la protagonista del gioco, si porta le mani al viso per la felicità di trovarsi in un parco con ricostruzioni di dinosauri.
 
@@ -187,7 +175,7 @@ Nel futuro distopico di _The last of us_ la specie umana si è divisa in clan e 
 Questo accade anche nel nostro mondo. Ad esempio in Messico, nello stato di Guerrero, da dove Alfredo Bosco ha realizzato un bel reportage che ritroveremo anche nella puntata dedicata al _Visa pour l'image_ di Perpignan.
 In questi villaggi la gente comune deve armarsi per combattere le bande criminali.
 
-{{< figure src="/img/NEWS/news08/9 bosco.jpeg" caption="⬆︎ Alfredo Bosco, 2019</br> ">}}
+{{< figure src="/images/2020/news08/9 bosco.jpeg" caption="⬆︎ Alfredo Bosco, 2019</br> ">}}
 
 </br>
 
