@@ -1,11 +1,11 @@
 ---
-title: "Fotonews #09 - NAGASAKI"
-slug: "09_nagasaki"
+title: "Fotoradio/ Antropocene trailer - Dance of the clairvoyants"
+slug: "clairvoyants"
 date: 2020-01-27T07:00:00+02:00
 # weight: 1 - to pin posts
 # aliases: ["/first"]
-tags: ["Yamahata"]
-categories: ["storia"]
+tags: [""]
+categories: [""]
 author: ""
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -13,31 +13,19 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Parliamo delle fotografie che raccontano la tragedia di Nagasaki"
+description: "la nuova stagione di Fotoradio è alle porte mentre i Pearl Jam cantano di clairvoyants"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 searchHidden: false
 cover:
-    image: "/images/2020/news09/nagasaki_cover.jpg" # image path/url
+    image: "/images/2021/ANTROPOCENE/dance of clairvoyants.jpeg" # image path/url
     alt: "una foto di Yosuke Yamahata del 10 agosto 1945" # alt text
     caption: "una foto di Yosuke Yamahata del 10 agosto 1945" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 
 ---
-
-+++
-showonlyimage = true
-draft = false
-image = "img/ANTROPOCENE/dance of clairvoyants.jpeg"
-date = ""
-title = "Fotoradio/ Antropocene trailer - Dance of the clairvoyants"
-slug = "clairvoyants"
-description = "la nuova stagione di Fotoradio è alle porte mentre i Pearl Jam cantano di clairvoyants"
-writer = ""
-weight = 1
-+++
 
 _I'm in love with clairvoyants because they are out of this world_
 <!--more-->
