@@ -1,10 +1,10 @@
 ---
-title: "Fotonews #09 - NAGASAKI"
-slug: "09_nagasaki"
+title: "Attraverso i nostri occhi (nel campo di Samos)"
+slug: "samos"
 date: 2019-09-17T06:00:00+02:00
 # weight: 1 - to pin posts
 # aliases: ["/first"]
-tags: ["Yamahata"]
+tags: [""]
 categories: ["storia"]
 author: ""
 # author: ["Me", "You"] # multiple authors
@@ -13,31 +13,19 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Parliamo delle fotografie che raccontano la tragedia di Nagasaki"
+description: "Samos è una bella isola greca, a pochi chilometri dalla costa turca dove, da qualche anno, ha trovato posto un campo di prima accoglienza per migranti."
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 searchHidden: false
 cover:
-    image: "/images/2020/news09/nagasaki_cover.jpg" # image path/url
-    alt: "una foto di Yosuke Yamahata del 10 agosto 1945" # alt text
-    caption: "una foto di Yosuke Yamahata del 10 agosto 1945" # display caption under cover
+    image: "/images/2019/0x7/0x7-cover.jpg" # image path/url
+    alt: "documentare la vita in un campo profughi attraverso gli occhi di chi ci vive. Da Samos, Grecia, l'ong Still I Rise ha creato un progetto fotografico" # alt text
+    caption: "documentare la vita in un campo profughi attraverso gli occhi di chi ci vive. Da Samos, Grecia, l'ong Still I Rise ha creato un progetto fotografico" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 
 ---
-
-+++
-showonlyimage = true
-draft = false
-image = "img/0x7/0x7-cover.jpg"
-date = ""
-title = "Attraverso i nostri occhi (nel campo di Samos)"
-slug = "samos"
-description = "documentare la vita in un campo profughi attraverso gli occhi di chi ci vive. Da Samos, Grecia, l'ong Still I Rise ha creato un progetto fotografico"
-writer = ""
-weight = 1
-+++
 
 Samos è una bella isola greca, a pochi chilometri dalla costa turca dove, da qualche anno, ha trovato posto un campo di prima accoglienza per migranti.
 <!--more-->
@@ -59,18 +47,18 @@ Se volete lasciare un commento (grazie!), andate nella sezione <a href="/contact
 Sono foto fatte con macchinette usa e getta da bambini del campo di accoglienza di Samos. Eppure valgono l'attenzione. Per la storia che raccontano e per la condivisione di quegli sguardi.
 
 <!--
-{{< figure src="/img/0x7/0x7 samos_omid.jpg" caption="⬆︎ _Operazione Mare Nostrum, la Fregata Bergamini della Marina Militare salva un barcone di 500 migranti al largo della Libia._ © Massimo Sestini<br>* ">}}
+{{< figure src="/images/2019/0x7/0x7 samos_omid.jpg" caption="⬆︎ _Operazione Mare Nostrum, la Fregata Bergamini della Marina Militare salva un barcone di 500 migranti al largo della Libia._ © Massimo Sestini<br>* ">}}
 -->
 
-{{< figure src="/img/0x7/0x7 samos_omid.jpg">}}
+{{< figure src="/images/2019/0x7/0x7 samos_omid.jpg">}}
 
-{{< figure src="/img/0x7/0x7 samos_mahdi.jpg">}}
+{{< figure src="/images/2019/0x7/0x7 samos_mahdi.jpg">}}
 
-{{< figure src="/img/0x7/0x7 samos_zeynab.jpg">}}
+{{< figure src="/images/2019/0x7/0x7 samos_zeynab.jpg">}}
 
-{{< figure src="/img/0x7/0x7 samos_elahe.jpg">}}
+{{< figure src="/images/2019/0x7/0x7 samos_elahe.jpg">}}
 
-{{< figure src="/img/0x7/0x7 samos_samaneh.jpg">}}
+{{< figure src="/images/2019/0x7/0x7 samos_samaneh.jpg">}}
 
 
 

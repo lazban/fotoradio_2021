@@ -27,7 +27,11 @@ cover:
 
 ---
 
+
 Il 15 aprile sono stati annunciati i vincitori dell’edizione 2021 del World Press Photo, il più importante premio per il fotogiornalismo. Hanno partecipato più di 4000 fotografi da 130 paesi e la giuria ha visto passate quasi 75.000 scatti.
+
+<!--more-->
+
 Quest’anno si è parlato un po’ di più del World Press Photo perché ben 3 italiani hanno vinto in qualche categoria.
 E oggi parliamo proprio dei lavori dei 3 fotografi di casa nostra, e delle storie che hanno raccontato.
 
@@ -43,22 +47,19 @@ Oltre che sul sito di [**Spreaker**](https://www.spreaker.com/user/11400220/tour
 
 Se vuoi lasciare un commento (grazie!), vai nella sezione [Contatti](/contact/)
 
-<!--
+
 - - -
 ## Youtube
 
 Una rassegna delle foto di cui parliamo nel podcast sono anche su Youtube (domani)
 
-{{< youtube gwBbDf5jbBE >}}
--->
+{{< youtube OC8zW5G6Das >}}
 
 
-<!--
 - - -
 ## Newsletter
 
-Gli scatti e i testi sono anche raccolti in una newsletter su [**Substack**](https://fotoradio.substack.com/)
--->
+Gli scatti e i testi sono anche raccolti in una newsletter su [**Substack**](https://fotoradio.substack.com/p/fotobreak-3-italiani-premiati-al)
 
 <br />
 
@@ -67,33 +68,27 @@ Gli scatti e i testi sono anche raccolti in una newsletter su [**Substack**](htt
 
 ## Gabriele Galimberti, Ameriguns
 
-**Peter Turnley**, classe 1955, fotogiornalista americano che vive fra New York e Parigi, si è trovato bloccato nella grande mela nel periodo di lockdown dovuto al corona virus e ha deciso di tenere un _diario visivo_.
+Ameriguns parla del possesso delle armi detenute da privati cittadini americani.
 
-* [sito Turnley](http://www.peterturnley.com/)
-
-{{< figure src="/images/2021/break2104/2104_galimberti.png" align="center" caption="⬆︎ ritaglio da una foto di: Gabriele Galimberti</br> ">}}
+{{< figure src="/img/break/break2104/2104_galimberti.png" align="center" caption="⬆︎ ritaglio da una foto di: Gabriele Galimberti</br> ">}}
 
 </br>
 
 
 ## Antonio Faccilongo, Habibi
 
-**Peter Turnley**, classe 1955, fotogiornalista americano che vive fra New York e Parigi, si è trovato bloccato nella grande mela nel periodo di lockdown dovuto al corona virus e ha deciso di tenere un _diario visivo_.
+Habibi, _amore mio_ in arabo, parla dei detenuti palestinesi nelle carceri israeliane e degli affetti che hanno lasciato a casa.
 
-* [sito Turnley](http://www.peterturnley.com/)
-
-{{< figure src="/images/2021/break2104/2104_faccilongo.png" align="center" caption="⬆︎ ritaglio da una foto di: Antonio Faccilongo</br> ">}}
+{{< figure src="/img/break/break2104/2104_faccilongo.png" align="center" caption="⬆︎ ritaglio da una foto di: Antonio Faccilongo</br> ">}}
 
 <br />
 
 
 ## Lorenzo Tugnoli, Port explosion in Beirut
 
-**Peter Turnley**, classe 1955, fotogiornalista americano che vive fra New York e Parigi, si è trovato bloccato nella grande mela nel periodo di lockdown dovuto al corona virus e ha deciso di tenere un _diario visivo_.
+Nell'agosto del 2020 un'esplosione ha devastato una parte di Beirut.
 
-* [sito Turnley](http://www.peterturnley.com/)
-
-{{< figure src="/images/2021/break2104/2104_tugnoli.png" align="center" caption="⬆︎ Ritaglio da una foto di: Lorenzo Tugnoli</br> ">}}
+{{< figure src="/img/break/break2104/2104_tugnoli.png" align="center" caption="⬆︎ Ritaglio da una foto di: Lorenzo Tugnoli</br> ">}}
 
 </br>
 
@@ -154,10 +149,15 @@ Inoltre, nel podcast dico che Raqqa è in Iraq mentre invece è in Siria.
 
 LINK PER APPROFONDIMENTI:
 - La serie di Galimberti, [Ameriguns](https://www.worldpressphoto.org/collection/photo/2021/41406/1/Gabriele-Galimberti)
+
 - Sparatoria di Indianapolis del 15 aprile 2021 sul [New York Times](https://www.nytimes.com/live/2021/04/16/us/indianapolis-fedex-shooting)
+
 - La serie di Faccilongo, [Habibi](https://www.worldpressphoto.org/collection/photo/2021/41438/1/Antonio-Faccilongo-SOYN)
+
 - La serie di Tugnoli, [Port Explosion in Beirut](https://www.worldpressphoto.org/collection/photo/2021/41394/1/Lorenzo-Tugnoli)
+
 - Un articolo sull’esplosione di Beirut su [Internazionale](https://www.internazionale.it/notizie/2020/08/05/beirut-esplosione-libano)
+
 - Tutti i premi del [World Press Photo 2021](https://www.worldpressphoto.org/news/2021/contests-category-winners)
 
 - - -

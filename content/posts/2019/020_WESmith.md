@@ -1,11 +1,11 @@
 ---
 title: "La città, l'industria (e l'ossessione) nelle foto di W. Eugene Smith"
 slug: "pittsburgh_smith"
-date: 2019-08-05T06:00:00+02:00
+date: 2019-08-13T06:00:00+02:00
 # weight: 1 - to pin posts
 # aliases: ["/first"]
-tags: [""]
-categories: [""]
+tags: ["Smith"]
+categories: ["fotografi"]
 author: ""
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -19,7 +19,7 @@ disableShare: false
 disableHLJS: false
 searchHidden: false
 cover:
-    image: "img/0x2/0x2_smith_cover.jpg" # image path/url
+    image: "/images/2019/0x2/0x2_smith_cover.jpg" # image path/url
     alt: "" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -47,17 +47,17 @@ Se volete lasciare un commento (grazie!), andate nella sezione <a href="/contact
 
 Le foto di cui parliamo nell'episodio sono tutte tratte dalla pubblicazione originale del "Photography Annual 1959", una rivista alla quale Smith si rivolse dopo aver rifiutato l'offerta di "Life".
 
-{{< figure src="/img/0x2/eugenesmith01_cover.jpg" caption="⬆︎ La copertina di _Photography Annual 1959_<br>* ">}}
+{{< figure src="/images/2019/0x2/eugenesmith01_cover.jpg" caption="⬆︎ La copertina di _Photography Annual 1959_<br>* ">}}
 
 All'interno del fascicolo ci sono 38 pagine curate da Eugene Smith stesso, nell'impaginazione, nella scrittura dei testi e nella scelta delle foto.
 
 Tre di queste sono oggetto della puntata odierna di Fotoradio:
 
-{{< figure src="/img/0x2/eugenesmith02_smog.jpg" caption="⬆︎ _University of Pittsburgh's 'Cathedral,' St. Paul's spires landmark Oakland area_ (1956-1957), come scrive lo stesso Smith sulla rivista<br>* ">}}
+{{< figure src="/images/2019/0x2/eugenesmith02_smog.jpg" caption="⬆︎ _University of Pittsburgh's 'Cathedral,' St. Paul's spires landmark Oakland area_ (1956-1957), come scrive lo stesso Smith sulla rivista<br>* ">}}
 
-{{< figure src="/img/0x2/eugenesmith03_fornaci.jpg" caption="⬆︎ un forgiatore (senza didascalia, 1956-1957)<br>* ">}}
+{{< figure src="/images/2019/0x2/eugenesmith03_fornaci.jpg" caption="⬆︎ un forgiatore (senza didascalia, 1956-1957)<br>* ">}}
 
-{{< figure src="/img/0x2/eugenesmith04_strada.jpg" caption="⬆︎ una coppia attraversa una strada di Pittsburgh (senza didascalia, 1956-1957) <br>* ">}}
+{{< figure src="/images/2019/0x2/eugenesmith04_strada.jpg" caption="⬆︎ una coppia attraversa una strada di Pittsburgh (senza didascalia, 1956-1957) <br>* ">}}
 
 Tutte le foto sono © W. Eugene Smith / Magnum Photos. Guarda la nostra nota sul <a target="blank" href="/static_page/fair_use/">Fair Use</a>
 

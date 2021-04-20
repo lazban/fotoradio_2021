@@ -28,7 +28,7 @@ cover:
 
 Puoi ascoltare l'ultima puntata pubblicata direttamente qui.
 
-{{< spreaker 43858754 dark >}}
+{{< spreaker 44382767 dark >}}
 
 Oppure sulla tua piattaforma preferita:
 

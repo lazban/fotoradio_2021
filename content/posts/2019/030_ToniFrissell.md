@@ -1,7 +1,7 @@
 ---
 title: "Fotografia di moda e emancipazione femminile (Toni Frissell)"
 slug: "moda_frissell"
-date: 2019-08-19T06:00:00+02:00
+date: 2019-08-20T06:00:00+02:00
 # weight: 1 - to pin posts
 # aliases: ["/first"]
 tags: [""]
@@ -19,7 +19,7 @@ disableShare: false
 disableHLJS: false
 searchHidden: false
 cover:
-    image: "img/0x3/0x3_frissell_cover.jpg" # image path/url
+    image: "/images/2019/0x3/0x3_frissell_cover.jpg" # image path/url
     alt: "" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -46,11 +46,11 @@ Se volete lasciare un commento (grazie!), andate nella sezione <a href="/contact
 
 La foto principale della puntata è la seguente
 
-{{< figure src="/img/0x3/0x3_frissell_01.jpg" caption="⬆︎ le 5 ragazze di Toni Frissell, apparse su Vogue nell'agosto del 1935<br>* ">}}
+{{< figure src="/images/2019/0x3/0x3_frissell_01.jpg" caption="⬆︎ le 5 ragazze di Toni Frissell, apparse su Vogue nell'agosto del 1935<br>* ">}}
 
 In chiusura di episodio, facciamo anche una incursione nella vita privata di Frissell con questo scatto:
 
-{{< figure src="/img/0x3/0x3_frissell_02.jpg" caption="⬆︎ Toni Frissell al lavoro con suo marito Mac che gioca con la figlia Sidney, foto di Frances McGloughlin-Gill<br>* ">}}
+{{< figure src="/images/2019/0x3/0x3_frissell_02.jpg" caption="⬆︎ Toni Frissell al lavoro con suo marito Mac che gioca con la figlia Sidney, foto di Frances McGloughlin-Gill<br>* ">}}
 
 Tutte le foto sono © Sidney Frissell Stafford.
 

@@ -1,11 +1,11 @@
 ---
 title: "Fotografia e Climate Change (Gideon Mendel)"
 slug: "climate_change_mendel"
-date: 2019-08-05T06:00:00+02:00
+date: 2019-08-06T06:00:00+02:00
 # weight: 1 - to pin posts
 # aliases: ["/first"]
-tags: [""]
-categories: [""]
+tags: ["mendel"]
+categories: ["fotografi"]
 author: ""
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -19,7 +19,7 @@ disableShare: false
 disableHLJS: false
 searchHidden: false
 cover:
-    image: "img/0x1/climate_cover.jpg" # image path/url
+    image: "/images/2019/0x1/climate_cover.jpg" # image path/url
     alt: "" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -45,15 +45,15 @@ Se volete lasciare un commento (grazie!), andate nella sezione <a href="/contact
 
 Nell'episodio parliamo di tre ritratti di Mendel che son questi:
 
-{{< figure src="/img/0x1/gideon01.jpg" caption="⬆︎ Francisca Chagas dos Santos, Rio Branco, Brasile, Marzo 2015 <br>* ">}}
+{{< figure src="/images/2019/0x1/gideon01.jpg" caption="⬆︎ Francisca Chagas dos Santos, Rio Branco, Brasile, Marzo 2015 <br>* ">}}
 
-{{< figure src="/img/0x1/gideon02.jpg" caption="⬆︎ Ahmed, Khairpur Nathan Shah, Pakistan, Settembre 2010 <br>* ">}}
+{{< figure src="/images/2019/0x1/gideon02.jpg" caption="⬆︎ Ahmed, Khairpur Nathan Shah, Pakistan, Settembre 2010 <br>* ">}}
 
-{{< figure src="/img/0x1/gideon03.jpg" caption="⬆︎ Jeff e Tracey Waters, Staines-upon-Thames, Inghilterra, Febbraio 2014 <br>* ">}}
+{{< figure src="/images/2019/0x1/gideon03.jpg" caption="⬆︎ Jeff e Tracey Waters, Staines-upon-Thames, Inghilterra, Febbraio 2014 <br>* ">}}
 
 Gli scatti qui sopra fanno parte della serie _Submerged Portraits_ visionabile sul sito di Gideon Mendel seguendo <a target="blank" href="http://gideonmendel.com/submerged-portraits/">link</a>.
 
-{{< figure src="/img/0x1/gideon04.jpg" caption="⬆︎ Dorika Gabriel e suo figlio Joseph, Mwanza, Tanzania, Luglio 1997 <br>* ">}}
+{{< figure src="/images/2019/0x1/gideon04.jpg" caption="⬆︎ Dorika Gabriel e suo figlio Joseph, Mwanza, Tanzania, Luglio 1997 <br>* ">}}
 
 Questo scatto fa invece parte della serie _A Broken Landscape_ che si può vedere sul sito di Gideon Mendel a <a target="blank" href="http://gideonmendel.com/a-broken-landscape/">questo link</a>.
 
@@ -69,7 +69,7 @@ Due bonus track per questo primo episodio.
 
 Un'immagine di Gideon Mendel mentre scatta i suoi _submerged portraits_ con la sua Rolleiflex
 
-{{< figure src="/img/0x1/gideon05.jpg" caption="⬆︎ Gideon Mendel works in Srinigar, India. Photograph by Gowhar Fazili (come riportato sul National Geographic online Feb 2015 - link nella sezione link)" >}}
+{{< figure src="/images/2019/0x1/gideon05.jpg" caption="⬆︎ Gideon Mendel works in Srinigar, India. Photograph by Gowhar Fazili (come riportato sul National Geographic online Feb 2015 - link nella sezione link)" >}}
 
 Un video, realizzato al seguito del fotografo durante i viaggi per documentare le inondazioni in molte parti del mondo.
 

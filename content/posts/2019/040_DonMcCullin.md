@@ -1,11 +1,11 @@
 ---
-title: "La morte, la guerra e noi nelle foto di Don McCullin)"
+title: "La morte, la guerra e noi nelle foto di Don McCullin"
 slug: "guerra_mccullin"
-date: 2019-08-26T06:00:00+02:00
+date: 2019-08-27T06:00:00+02:00
 # weight: 1 - to pin posts
 # aliases: ["/first"]
-tags: [""]
-categories: [""]
+tags: ["McCullin"]
+categories: ["fotografi"]
 author: ""
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -19,7 +19,7 @@ disableShare: false
 disableHLJS: false
 searchHidden: false
 cover:
-    image: "img/0x4/0X4_mccullin_cover.jpg" # image path/url
+    image: "/images/2019/0x4/0X4_mccullin_cover.jpg" # image path/url
     alt: "" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -59,31 +59,31 @@ Questo articolo si aggiornerà venerdi per inserire tutte le immagini della seco
 
 Per la prima "mezza" puntata, abbiamo una fotografia introduttiva che evidenzia come McCullin fosse uguale a un soldato. Unica differenza, la macchina fotografica invece del mitra.
 
-{{< figure src="/img/0x4/mccullin_00.jpg" caption="⬆︎ _Don McCullin durante la guerra del Vietnam nel 1968_ fotografato da Nick Wheeler<br>* ">}}
+{{< figure src="/images/2019/0x4/mccullin_00.jpg" caption="⬆︎ _Don McCullin durante la guerra del Vietnam nel 1968_ fotografato da Nick Wheeler<br>* ">}}
 
 Nella prima parte dell'episodio vediamo due fotografie, scattate nel quartiere Turco di Limassol, Cipro, nel 1064.
 
-{{< figure src="/img/0x4/mccullin_01.jpg" caption="⬆︎ _La milizia turca passa da una uscita laterale di un cinema_, Limassol, Cipro, 1964<br>* ">}}
+{{< figure src="/images/2019/0x4/mccullin_01.jpg" caption="⬆︎ _La milizia turca passa da una uscita laterale di un cinema_, Limassol, Cipro, 1964<br>* ">}}
 
-{{< figure src="/img/0x4/mccullin_02.jpg" caption="⬆︎ _Una donna turca con suo figlio, nel momento in cui apprende della morte di suo marito, ucciso dalla milizia greca_, Ghaziveram, Cipro, 1964<br>* ">}}
+{{< figure src="/images/2019/0x4/mccullin_02.jpg" caption="⬆︎ _Una donna turca con suo figlio, nel momento in cui apprende della morte di suo marito, ucciso dalla milizia greca_, Ghaziveram, Cipro, 1964<br>* ">}}
 
 
 Nell'episodio parliamo anche delle "persone che guardano" nelle foto di Don McCullin, prendendo 3 esempi:
 
-{{< figure src="/img/0x4/mccullin_02a.jpg" caption="⬆︎ donna turca (vedi didascalia precedente)<br>* ">}}
+{{< figure src="/images/2019/0x4/mccullin_02a.jpg" caption="⬆︎ donna turca (vedi didascalia precedente)<br>* ">}}
 
-{{< figure src="/img/0x4/mccullin_02b.jpg" caption="⬆︎ _una famiglia turca veglia il corpo di un pastore ucciso da un cecchino greco_, Limassol, Cipro, 1964<br>* ">}}
+{{< figure src="/images/2019/0x4/mccullin_02b.jpg" caption="⬆︎ _una famiglia turca veglia il corpo di un pastore ucciso da un cecchino greco_, Limassol, Cipro, 1964<br>* ">}}
 
-{{< figure src="/img/0x4/mccullin_02c.jpg" caption="⬆︎ _Cambogia, 1972_<br>* ">}}
+{{< figure src="/images/2019/0x4/mccullin_02c.jpg" caption="⬆︎ _Cambogia, 1972_<br>* ">}}
 
 
 #### 2a parte
 
 Nella seconda parte, guardiamo altre due foto che concludono il nostro discorso su Don McCullin
 
-{{< figure src="/img/0x4/mccullin_03.jpg" caption="⬆︎ _Soldati della forza di pace britannica, trasportano corpi di turchi uccisi dalla milizia greca_, Cipro, 1964<br>* ">}}
+{{< figure src="/images/2019/0x4/mccullin_03.jpg" caption="⬆︎ _Soldati della forza di pace britannica, trasportano corpi di turchi uccisi dalla milizia greca_, Cipro, 1964<br>* ">}}
 
-{{< figure src="/img/0x4/mccullin_04.jpg" caption="⬆︎ _Young Girl Taking the Family Laundry_, Bradford, Yorkshire, 1978<br>* ">}}
+{{< figure src="/images/2019/0x4/mccullin_04.jpg" caption="⬆︎ _Young Girl Taking the Family Laundry_, Bradford, Yorkshire, 1978<br>* ">}}
 
 
 Tutte le foto sono © Don McCullin.

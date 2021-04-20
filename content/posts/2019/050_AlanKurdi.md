@@ -1,10 +1,10 @@
 ---
-title: "Fotonews #09 - NAGASAKI"
-slug: "09_nagasaki"
+title: "La foto e il sacrificio di Alan Kurdi"
+slug: "alan_kurdi"
 date: 2019-09-03T05:00:00+02:00
 # weight: 1 - to pin posts
 # aliases: ["/first"]
-tags: ["Yamahata"]
+tags: [""]
 categories: ["storia"]
 author: ""
 # author: ["Me", "You"] # multiple authors
@@ -13,31 +13,19 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Parliamo delle fotografie che raccontano la tragedia di Nagasaki"
+description: "Nuova puntata di Fotoradio dedicata alla foto del corpo di Alan Kurdi sul bagnasciuga di Bodrum, Turchia."
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 searchHidden: false
 cover:
-    image: "/images/2020/news09/nagasaki_cover.jpg" # image path/url
+    image: "/images/2019/0x5/0x5_cover.jpg" # image path/url
     alt: "una foto di Yosuke Yamahata del 10 agosto 1945" # alt text
     caption: "una foto di Yosuke Yamahata del 10 agosto 1945" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 
 ---
-
-+++
-showonlyimage = true
-draft = false
-image = "img/0x5/0x5_cover.jpg"
-date = ""
-title = "La foto e il sacrificio di Alan Kurdi"
-slug = "alan_kurdi"
-description = "Come la foto di Alan Kurdi ha cambiato (o forse no) la percezione sui migranti"
-writer = ""
-weight = 1
-+++
 
 Nuova puntata di Fotoradio dedicata alla foto del corpo di Alan Kurdi sul bagnasciuga di Bodrum, Turchia.
 <!--more-->
@@ -58,7 +46,7 @@ Se volete lasciare un commento (grazie!), andate nella sezione <a href="/contact
 
 E' una foto che tutti già conosciamo. Scattata da Nilufer Demir, fotografa turca della Dogan News Agency, la mattina del 2 settembre 2015 alle 6.00, sulla spiaggia di Akyarlar vicino Bodrum in Turchia.
 
-{{< figure src="/img/0x5/0x5_alankurdi_00.jpg" caption="⬆︎ _Il corpo di Alan Kurdi, 2 settembre 2015_ fotografato da Nilufer Demir<br>* ">}}
+{{< figure src="/images/2019/0x5/0x5_alankurdi_00.jpg" caption="⬆︎ _Il corpo di Alan Kurdi, 2 settembre 2015_ fotografato da Nilufer Demir<br>* ">}}
 
 Non ho trovato il titolare dei diritti di questa foto. Unici riferimenti la fotografa che ha scattato (Nilufer Demir) e l'agenzia per la quale lavora (Dogan News Agency)
 

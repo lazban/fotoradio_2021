@@ -1,11 +1,11 @@
 ---
-title: "Fotonews #09 - NAGASAKI"
-slug: "09_nagasaki"
+title: "I migranti nel Mediterrano nella foto di Massimo Sestini"
+slug: "massimo_sestini"
 date: 2019-09-09T06:00:00+02:00
 # weight: 1 - to pin posts
 # aliases: ["/first"]
-tags: ["Yamahata"]
-categories: ["storia"]
+tags: ["sestini"]
+categories: ["storia", "fotografi"]
 author: ""
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -13,31 +13,19 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Parliamo delle fotografie che raccontano la tragedia di Nagasaki"
+description: "In questo episodio di Fotoradio guardiamo la fotografia di Massimo Sestini che ha vinto il World Press Photo nel 2015."
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 searchHidden: false
 cover:
-    image: "/images/2020/news09/nagasaki_cover.jpg" # image path/url
-    alt: "una foto di Yosuke Yamahata del 10 agosto 1945" # alt text
-    caption: "una foto di Yosuke Yamahata del 10 agosto 1945" # display caption under cover
+    image: "/images/2019/0x6/0x6_cover.jpg" # image path/url
+    alt: "lo sguardo dei migranti è pieno di speranza nello scatto zenitale di Massimo Sestini" # alt text
+    caption: "lo sguardo dei migranti è pieno di speranza nello scatto zenitale di Massimo Sestini" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 
 ---
-
-+++
-showonlyimage = true
-draft = false
-image = "img/0x6/0x6_cover.jpg"
-date = ""
-title = "I migranti nel Mediterrano nella foto di Massimo Sestini"
-slug = "massimo_sestini"
-description = "lo sguardo dei migranti è pieno di speranza nello scatto zenitale di Massimo Sestini"
-writer = ""
-weight = 1
-+++
 
 In questo episodio di Fotoradio guardiamo la fotografia di Massimo Sestini che ha vinto il World Press Photo nel 2015.
 <!--more-->
@@ -58,13 +46,13 @@ Se volete lasciare un commento (grazie!), andate nella sezione <a href="/contact
 
 E' una foto che probabilmente avete già visto. Scattata il 7 giugno del 2014, immortala un gruppo di migranti su un barcone ma, soprattutto, coglie i sorrisi di sperenza e di sollievo. E dà lo spunto per una serie di storie.
 
-{{< figure src="/img/0x6/0x6_sestini01.jpg" caption="⬆︎ _Operazione Mare Nostrum, la Fregata Bergamini della Marina Militare salva un barcone di 500 migranti al largo della Libia._ © Massimo Sestini<br>* ">}}
+{{< figure src="/images/2019/0x6/0x6_sestini01.jpg" caption="⬆︎ _Operazione Mare Nostrum, la Fregata Bergamini della Marina Militare salva un barcone di 500 migranti al largo della Libia._ © Massimo Sestini<br>* ">}}
 
-{{< figure src="/img/0x6/0x6_sestini02.jpg" caption="⬆︎ dettaglio della foto su citata © Massimo Sestini<br>* ">}}
+{{< figure src="/images/2019/0x6/0x6_sestini02.jpg" caption="⬆︎ dettaglio della foto su citata © Massimo Sestini<br>* ">}}
 
-{{< figure src="/img/0x6/0x6_sestini03.jpg" caption="⬆︎ dettaglio della foto su citata © Massimo Sestini<br>* ">}}
+{{< figure src="/images/2019/0x6/0x6_sestini03.jpg" caption="⬆︎ dettaglio della foto su citata © Massimo Sestini<br>* ">}}
 
-{{< figure src="/img/0x6/0x6_sestini04.jpg" caption="⬆︎ dettaglio della foto su citata © Massimo Sestini<br>* ">}}
+{{< figure src="/images/2019/0x6/0x6_sestini04.jpg" caption="⬆︎ dettaglio della foto su citata © Massimo Sestini<br>* ">}}
 
 Leggi la nostra nota sul <a target="blank" href="/static_page/fair_use/">Fair Use</a>
 
