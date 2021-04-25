@@ -1,5 +1,5 @@
 ---
-title: "Fotonews #10 - LE TOUR DU MONDE"
+title: "fotonews #10 - LE TOUR DU MONDE"
 slug: "news_10_visa"
 date: 2020-09-01T11:30:03+00:00
 # weight: 1 - to pin posts
@@ -33,12 +33,12 @@ Il covid non ha fermato la 32a edizione di _Visa pour l'image_ di Perpignan: dec
 - - -
 ## Ascolta
 
-Le Fotonews sono su [**_Fotoradio - Un podcast che parla di fotografie_**](https://www.spreaker.com/user/11400220/tourdumonde).
+Le Fotonews sono su **_Fotoradio - Un podcast che parla di fotografie_**
 
 {{< spreaker 43858754 dark >}}
 
-Oltre che sul sito di [**Spreaker**](https://www.spreaker.com/user/11400220/tourdumonde), puoi ascoltare le Fotonews anche su
-[**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
+
+Oltre che sul sito di [**Spreaker**](https://links.fotoradio.info/spreaker), puoi ascoltare le Fotonews anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
 Se vuoi lasciare un commento (grazie!), vai nella sezione [Contatti](/contact/)
 

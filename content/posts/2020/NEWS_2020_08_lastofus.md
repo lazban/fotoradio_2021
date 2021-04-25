@@ -1,5 +1,5 @@
 ---
-title: "FOTONEWS #08: The Last of Us"
+title: "fotonews #08: THE LAST OF US"
 slug: "news08_thelastofus"
 date: 2020-07-01T11:30:03+00:00
 # weight: 1 - to pin posts
@@ -20,8 +20,8 @@ disableHLJS: false
 searchHidden: false
 cover:
     image: "/images/2020/news08/0 blog.jpg" # image path/url
-    alt: "una foto di Yosuke Yamahata del 10 agosto 1945" # alt text
-    caption: "una foto di Yosuke Yamahata del 10 agosto 1945" # display caption under cover
+    alt: "una immagine promozionale di The Last of us di Naughty Dog" # alt text
+    caption: "una immagine promozionale di The Last of us di Naughty Dog" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 
@@ -33,21 +33,21 @@ In questa puntata delle fotonews parliamo di fotografie, prendendo spunto da un 
 
 Le Fotonews sono su **_Fotoradio - Un podcast che parla di fotografie_**.
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/43629914" data-resource="episode_id=43629914" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "fotonews #08 - the last of us" su Spreaker.</a>
+{{< spreaker 43629914 dark >}}
 
-Oltre che sul sito di [**Spreaker**](https://www.spreaker.com/user/11400220/tourdumonde), puoi ascoltare le Fotonews anche su
-[**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
+Oltre che sul sito di [**Spreaker**](https://links.fotoradio.info/spreaker), puoi ascoltare le Fotonews anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
-Se vuoi lasciare un commento (grazie!), vai nella sezione <a href="/contact/">Contatti</a>
+Se volete lasciare un commento (grazie!), andate nella pagina dei [contatti](/contact/)
+<br>
 
 
 ### Youtube
 
-Una rassegna delle foto di cui parliamo nel podcast sono anche su Youtube a questo <a target="blank" href="https://youtu.be/iKAvImjAPrM">link</a>
+Una rassegna delle foto di cui parliamo nel podcast sono anche su [Youtube](https://youtu.be/iKAvImjAPrM).
 
 <br>
 
-## puntata # 08 - THE LAST OF US
+## fotonews #08 - THE LAST OF US
 - - -
 
 _The last of us_ è un videogioco, sviluppato da Naughty Dog. La seconda parte è uscita a giugno del 2020 in tutto il mondo e rappresenta il _fil rouge_ di questo episodio.
@@ -68,7 +68,8 @@ Ogni movimento di pad è fatto con la tensione addosso, quanto di più simile ci
 E le tematiche che il gioco propone sono attualissime e controverse e pongono diversi interrogativi al videogiocatore che non potrà affrontarli con leggerezza. Il grado di immedesimazione è talmente alto che _The last of us parte seconda_ è un'esperienza più che un gioco.
 
 Infatti, per quanto ci sia un livello tecnico altissimo (per grafica e intelligenza artificiale), _The last of us_ è giocabile da chiunque sia per la modularità della difficoltà di gioco ma anche per le sue opzioni di accessibilità.
-In questo video, Pierpaolo Greco di Multiplayer.it ne parla (https://www.youtube.com/watch?v=MsY0EScdbv8).
+In questo video, ne parla [Pierpaolo Greco di Multiplayer.it](https://www.youtube.com/watch?v=MsY0EScdbv8).
+
 
 ### ma veniamo alle fotografie
 
@@ -101,12 +102,12 @@ Parlando di ghetti, è imprescindibile il lavoro sui **Manicomi** di Gianni Bere
 
 {{< figure src="/images/2020/news08/1 firenze93.jpg" caption="⬆︎ Campo Rom Firenze, Gianni Berengo Gardin, 1993</br> ">}}
 
-_In festa_ è anche un volume, a catalogo per Contrasto -> https://amzn.to/2XfTSaV
+_In festa_ è anche un volume, a catalogo per Contrasto anche su [Amazon](https://amzn.to/2XfTSaV).
 
 
 ### Heinrch Jost
 
-Heinrich Jost è un soldato nazista di cui racconta un libro di Susie Lindfield, _La luce crudele - fotografia e violenza politica_, edito da Contrasto nel 2013 (-> https://amzn.to/2ZaeLVO).
+Heinrich Jost è un soldato nazista di cui racconta un libro di Susie Lindfield, _La luce crudele - fotografia e violenza politica_, edito da Contrasto nel 2013 [link Amazon](https://amzn.to/2ZaeLVO).
 
 {{< figure src="/images/2020/news08/2 jost.jpeg" caption="⬆︎ Donna nel ghetto di Varsavia, Heinrich Jost, 1941</br> ">}}
 
@@ -116,8 +117,7 @@ Heinrich Jost è un soldato nazista di cui racconta un libro di Susie Lindfield,
 
 ### Daniele Ratti
 
-Daniele Ratti, fotografo italiano classe 1974, ha portato a Cortona il suo lavoro _Next stop_. Sul sito del Cortona on the move ci sono alcuni scatti -->
-https://www.cortonaonthemove.com/exhibit/daniele-ratti/
+Daniele Ratti, fotografo italiano classe 1974, ha portato a Cortona il suo lavoro _Next stop_. Sul sito del [Cortona on the move](https://www.cortonaonthemove.com/exhibit/daniele-ratti/) ci sono alcuni scatti.
 
 Nel suo lavoro Ratti ci mostra come luoghi usualmente affollati sono diventati deserti e come questo ci appaia estraniante (anche grazie a scelte azzeccate dal punto di vista cromatico e dell'illuminazione).
 
@@ -125,11 +125,12 @@ Nel suo lavoro Ratti ci mostra come luoghi usualmente affollati sono diventati d
 
 {{< figure src="/images/2020/news08/4 ratti2.jpeg" caption="⬆︎ Daniele Ratti, 2020</br> ">}}
 
-Il sito personale del fotografo --> https://www.danieleratti.it/
+A questo link il [sito personale](https://www.danieleratti.it/) del fotografo.
+
 
 ### Simon Yeung
 
-Simon Yeung non si trova sui libri di storia della fotografia ma su instagram (--> https://www.instagram.com/irnmonkey/) e sul suo sito internet (--> https://irnmonkey.com/).
+Simon Yeung non si trova sui libri di storia della fotografia ma su [instagram](https://www.instagram.com/irnmonkey/) e sul suo [sito internet](https://irnmonkey.com/).
 
 Yeung realizza i suoi scatti in luoghi abbandonati, dove l'incuria ha progressivamente distrutto le costruzioni dell'uomo e dove la natura si è ripresa lo spazio disabitato.
 
@@ -157,13 +158,13 @@ Se c'è una foto che racconta l'intensità dei rapporti umani e, nello specifico
 
 Introduciamo qui un nuovo ambito dell'arte fotografica: la _Virtual Photography_. Ovvero, l'arte di prendere scatti _dentro_ i videogiochi, dentro l'ambiente di gioco. Non ci sono quindi macchine fotografiche e obiettivi ma c'è comunque la necessità di gestire l'inquadratura, la luce... di raccontare una storia.
 
-Cristiano Bonora è il creatore di Vertical Gaming Photography (--> https://www.verticalgamingphotography.com/) dove ci sono diverse _gallery_ dedicate a molti videogiochi, fra i quali anche _The last of us parte seconda_.
+Cristiano Bonora è il creatore di [Vertical Gaming Photography](https://www.verticalgamingphotography.com/) dove ci sono diverse _gallery_ dedicate a molti videogiochi, fra i quali anche _The last of us parte seconda_.
 
 {{< figure src="/images/2020/news08/8 bonora.jpeg" caption="⬆︎ Cristiano Bonora, _The last of us parte seconda_, 2020</br> ">}}
 
 Le emozioni di queste foto emergono come nelle foto _vere_ e alcune composizioni e giochi di luce sono notevoli. In questo scatto, Ellie, la protagonista del gioco, si porta le mani al viso per la felicità di trovarsi in un parco con ricostruzioni di dinosauri.
 
-In questo video, Cristiano Bonora è intervistato da Francesco Fossetti di Everyeye e parla di questa nuova arte fotografica --> https://www.youtube.com/watch?v=SutBVuYPre8
+In questo video, Cristiano Bonora è intervistato da [Francesco Fossetti di Everyeye](https://www.youtube.com/watch?v=SutBVuYPre8) e parla della _virtual photography_.
 
 
 ## Gruppi paramilitari
@@ -184,7 +185,7 @@ In questi villaggi la gente comune deve armarsi per combattere le bande criminal
 
 # Grazie!
 
-_Grazie di aver ascoltato questo episodio. Alla prossima!_
+Grazie di aver ascoltato questo episodio. Alla prossima!
 
 </br>
 
@@ -253,7 +254,7 @@ La copertina del podcast è un frame catturato dal gioco _The last of us parte s
 
 ### musica
 
-La canzoni dell'episodio hanno la voce di **Cara Rainer**. La prima con la musica di **Humble Hey** (_Give Me_). La seconda con **Gamma Skies** con _I Bet You’re Cold_). Arrivano da Epidemic Sound -> <a target="blank" href="https://www.epidemicsound.com/">link</a>.
+La canzoni dell'episodio hanno la voce di **Cara Rainer**. La prima con la musica di **Humble Hey** (_Give Me_). La seconda con **Gamma Skies** con _I Bet You’re Cold_). Arrivano da [Epidemic Sound](https://www.epidemicsound.com/).
 
 </br>
 
@@ -262,4 +263,4 @@ La canzoni dell'episodio hanno la voce di **Cara Rainer**. La prima con la music
 
 # Fair use
 
-In questo sito si seguono le regole del **Fair use** vigenti in America per l'utilizzo di immagini di proprietà di terzi. Spiego meglio <a href="/static_page/fair_use/">qui</a>
+In questo sito si seguono le regole del **Fair use** vigenti in America per l'utilizzo di immagini di proprietà di terzi. Spiego meglio [qui](/static_page/fair_use/)

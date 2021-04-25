@@ -1,5 +1,5 @@
 ---
-title: "Fotonews #09 - NAGASAKI"
+title: "fotonews #09 - NAGASAKI"
 slug: "09_nagasaki"
 date: 2020-08-01T11:30:03+00:00
 # weight: 1 - to pin posts
@@ -36,19 +36,20 @@ Le Fotonews sono su **_Fotoradio - Un podcast che parla di fotografie_**.
 
 {{< spreaker 43797941 dark >}}
 
-Oltre che sul sito di [**Spreaker**](https://www.spreaker.com/user/11400220/tourdumonde), puoi ascoltare le Fotonews anche su
-[**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
+Oltre che sul sito di [**Spreaker**](https://links.fotoradio.info/spreaker), puoi ascoltare le Fotonews anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
-Se vuoi lasciare un commento (grazie!), vai nella sezione <a href="/contact/">Contatti</a>
+Se volete lasciare un commento (grazie!), andate nella pagina dei [contatti](/contact/)
+<br>
 
 
 ### Youtube e newsletter
 
-Una rassegna delle foto di cui parliamo nel podcast sono anche su **Youtube** a questo <a target="blank" href="https://youtu.be/ayEC_NGJGxY">link</a>.
+Una rassegna delle foto di cui parliamo nel podcast sono anche su [**Youtube**](https://youtu.be/ayEC_NGJGxY).
 
-Gli scatti e i testi sono anche raccolti in una newsletter su **Substack** (<a target="blank" href="https://fotoradio.substack.com/">link</a>)
+Gli scatti e i testi sono anche raccolti in una newsletter su [**Substack**](https://fotoradio.substack.com/">link</a>).
 
 <br>
+
 
 ## puntata # 09 - NAGASAKI
 - - -
@@ -56,7 +57,7 @@ Gli scatti e i testi sono anche raccolti in una newsletter su **Substack** (<a t
 Il 9 agosto 1945 viene sganciata la bomba atomica su Nagasaki.
 Il giorno successivo Yosuke Yamahata percorre tutta la città in rovina e prende più di un centinaio di scatti che arrivano fino a noi. Yamahata morirà 20 anni dopo per un cancro all'intestino.
 
-Le sue foto e quelle di altri fotografi più o meno improvvisati, sono raccolte in un volume, pubblicato nel 2015 e reperibile con qualche difficoltà su <a target="blank" href="https://www.amazon.co.uk/gp/product/4585270248/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1">Amazon</a>
+Le sue foto e quelle di altri fotografi più o meno improvvisati, sono raccolte in un volume, pubblicato nel 2015 e reperibile con qualche difficoltà su [Amazon](https://www.amazon.co.uk/gp/product/4585270248/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1).
 
 {{< figure src="/images/2020/news09/nagasaki-1.jpg" caption="⬆︎ il libro _Collection of Nagasaki Atomic bomb Photographs_ da cui sono tratte le foto di questo episodio</br> ">}}
 
@@ -90,7 +91,7 @@ L'ultima foto che guardiamo è una foto che ci pare piena di speranza e forza di
 
 # Grazie!
 
-_Grazie di aver ascoltato questo episodio. Alla prossima!_
+Grazie di aver ascoltato questo episodio. Alla prossima!
 
 </br>
 
@@ -145,7 +146,6 @@ Nel podcast, dico che Raqqa è in Iraq mentre invece è in Siria.
 -->
 
 ## Credits per l'episodio
-- - -
 
 ### foto
 
@@ -155,14 +155,14 @@ La foto di copertina dell'articolo è di Yosuke Yamahata così come la copertina
  e dell'episodio del podcast è di **Mike Von** via Unsplash (-> <a target="blank" href="https://unsplash.com/photos/wLY9bHf-KUU">link</a>)
 -->
 
-### contributi
+### contributi audio
 
-la voce della donna giapponese che sentiamo nell'episodio è di Matsuo Sachiko, mentre racconta la sua storia di cui parliamo nel podcast. Il video integrale è su youtube -> https://www.youtube.com/watch?v=2aLU-3Z-r-g
+la voce della donna giapponese che sentiamo nell'episodio è di Matsuo Sachiko, mentre racconta la sua storia di cui parliamo nel podcast. Il video integrale è su [youtube](https://www.youtube.com/watch?v=2aLU-3Z-r-g).
 
 ### musica
 
 Nel podcast abbiamo dei suoni in sottofondo. Sono di **John Barzetti** e di **Johnny Berlung**. La canzone finale è _Ruined_ di **Mike Stringer**.
-Arrivano da Epidemic Sound -> <a target="blank" href="https://www.epidemicsound.com/">link</a>.
+Arrivano da [Epidemic Sound](https://www.epidemicsound.com/).
 
 </br>
 
