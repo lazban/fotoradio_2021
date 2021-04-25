@@ -10,7 +10,7 @@ author: ""
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
 description: "come la fotografia ha contribuito a disegnare il mito del Presidente degli Stati Uniti d'America"
