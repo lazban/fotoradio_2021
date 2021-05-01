@@ -1,5 +1,5 @@
 ---
-title: "Fotografia e Climate Change (Gideon Mendel)"
+title: "Fotografia e Climate Change (GIDEON MENDEL)"
 slug: "climate_change_mendel"
 date: 2019-08-06T06:00:00+02:00
 # weight: 1 - to pin posts
@@ -13,20 +13,20 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Attraverso la fotografia di Gideon Mendel (i suoi _Submerged Portraits_) Fotoradio racconta i danni del climate change"
+description: "Attraverso la fotografia di Gideon Mendel (i suoi 'Submerged Portraits') Fotoradio racconta i danni del climate change"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 searchHidden: false
 cover:
     image: "/images/2019/0x1/climate_cover.jpg" # image path/url
-    alt: "" # alt text
-    caption: "" # display caption under cover
+    alt: "una foto di Chris Gallagher da Unsplash" # alt text
+    caption: "una foto di Chris Gallagher da Unsplash" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
 
-Prima puntata di Fotoradio dove iniziamo a parlare di fotografie con i ritratti di Gideon Mendel e le connessioni con il cambiamento climatico
+Prima puntata di Fotoradio dove iniziamo a parlare di fotografie con i ritratti di Gideon Mendel e le connessioni con il cambiamento climatico.
 <!--more-->
 
 Gideon Mendel nel 2015 sul _National Geographic_ (ed anche ad Arles nel 2017 e ora a Cortona nel 2019), ha presentato i suoi _Submerged Portraits_, ritratti di persone nei 5 continenti in contesti alluvionati e sconvolti dai cambiamenti climatici.
@@ -46,19 +46,19 @@ Se volete lasciare un commento (grazie!), andate nella sezione [Contatti](/conta
 
 Nell'episodio parliamo di tre ritratti di Mendel che son questi:
 
-{{< figure src="/images/2019/0x1/gideon01.jpg" caption="⬆︎ Francisca Chagas dos Santos, Rio Branco, Brasile, Marzo 2015 <br>* ">}}
+{{< figure src="/images/2019/0x1/gideon01.jpg" caption="⬆︎ Francisca Chagas dos Santos, Rio Branco, Brasile, Marzo 2015 <br> ">}}
 
-{{< figure src="/images/2019/0x1/gideon02.jpg" caption="⬆︎ Ahmed, Khairpur Nathan Shah, Pakistan, Settembre 2010 <br>* ">}}
+{{< figure src="/images/2019/0x1/gideon02.jpg" caption="⬆︎ Ahmed, Khairpur Nathan Shah, Pakistan, Settembre 2010 <br> ">}}
 
-{{< figure src="/images/2019/0x1/gideon03.jpg" caption="⬆︎ Jeff e Tracey Waters, Staines-upon-Thames, Inghilterra, Febbraio 2014 <br>* ">}}
+{{< figure src="/images/2019/0x1/gideon03.jpg" caption="⬆︎ Jeff e Tracey Waters, Staines-upon-Thames, Inghilterra, Febbraio 2014 <br> ">}}
 
 Gli scatti qui sopra fanno parte della serie _Submerged Portraits_ visionabile sul sito di Gideon Mendel seguendo [questo link](http://gideonmendel.com/submerged-portraits/)
 
-{{< figure src="/images/2019/0x1/gideon04.jpg" caption="⬆︎ Dorika Gabriel e suo figlio Joseph, Mwanza, Tanzania, Luglio 1997 <br>* ">}}
+{{< figure src="/images/2019/0x1/gideon04.jpg" caption="⬆︎ Dorika Gabriel e suo figlio Joseph, Mwanza, Tanzania, Luglio 1997 <br> ">}}
 
 Questo scatto fa invece parte della serie _A Broken Landscape_ che si può vedere sul sito di Gideon Mendel a [questo link](http://gideonmendel.com/a-broken-landscape/).
 
-Tutte le foto sono © Gideon Mendel / guarda la nostra nota sul [Fair Use](/static_page/fair_use/)
+Tutte le foto sono © Gideon Mendel.
 
 _Grazie di aver ascoltato questo episodio. Alla prossima!_
 
@@ -68,11 +68,11 @@ _Grazie di aver ascoltato questo episodio. Alla prossima!_
 
 Due bonus track per questo primo episodio.
 
-Un'immagine di Gideon Mendel mentre scatta i suoi _submerged portraits_ con la sua Rolleiflex
+Qui sotto, un'immagine di Gideon Mendel mentre scatta i _submerged portraits_ con la sua Rolleiflex
 
-{{< figure src="/images/2019/0x1/gideon05.jpg" caption="⬆︎ Gideon Mendel works in Srinigar, India. Photograph by Gowhar Fazili (come riportato sul National Geographic online Feb 2015 - link nella sezione link)" >}}
+{{< figure src="/images/2019/0x1/gideon05.jpg" caption="⬆︎ Gideon Mendel works in Srinigar, India. Photograph by Gowhar Fazili (come riportato sul National Geographic online Feb 2015 - link nella sezione 'collegamenti')" >}}
 
-Un video, realizzato al seguito del fotografo durante i viaggi per documentare le inondazioni in molte parti del mondo.
+Qui sotto, un video realizzato al seguito del fotografo durante i viaggi per documentare le inondazioni in molte parti del mondo.
 
 {{< vm 148174916 >}}
 
@@ -87,7 +87,7 @@ I brani citati vengono da:
 
 - Jaap Tielbeke, su De Groene Amsterdammer ripreso da Internazionale 1313 del 28 giugno 2019: [Ribellarsi all'estinzione](https://www.internazionale.it/)
 
-- lo spot tv di Save the Children è questo:
+- il citato spot tv di Save the Children è questo:
 
 {{< yt SBeo4gKzhKc >}}
 
@@ -98,7 +98,7 @@ I brani citati vengono da:
 
 
 - - -
-### altri link
+### collegamenti
 
 - [Gideon Mendel a Cortona On The Move](https://www.cortonaonthemove.com/exhibit/gideon-mendel/) - Gideon Mendel è a Cortona On The Move 2019 fino a settembre.
 
@@ -127,6 +127,7 @@ Per i suoni vedi cosa dico in [About](/about/)
 Photo cover by [Chris Gallagher](https://unsplash.com/@chriswebdog) on Unsplash
 
 - - -
+
 ### Fair use
 
 In questo sito si seguono le regole del **Fair use** vigenti in America per l'utilizzo di immagini di proprietà di terzi. Spiego meglio [qui](/static_page/fair_use/)

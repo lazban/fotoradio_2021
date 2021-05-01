@@ -13,15 +13,15 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "teaser 2 - fotoradio, un podcast che parla di fotografie"
+description: "Fotoradio è un podcast che parla di fotografie"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
-searchHidden: false
+searchHidden: true
 cover:
     image: "/images/2019/0x0/02_teaser_cover.jpg" # image path/url
-    alt: "" # alt text
-    caption: "" # display caption under cover
+    alt: "una foto di Alexandra Gorn da Unsplash" # alt text
+    caption: "una foto di Alexandra Gorn da Unsplash" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 

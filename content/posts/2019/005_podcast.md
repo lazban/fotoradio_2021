@@ -1,5 +1,5 @@
 ---
-title: "0 - podcast e fotografie"
+title: "podcast e fotografie"
 slug: "podcast_fotografie"
 date: 2019-07-29T06:00:00+02:00
 # weight: 1 - to pin posts
@@ -13,41 +13,40 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Episodio pilota per raccontare di cosa parlerà la stagione zero di Fotoradio."
+description: "Episodio zero per raccontare di cosa parlerà la stagione zero di Fotoradio."
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 searchHidden: false
 cover:
     image: "/images/2019/0x0/0x0_cover.jpg" # image path/url
-    alt: "" # alt text
-    caption: "" # display caption under cover
+    alt: "una foto di James Beheshti da Unsplash" # alt text
+    caption: "una foto di James Beheshti da Unsplash" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 
 ---
 
-Episodio pilota per raccontare di cosa parlerà la stagione zero di Fotoradio che parte martedi 6 agosto 2019.
+Episodio zero per raccontare di cosa parlerà la stagione zero di Fotoradio che parte martedi 6 agosto 2019.
 
 Perché i podcast sono importanti? Perché la fotografia è importante? Cosa significa fare un podcast che parla di _fotografie_?
 
 A queste domande risponde l'episodio zero!
-
-Le Fotonews sono su [**_Fotoradio - Un podcast che parla di fotografie_**](https://www.spreaker.com/user/11400220/tourdumonde).
 
 {{< spreaker 18656129 dark >}}
 
 Oltre che sul sito di [**Spreaker**](https://www.spreaker.com/), puoi ascoltare Fotoradio anche su
 [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
+Se vuoi lasciare un commento (grazie!), vai nella sezione [Contatti](/contact/)
 
-Se volete lasciare un commento (grazie!) andate nella sezione <a href="/contact">Contatti</a>.
-
+- - -
 
 # Foto dell'episodio
 Invece di una fotografia, in questa puntata parliamo di un dipinto. Si tratta di _Niagara Falls, From the American Side_,  di Edwin Church, del 1867. Olio su tela, 257 cm × 227 cm, conservato alla Scottish National Gallery di Edinburgh in Scozia.
 
-{{< figure src="/images/2019/0x0/0x0_foto.jpg" >}}
+{{< figure src="/images/2019/0x0/0x0_foto.jpg" caption="⬆︎ _Niagara Falls, From the American Side_ di Edwin Church, 1867<br> ">}}
+
 
 
 

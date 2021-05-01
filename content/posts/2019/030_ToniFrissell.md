@@ -1,11 +1,11 @@
 ---
-title: "Fotografia di moda e emancipazione femminile (Toni Frissell)"
+title: "Fotografia di moda e emancipazione femminile (TONI FRISSELL)"
 slug: "moda_frissell"
 date: 2019-08-20T06:00:00+02:00
 # weight: 1 - to pin posts
 # aliases: ["/first"]
-tags: [""]
-categories: [""]
+tags: ["frissell"]
+categories: ["fotografi"]
 author: ""
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -30,15 +30,15 @@ cover:
 Nuova puntata di Fotoradio dedicata a uno scatto di Toni Frissell, pubblicato nel 1935 da Vogue.
 <!--more-->
 
-Toni Frissell è una donna, fotografa, americana, nata nel  1907. Entra nel mondo della fotografia di moda nei primi anni '30 dove realizza uno scatto che al tempo stesso rivoluziona il settore, portando le modelle all'aria aperta, fuori dagli studi di posa; e in qualche modo aiuta il processo di emancipazione femminile.
+Toni Frissell è una fotografa, donna, americana, nata nel  1907. Entra nel mondo della fotografia di moda nei primi anni '30 e rivoluzionerà il settore, portando le modelle all'aria aperta, fuori dagli studi di posa; e in qualche modo aiutando il processo di emancipazione femminile.
 
 Ne parliamo questa puntata di **_Fotoradio - Un podcast che parla di fotografie_**
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/18848102" data-resource="episode_id=18848102" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "Fotografia di moda e emancipazione femminile (Toni Frissell)" su Spreaker.</a>
+{{< spreaker 18848102 dark >}}
 
-Puoi ascoltare Fotoradio anche sul sito di <a href="https://www.spreaker.com/show/fotoradio-un-podcast-sulle-fotografie">**Spreaker**</a>, oppure su <a target="blank" href="https://podcasts.apple.com/it/podcast/fotoradio-un-podcast-sulle-fotografie/id1473090985">**Apple iTunes**</a>, <a target="blank" href="https://open.spotify.com/show/3dzBBFOJD2gaz2pRdhlzYh">**Spotify**</a>, <a target="blank" href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMzYwNzI4OS9lcGlzb2Rlcy9mZWVk">**Google Podcast**</a>, <a target="blank" href="https://castbox.fm/channel/Fotoradio-un-podcast-sulle-fotografie-id2203635?country=it">**Castbox**</a> e <a target="blank" href="https://soundcloud.com/user-153455998">**Soundcloud**</a>.
+Oltre che sul sito di [**Spreaker**](https://links.fotoradio.info/spreaker), puoi ascoltare Fotoradio anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
-Se volete lasciare un commento (grazie!), andate nella sezione <a href="/contact/">Contatti</a>
+Se vuoi lasciare un commento (grazie!), vai nella sezione [Contatti](/contact/)
 
 - - -
 
@@ -46,15 +46,13 @@ Se volete lasciare un commento (grazie!), andate nella sezione <a href="/contact
 
 La foto principale della puntata è la seguente
 
-{{< figure src="/images/2019/0x3/0x3_frissell_01.jpg" caption="⬆︎ le 5 ragazze di Toni Frissell, apparse su Vogue nell'agosto del 1935<br>* ">}}
+{{< figure src="/images/2019/0x3/0x3_frissell_01.jpg" caption="⬆︎ le 5 ragazze di Toni Frissell, apparse su Vogue nell'agosto del 1935<br> ">}}
 
 In chiusura di episodio, facciamo anche una incursione nella vita privata di Frissell con questo scatto:
 
-{{< figure src="/images/2019/0x3/0x3_frissell_02.jpg" caption="⬆︎ Toni Frissell al lavoro con suo marito Mac che gioca con la figlia Sidney, foto di Frances McGloughlin-Gill<br>* ">}}
+{{< figure src="/images/2019/0x3/0x3_frissell_02.jpg" caption="⬆︎ Toni Frissell al lavoro con suo marito Mac che gioca con la figlia Sidney, foto di Frances McGloughlin-Gill<br> ">}}
 
 Tutte le foto sono © Sidney Frissell Stafford.
-
-Leggi la nostra nota sul <a target="blank" href="/static_page/fair_use/">Fair Use</a>
 
 _Grazie di aver ascoltato questo episodio. Alla prossima!_
 
@@ -78,7 +76,7 @@ Se Fotoradio continuerà dopo la stagione zero, non mancherà un episodio dedica
 
 I brani citati vengono da questa fonte:
 
-- Toni Frissell, **Toni Frissell, Photographs 1933-1967**, con una introduzione di George Plimpton e una postfazione di Sidney Frissell Stafford, Doubleday 1994. Il libro sembra fuori catalogo ma è acquistabile usato presso <a target="blank" href="https://www.abebooks.co.uk/book-search/title/toni-frissell-photographs-1933-1967/">Abe Books</a> o Ebay o altri.
+- Toni Frissell, **Toni Frissell, Photographs 1933-1967**, con una introduzione di George Plimpton e una postfazione di Sidney Frissell Stafford, Doubleday 1994. Il libro sembra fuori catalogo. Io l'ho preso usato da [Abe Books](https://www.abebooks.co.uk/book-search/title/toni-frissell-photographs-1933-1967/) e si trova anche su Ebay.
 
 
 <!--
@@ -93,7 +91,7 @@ I brani citati vengono da questa fonte:
 
 ### Altri link
 
-- La puntata di **Be My Diary** di Rossella Pivanti citata nell'episodio è ascoltabile a questo (<a target="blank" href="https://www.spreaker.com/user/bemydiary/bmd-s02e10-finito">link</a>)
+- La puntata di **Be My Diary** di Rossella Pivanti citata nell'episodio è ascoltabile a questo [link](https://www.spreaker.com/user/bemydiary/bmd-s02e10-finito).
 
 
 
@@ -103,34 +101,27 @@ I brani citati vengono da questa fonte:
 
 Per la musica, in ordine di apparizione:
 
-- _Bobby Swing_ di <a href="https://www.epidemicsound.com/search/?term=Bladverk%20Band" target ="blank">Bladverk Band</a>.
+- _Bobby Swing_ di Bladverk Band.
+- _Memories from the Past_ di Bladverk Band.
+- _Swagger Stagger_ di Lucas Pittman.
+- _Night by Night_ di Bladverk Band.
 
-- _Memories from the Past_ di <a href="https://www.epidemicsound.com/search/?term=Bladverk%20Band" target ="blank">Bladverk Band</a>.
+Tutte arrivano da [Epidemic Sound](https://www.epidemicsound.com/).
 
-- _Swagger Stagger_ di <a href="https://www.epidemicsound.com/search/?term=Lucas%20Pittman" target ="blank">Lucas Pittman</a>.
+Per i suoni, nella pagina [About](/about/) ci sono le fonti.
 
-- _Night by Night_ di <a href="https://www.epidemicsound.com/search/?term=Bladverk%20Band" target ="blank">Bladverk Band</a>.
-
-Tutte arrivano da <a href="https://www.epidemicsound.com/">Epidemic Sound</a>
-
-Per i suoni, nella pagina <a href="/about/">About</a> ci sono le fonti.
 
 - - -
 
-### Ma che foto c'è in copertina di articolo?
+### foto di copertina
 
-La foto di copertina del podcast e dell'articolo sono diverse e nessuna è di Toni Frissell :)
+In copertina di questo post c'è un mio scatto. E' una foto rubata ad una modella mentre faceva un servizio fotografico nella zona di Gae Aulenti a Milano, nel 2016.
 
-Questo sito a basso impatto (<a href="/about/">vedi About</a>) cerca di essere rispettoso delle foto degli altri (soprattutto se sono grandi autori o autrici). Utilizzare la foto di Frissell per la copertina dell'articolo avrebbe comportato modifiche che ho preferito non fare.
+Per la copertina del podcast ricorro invece a [Unsplash](https://unsplash.com) con un crop da una foto di [Alexi Romano](https://unsplash.com/@worldsbetweenlines)  model: @marwaatik
 
-Quindi,
-per l'immagine in apertura di articolo, sono ricorso ad un mio scatto. E' una foto rubata ad una modella mentre faceva un servizio fotografico nella zona di Gae Aulenti a Milano, nel 2016. Se qualcuno vuole contattarmi in merito, basta usare questo (<a href="/contact/">link</a>).
-
-Per la copertina dell'episodio ricorro invece al meritorio sito di <a target="blank" href="https://unsplash.com">Unsplash</a> che fornisce foto royalty free.
-Ho fatto un crop da un <a target="blank" href="https://unsplash.com/photos/CCx6Fz_CmOI">lavoro</a> di <a target="blank" href="https://unsplash.com/@worldsbetweenlines">Alexi Romano</a>  model: @marwaatik
 
 - - -
 
 ### Fair use
 
-In questo sito si seguono le regole del **Fair use** vigenti in America per l'utilizzo di immagini di proprietà di terzi. Spiego meglio <a href="/static_page/fair_use/">qui</a>
+In questo sito si seguono le regole del **Fair use** vigenti in America per l'utilizzo di immagini di proprietà di terzi. Spiego meglio [qui](/static_page/fair_use/)

@@ -19,9 +19,9 @@ disableShare: false
 disableHLJS: false
 searchHidden: false
 cover:
-    image: "/images/2020/news10/copertina_articolo.jpg" # image path/url
-    alt: "Visa pour l'image di Perpignan edizione 2020" # alt text
-    caption: "Visa pour l'image di Perpignan edizione 2020" # display caption under cover
+    image: "/images/2020/news10/copertina_articolo2.jpg" # image path/url
+    alt: "dettaglio di una foto di Tim Dirven a Raqqa" # alt text
+    caption: "⬆︎ dettaglio di una foto di Tim Dirven a Raqqa" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 
@@ -293,7 +293,7 @@ Inoltre, nel podcast dico che Raqqa è in Iraq mentre invece è in Siria.
 - - -
 ## Credits per l'episodio
 
-La foto di copertina dell'articolo è mia ed è presa dentro il _couvent des minimes_ a Perpignan nello spazio dedicato a Yasuyoshi Chiba.
+La foto di copertina dell'articolo è un dettaglio da una foto di **Tim Dirven** inviato dal quotidiano belga _De Morgen_ a Raqqa (vedi sopra).
 
 La copertina del podcast ha anch'essa una foto mia della bandiera del _Visa pour l'image_ che sventola nel cortile dell'_eglise des dominicains_.
 
