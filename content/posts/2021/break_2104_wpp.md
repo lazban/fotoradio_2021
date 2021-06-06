@@ -1,5 +1,5 @@
 ---
-title: "Fotobreak - 3 italiani premiati al World Press Photo 2021"
+title: "Fotobreak | 3 italiani premiati al World Press Photo 2021"
 slug: "break-wpp"
 date: 2021-04-18T08:30:03+00:00
 # weight: 1 - to pin posts
@@ -20,20 +20,20 @@ disableHLJS: false
 searchHidden: false
 cover:
     image: "/images/2021/break2104/2104_cover.jpg" # image path/url
-    alt: "Antonio Faccilongo con Habibi ha vinto nella sezione Long Term Projects" # alt text
-    caption: "Antonio Faccilongo con Habibi ha vinto nella sezione Long Term Projects" # display caption under cover
+    alt: "Habibi di Antonio Faccilongo ha vinto nella sezione Long Term Projects" # alt text
+    caption: "Habibi di Antonio Faccilongo ha vinto nella sezione Long Term Projects" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 
 ---
 
 
-Il 15 aprile sono stati annunciati i vincitori dell’edizione 2021 del World Press Photo, il più importante premio per il fotogiornalismo. Hanno partecipato più di 4000 fotografi da 130 paesi e la giuria ha visto passate quasi 75.000 scatti.
+Il 15 aprile sono stati annunciati i vincitori dell’edizione 2021 del World Press Photo, il più importante premio per il fotogiornalismo. Hanno partecipato più di 4000 fotografi da 130 paesi e la giuria ha visto quasi 75.000 scatti.
 
 <!--more-->
 
-Quest’anno si è parlato un po’ di più del World Press Photo perché ben 3 italiani hanno vinto in qualche categoria.
-E oggi parliamo proprio dei lavori dei 3 fotografi di casa nostra, e delle storie che hanno raccontato.
+Quest’anno si è parlato un po’ di più del World Press Photo perché ben 3 italiani hanno vinto in 3 diverse categorie.
+E oggi parliamo proprio dei lavori di questi tre fotografi di casa nostra e delle storie che hanno raccontato.
 
 - - -
 ## Ascolta
