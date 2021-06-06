@@ -1,5 +1,5 @@
 ---
-title: "podcast e fotografie"
+title: "EP. 0 - PODCAST E FOTOGRAFIE"
 slug: "podcast_fotografie"
 date: 2019-07-29T06:00:00+02:00
 # weight: 1 - to pin posts
@@ -19,8 +19,8 @@ disableShare: false
 disableHLJS: false
 searchHidden: false
 cover:
-    image: "/images/2019/0x0/0x0_cover.jpg" # image path/url
-    alt: "una foto di James Beheshti da Unsplash" # alt text
+    image: "" # image path/url
+    alt: "h" # alt text
     caption: "una foto di James Beheshti da Unsplash" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
@@ -30,6 +30,8 @@ cover:
 Episodio zero per raccontare di cosa parlerà la stagione zero di Fotoradio che parte martedi 6 agosto 2019.
 
 <!--more-->
+
+{{< figure src="/images/2019/0x0/0x0_cover.jpg" caption="⬆︎ una foto di James Beheshti da Unsplas<br>* ">}}
 
 
 Perché i podcast sono importanti? Perché la fotografia è importante? Cosa significa fare un podcast che parla di _fotografie_?

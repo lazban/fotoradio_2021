@@ -5,7 +5,7 @@ date: 2019-09-17T06:00:00+02:00
 # weight: 1 - to pin posts
 # aliases: ["/first"]
 tags: [""]
-categories: ["storia"]
+categories: ["cronaca"]
 author: ""
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -34,11 +34,11 @@ Costruito per accoglierne 600, ne ospita oggi 4.000. In condizioni inumane. Stil
 
 Ne parliamo in questo episodio di **_Fotoradio - Un podcast che parla di fotografie_**.
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/19119852" data-resource="episode_id=19119852" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "Attraverso i nostri occhi (nel campo di Samos)" su Spreaker.</a>
+{{< spreaker 19119852 dark >}}
 
-Puoi ascoltare Fotoradio anche sul sito di <a href="https://www.spreaker.com/show/fotoradio-un-podcast-sulle-fotografie">**Spreaker**</a>, oppure su <a target="blank" href="https://podcasts.apple.com/it/podcast/fotoradio-un-podcast-sulle-fotografie/id1473090985">**Apple iTunes**</a>, <a target="blank" href="https://open.spotify.com/show/3dzBBFOJD2gaz2pRdhlzYh">**Spotify**</a>, <a target="blank" href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMzYwNzI4OS9lcGlzb2Rlcy9mZWVk">**Google Podcast**</a>, <a target="blank" href="https://castbox.fm/channel/Fotoradio-un-podcast-sulle-fotografie-id2203635?country=it">**Castbox**</a> e <a target="blank" href="https://soundcloud.com/user-153455998">**Soundcloud**</a>.
+Oltre che sul sito di [**Spreaker**](https://links.fotoradio.info/spreaker), puoi ascoltare Fotoradio anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
-Se volete lasciare un commento (grazie!), andate nella sezione <a href="/contact/">Contatti</a>
+Se vuoi lasciare un commento (grazie!), vai nella sezione [Contatti](/contact/)
 
 - - -
 
@@ -63,9 +63,9 @@ Sono foto fatte con macchinette usa e getta da bambini del campo di accoglienza 
 
 
 
-Il progetto nella sua interezza si può apprezzare al sito -> <a target="blank" href="https://through-oureyes.com/">Through our Eyes</a>
+Il progetto nella sua interezza si può apprezzare al sito -> [Through our Eyes](https://through-oureyes.com/).
 
-Leggi la nostra nota sul <a target="blank" href="/static_page/fair_use/">Fair Use</a>
+Leggi la nostra nota sul [Fair Use](/static_page/fair_use/)
 
 _Grazie di aver ascoltato questo episodio. Alla prossima!_
 
@@ -97,7 +97,7 @@ Un estratto della clip è in coda all'episodio. Qui la versione integrale del vi
 
 ### Citazioni
 
-La descrizione turistica dell'isola di Samos arriva da: <a href="https://www.grecia.info/isole-egeo-settentrionale/samos/" target="blank">Grecia.info</a>
+La descrizione turistica dell'isola di Samos arriva da: [Grecia.info](https://www.grecia.info/isole-egeo-settentrionale/samos/).
 
 <!--
 
@@ -130,25 +130,25 @@ Poi invece ho preferito inserire la clip dal Tedx dove si parla di volontariato 
 
 Per la musica, in ordine di apparizione:
 
-- _Child's Play_ di <a target="blank" href="https://www.epidemicsound.com/search/?term=Mica%20Emory">Mica Emory</a>
+- _Child's Play_ di Mica Emory
 
-- _Everlasting Holidays_ di <a target="blank" href="https://www.epidemicsound.com/search/?term=Rockin%27%20For%20Decades">Rockin' For Decades</a>
+- _Everlasting Holidays_ di Rockin' For Decades
 
-- _Red Moon Rising_ di <a href="https://www.epidemicsound.com/search/?term=Headlund" target="blank">Headlund</a>
+- _Red Moon Rising_ di Headlund
 
 - _What Child is This (Holiday Edition)_
 
-- _On the Horizon_ di <a href="https://www.epidemicsound.com/search/?term=Damon%20Greene" target="blank">Damon Green</a>
+- _On the Horizon_ di Damon Green
 
-- _What Child is This (Jazz version)_ di <a href="https://www.epidemicsound.com/search/?term=The%20Evergreen%20Trio" target="blank">The Evergreen Trio</a>
+- _What Child is This (Jazz version)_ di The Evergreen Trio
 
 
-Tutte arrivano da <a href="https://www.epidemicsound.com/">Epidemic Sound</a>
+Tutte arrivano da [Epidemic Sound](https://www.epidemicsound.com/)
 
-Per i suoni, nella pagina <a href="/about/">About</a> ci sono le fonti.
+Per i suoni, nella pagina [About](/about/) ci sono le fonti.
 
 - - -
 
 ### Fair use
 
-In questo sito si seguono le regole del **Fair use** vigenti in America per l'utilizzo di immagini di proprietà di terzi. Spiego meglio <a href="/static_page/fair_use/">qui</a>
+In questo sito si seguono le regole del **Fair use** vigenti in America per l'utilizzo di immagini di proprietà di terzi. Spiego meglio [qui](/static_page/fair_use/)

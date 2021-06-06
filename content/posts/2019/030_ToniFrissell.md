@@ -4,7 +4,7 @@ slug: "moda_frissell"
 date: 2019-08-20T06:00:00+02:00
 # weight: 1 - to pin posts
 # aliases: ["/first"]
-tags: ["frissell"]
+tags: ["Frissell"]
 categories: ["fotografi"]
 author: ""
 # author: ["Me", "You"] # multiple authors

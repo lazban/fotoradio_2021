@@ -5,7 +5,7 @@ date: 2019-09-03T05:00:00+02:00
 # weight: 1 - to pin posts
 # aliases: ["/first"]
 tags: [""]
-categories: ["storia"]
+categories: ["cronoca"]
 author: ""
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -20,8 +20,8 @@ disableHLJS: false
 searchHidden: false
 cover:
     image: "/images/2019/0x5/0x5_cover.jpg" # image path/url
-    alt: "una foto di Yosuke Yamahata del 10 agosto 1945" # alt text
-    caption: "una foto di Yosuke Yamahata del 10 agosto 1945" # display caption under cover
+    alt: "" # alt text
+    caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 
@@ -34,11 +34,10 @@ Nella notte del 1 settembre 2015, il gommone sul quale viaggiava un gruppo di mi
 
 Ne parliamo in questo episodio di **_Fotoradio - Un podcast che parla di fotografie_**.
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/18971953" data-resource="episode_id=18971953" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="false">Ascolta "La foto e il sacrificio di Alan Kurdi" su Spreaker.</a>
+{{< spreaker 18971953 dark >}}
 
-Puoi ascoltare Fotoradio anche sul sito di <a href="https://www.spreaker.com/show/fotoradio-un-podcast-sulle-fotografie">**Spreaker**</a>, oppure su <a target="blank" href="https://podcasts.apple.com/it/podcast/fotoradio-un-podcast-sulle-fotografie/id1473090985">**Apple iTunes**</a>, <a target="blank" href="https://open.spotify.com/show/3dzBBFOJD2gaz2pRdhlzYh">**Spotify**</a>, <a target="blank" href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMzYwNzI4OS9lcGlzb2Rlcy9mZWVk">**Google Podcast**</a>, <a target="blank" href="https://castbox.fm/channel/Fotoradio-un-podcast-sulle-fotografie-id2203635?country=it">**Castbox**</a> e <a target="blank" href="https://soundcloud.com/user-153455998">**Soundcloud**</a>.
+Oltre che sul sito di [**Spreaker**](https://links.fotoradio.info/spreaker), puoi ascoltare Fotoradio anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
-Se volete lasciare un commento (grazie!), andate nella sezione <a href="/contact/">Contatti</a>
 
 - - -
 
@@ -54,7 +53,7 @@ Non ho trovato il titolare dei diritti di questa foto. Unici riferimenti la foto
  © Don McCullin.
 -->
 
-Leggi la nostra nota sul <a target="blank" href="/static_page/fair_use/">Fair Use</a>
+Leggi la nostra nota sul [Fair use](/static_page/fair_use/).
 
 _Grazie di aver ascoltato questo episodio. Alla prossima!_
 
@@ -76,9 +75,9 @@ Don McCullin è stato ad **Arles** nel 2016 e sul canale Youtube della manifesta
 
 I brani citati sono tratti da:
 
-- Fausto Colombo, _Imago Pietatis_, Vita e Pensiero, 2018 (link al <a target="blank" href="http://www.vitaepensiero.it/scheda-libro/fausto-colombo/imago-pietatis-9788834335482-346177.html">sito dell'editore</a>)
+- Fausto Colombo, _Imago Pietatis_, Vita e Pensiero, 2018 [sito dell'editore](http://www.vitaepensiero.it/scheda-libro/fausto-colombo/imago-pietatis-9788834335482-346177.html)
 
-- Hurriyet Daily News, intervista a Nilufer Demir, _Photographer of the world-shaking picture of drowned Syrian toddler: 'I was petrified at that moment'_, citata da Fausto Colombo, traduzione mia (link -> <a target="blank" href="http://www.hurriyetdailynews.com/photographer-of-the-world-shaking-picture-of-drowned-syrian-toddler-i-was-petrified-at-that-moment-87951">sito del giornale</a>).
+- Hurriyet Daily News, intervista a Nilufer Demir, _Photographer of the world-shaking picture of drowned Syrian toddler: 'I was petrified at that moment'_, citata da Fausto Colombo, traduzione mia (link -> [sito del giornale](http://www.hurriyetdailynews.com/photographer-of-the-world-shaking-picture-of-drowned-syrian-toddler-i-was-petrified-at-that-moment-87951).
 
 La voce fuori campo all'inizio dell'episodio è di **Gipi** mentre legge i nomi dei 30.000 morti per raggiungere l'Europa dal 1993 al 2018. Iniziativa che si svolta durante il **Festival di Internazionale** a Ferrara nel 2018. Registrata per strada il 5 ottobre.
 
@@ -105,22 +104,22 @@ La voce fuori campo all'inizio dell'episodio è di **Gipi** mentre legge i nomi 
 
 Per la musica, in ordine di apparizione:
 
-- _Children's Journey_ di <a target="blank" href="https://www.epidemicsound.com/search/?term=More%20than%20Family">More than Family</a>
+- _Children's Journey_ di More than Family
 
-- _Fight the Power_ di <a target="blank" href="https://www.epidemicsound.com/search/?term=Rockin%27%20For%20Decades">Rockin' For Decades</a>
+- _Fight the Power_ di Rockin' For Decades
 
-- _World Traveller_ di <a href="https://www.epidemicsound.com/search/?term=Trailer%20Worx" target="blank">Trailer Worx</a>
+- _World Traveller_ di Trailer Worx
 
-- _Tokyo Fight_ di <a href="https://www.epidemicsound.com/search/?term=DJ%20DENZ%20The%20Rooster" target="blank">Dj DENZ The Rooster</a>
+- _Tokyo Fight_ di Dj DENZ The Rooster
 
-- _Ode to the Rising Sun_ di <a href="https://www.epidemicsound.com/search/?term=Saira%20Ridley" target="blank">Saira Ridley</a>
+- _Ode to the Rising Sun_ di Saira Ridley
 
-Tutte arrivano da <a href="https://www.epidemicsound.com/">Epidemic Sound</a>
+Tutte arrivano da [Epidemic Sound](https://www.epidemicsound.com/)
 
-Per i suoni, nella pagina <a href="/about/">About</a> ci sono le fonti.
+Per i suoni, nella pagina [About](/about/) ci sono le fonti.
 
 - - -
 
 ### Fair use
 
-In questo sito si seguono le regole del **Fair use** vigenti in America per l'utilizzo di immagini di proprietà di terzi. Spiego meglio <a href="/static_page/fair_use/">qui</a>
+In questo sito si seguono le regole del **Fair use** vigenti in America per l'utilizzo di immagini di proprietà di terzi. Spiego meglio [qui](/static_page/fair_use/)

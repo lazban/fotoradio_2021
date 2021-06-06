@@ -19,8 +19,8 @@ disableShare: false
 disableHLJS: false
 searchHidden: true
 cover:
-    image: "/images/2019/0x0/01_teaser_cover.jpg" # image path/url
-    alt: "una foto di Nathaniel Foong da Unsplash" # alt text
+    image: "" # image path/url
+    alt: "" # alt text
     caption: "una foto di Nathaniel Foong da Unsplash" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
@@ -28,6 +28,9 @@ cover:
 ---
 
 <!--more-->
+
+{{< figure src="/images/2019/0x0/01_teaser_cover.jpg" caption="⬆︎ una foto di Nathaniel Foong da Unsplash<br>* ">}}
+
 
 In una assolata giornata di luglio, vi manca un podcast da spararvi in cuffietta?
 
@@ -37,8 +40,8 @@ Questo è il primo teaser di Fotoradio - un podcast che parla di fotografie.
 
 {{< spreaker 18546991 dark >}}
 
-Oltre che sul sito di [**Spreaker**](https://www.spreaker.com/user/11400220/tourdumonde), puoi ascoltare Fotoradio anche su
-[**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
+Oltre che sul sito di [**Spreaker**](https://links.fotoradio.info/spreaker), puoi ascoltare Fotoradio anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
+
 
 Se vuoi lasciare un commento (grazie!), vai nella sezione [Contatti](/contact/)
 

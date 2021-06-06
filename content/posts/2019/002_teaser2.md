@@ -19,8 +19,8 @@ disableShare: false
 disableHLJS: false
 searchHidden: true
 cover:
-    image: "/images/2019/0x0/02_teaser_cover.jpg" # image path/url
-    alt: "una foto di Alexandra Gorn da Unsplash" # alt text
+    image: "" # image path/url
+    alt: "" # alt text
     caption: "una foto di Alexandra Gorn da Unsplash" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
@@ -29,13 +29,15 @@ cover:
 
 <!--more-->
 
+{{< figure src="/images/2019/0x0/02_teaser_cover.jpg" caption="⬆︎ una foto di Alexandra Gorn da Unsplash<br>* ">}}
+
 Acc... il vostro compagno russa e non riuscite a dormire?
 
 E vi manca un podcast di fotografie che vi culli verso il meritato riposo?
 Se questo è il caso, il 30 luglio 2019 arriva Fotoradio!
 
-Oltre che sul sito di [**Spreaker**](https://www.spreaker.com/user/11400220/tourdumonde), puoi ascoltare le Fotonews anche su
-[**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
+Oltre che sul sito di [**Spreaker**](https://links.fotoradio.info/spreaker), puoi ascoltare Fotoradio anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
+
 
 {{< spreaker 18597188 dark >}}
 

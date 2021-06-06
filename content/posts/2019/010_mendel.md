@@ -4,7 +4,7 @@ slug: "climate_change_mendel"
 date: 2019-08-06T06:00:00+02:00
 # weight: 1 - to pin posts
 # aliases: ["/first"]
-tags: ["mendel"]
+tags: ["Mendel"]
 categories: ["fotografi"]
 author: ""
 # author: ["Me", "You"] # multiple authors
@@ -35,7 +35,7 @@ Ne parliamo nella prima puntata di **_Fotoradio - Un podcast che parla di fotogr
 
 {{< spreaker 18719581 dark >}}
 
-Oltre che sul sito di [**Spreaker**](https://www.spreaker.com/), puoi ascoltare Fotoradio anche su
+Oltre che sul sito di [**Spreaker**](https://links.fotoradio.info/spreaker), puoi ascoltare Fotoradio anche su
 [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
 Se volete lasciare un commento (grazie!), andate nella sezione [Contatti](/contact/).

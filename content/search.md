@@ -5,3 +5,7 @@ layout: "search" # is necessary
 # description: "Description for Search"
 summary: "search"
 ---
+
+_la funzione di ricerca è ancora sperimentale_.
+
+Per avere la lista dei podcast controlla l'archivio o cerca i fotografi e le fotografe citate nei tag

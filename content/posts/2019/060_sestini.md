@@ -4,8 +4,8 @@ slug: "massimo_sestini"
 date: 2019-09-09T06:00:00+02:00
 # weight: 1 - to pin posts
 # aliases: ["/first"]
-tags: ["sestini"]
-categories: ["storia", "fotografi"]
+tags: ["Sestini"]
+categories: ["cronaca", "fotografi"]
 author: ""
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -19,7 +19,7 @@ disableShare: false
 disableHLJS: false
 searchHidden: false
 cover:
-    image: "/images/2019/0x6/0x6_cover.jpg" # image path/url
+    image: "/images/2019/0x6/0x6_cover2.jpg" # image path/url
     alt: "lo sguardo dei migranti è pieno di speranza nello scatto zenitale di Massimo Sestini" # alt text
     caption: "lo sguardo dei migranti è pieno di speranza nello scatto zenitale di Massimo Sestini" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -77,7 +77,7 @@ I brani citati sono tratti da:
 
 - Fabrizio Gatti, con le immagini di Massimo Sestini, _Dimmi dove sei_, National Geographic Italia, giugno 2019
 
-Le voci fuori campo sono tratte dal trailer del documentario di National Geographic Channel diretto da Jesús Garcés Lambert andato in onda il 20 giugno 2019 su Sky e poi boh.
+Le voci fuori campo sono tratte dal trailer del documentario di National Geographic Channel diretto da Jesús Garcés Lambert andato in onda il 20 giugno 2019 su Sky (e che ora non sembra disponibile in nessuna piattaforma).
 
 
 
@@ -119,3 +119,7 @@ Per i suoni, nella pagina [About](/about/) ci sono le fonti.
 ### Fair use
 
 In questo sito si seguono le regole del **Fair use** vigenti in America per l'utilizzo di immagini di proprietà di terzi. Spiego meglio [qui](/static_page/fair_use/).
+
+- - -
+
+{{< quick_comment >}}
