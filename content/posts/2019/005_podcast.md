@@ -29,6 +29,9 @@ cover:
 
 Episodio zero per raccontare di cosa parlerà la stagione zero di Fotoradio che parte martedi 6 agosto 2019.
 
+<!--more-->
+
+
 Perché i podcast sono importanti? Perché la fotografia è importante? Cosa significa fare un podcast che parla di _fotografie_?
 
 A queste domande risponde l'episodio zero!

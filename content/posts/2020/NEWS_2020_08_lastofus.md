@@ -27,7 +27,7 @@ cover:
 
 ---
 
-In questa puntata delle fotonews parliamo di fotografie, prendendo spunto da un videogioco, _The Last of Us_, che propone dei temi forti su come la società potrebbe evolversi se raggiungerà condizioni estreme.
+In questa puntata delle fotonews parliamo di fotografie prendendo spunto da un videogioco, _The Last of Us_, che propone dei temi forti su come la società potrebbe cambiare.
 
 <!--more-->
 

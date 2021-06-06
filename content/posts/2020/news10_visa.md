@@ -27,8 +27,9 @@ cover:
 
 ---
 
-Il covid non ha fermato la 32a edizione di _Visa pour l'image_ di Perpignan: decine di esposizioni di fotografe e fotografi da tutto il mondo.
+Il covid non ha fermato la 32a edizione di _Visa pour l'image_ di Perpignan: decine di esposizioni di fotografe e fotografi da tutto il mondo
 
+<!--more-->
 
 - - -
 ## Ascolta

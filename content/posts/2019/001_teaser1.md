@@ -27,6 +27,8 @@ cover:
 
 ---
 
+<!--more-->
+
 In una assolata giornata di luglio, vi manca un podcast da spararvi in cuffietta?
 
 Se questo è il caso, il 30 luglio 2019 arriva Fotoradio!

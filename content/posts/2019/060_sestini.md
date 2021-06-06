@@ -34,11 +34,11 @@ Nel mar Mediterraneo a una ventina di miglia dalle coste libiche, la nostra Mari
 
 Ma oltre ai premi, c'è molto da dire su questa foto e ne parliamo in questo episodio di **_Fotoradio - Un podcast che parla di fotografie_**.
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/19039038" data-resource="episode_id=19039038" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="false">Ascolta "0x6_sestini_FINAL" su Spreaker.</a>
+{{< spreaker 19039038 dark >}}
 
-Puoi ascoltare Fotoradio anche sul sito di <a href="https://www.spreaker.com/show/fotoradio-un-podcast-sulle-fotografie">**Spreaker**</a>, oppure su <a target="blank" href="https://podcasts.apple.com/it/podcast/fotoradio-un-podcast-sulle-fotografie/id1473090985">**Apple iTunes**</a>, <a target="blank" href="https://open.spotify.com/show/3dzBBFOJD2gaz2pRdhlzYh">**Spotify**</a>, <a target="blank" href="https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMzYwNzI4OS9lcGlzb2Rlcy9mZWVk">**Google Podcast**</a>, <a target="blank" href="https://castbox.fm/channel/Fotoradio-un-podcast-sulle-fotografie-id2203635?country=it">**Castbox**</a> e <a target="blank" href="https://soundcloud.com/user-153455998">**Soundcloud**</a>.
+Oltre che sul sito di [**Spreaker**](https://links.fotoradio.info/spreaker), puoi ascoltare Fotoradio anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
-Se volete lasciare un commento (grazie!), andate nella sezione <a href="/contact/">Contatti</a>
+Se vuoi lasciare un commento (grazie!), vai nella sezione [Contatti](/contact/)
 
 - - -
 
@@ -54,7 +54,7 @@ E' una foto che probabilmente avete già visto. Scattata il 7 giugno del 2014, i
 
 {{< figure src="/images/2019/0x6/0x6_sestini04.jpg" caption="⬆︎ dettaglio della foto su citata © Massimo Sestini<br>* ">}}
 
-Leggi la nostra nota sul <a target="blank" href="/static_page/fair_use/">Fair Use</a>
+Leggi la nostra nota sul [Fair use](/static_page/fair_use/).
 
 _Grazie di aver ascoltato questo episodio. Alla prossima!_
 
@@ -102,20 +102,20 @@ Sto cercando di registrare one-take limitando la post-produzione alla musica. Qu
 
 Per la musica, in ordine di apparizione:
 
-- _Step It up Baby_ di <a target="blank" href="https://www.epidemicsound.com/search/?term=Jesse%20Lawrence">Jesse Lawrence</a>
+- _Step It up Baby_ di [Jesse Lawrence](https://www.epidemicsound.com/search/?term=Jesse%20Lawrence)
 
-- _Closer to Hope_ di <a target="blank" href="https://www.epidemicsound.com/search/?term=Claude%20Signet">Claude Signet</a>
+- _Closer to Hope_ di [Claude Signet](https://www.epidemicsound.com/search/?term=Claude%20Signet)
 
-- _Don't Wanna Be Dead Anymore_ di <a href="https://www.epidemicsound.com/search/?term=Coma%20Svensson" target="blank">Coma Svensson</a>
+- _Don't Wanna Be Dead Anymore_ di [Coma Svensson](https://www.epidemicsound.com/search/?term=Coma%20Svensson)
 
-- _Sun To the People_ di <a href="https://www.epidemicsound.com/search/?term=Edward%20Hall" target="blank">Edward Hall</a>
+- _Sun To the People_ di [Edward Hall](https://www.epidemicsound.com/search/?term=Edward%20Hall)
 
-Tutte arrivano da <a href="https://www.epidemicsound.com/">Epidemic Sound</a>
+Tutte arrivano da [Epidemic Sound](https://www.epidemicsound.com/)
 
-Per i suoni, nella pagina <a href="/about/">About</a> ci sono le fonti.
+Per i suoni, nella pagina [About](/about/) ci sono le fonti.
 
 - - -
 
 ### Fair use
 
-In questo sito si seguono le regole del **Fair use** vigenti in America per l'utilizzo di immagini di proprietà di terzi. Spiego meglio <a href="/static_page/fair_use/">qui</a>
+In questo sito si seguono le regole del **Fair use** vigenti in America per l'utilizzo di immagini di proprietà di terzi. Spiego meglio [qui](/static_page/fair_use/).
