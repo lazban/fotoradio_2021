@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: UA-41139230-15
 
 minify:
     disableXML: true
@@ -20,12 +20,12 @@ permalinks:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema and seo.
     title: Fotoradio
-    description: "un podcast, un sito e una newsletter che parla di fotografie"
+    description: "un podcast, un sito e una newsletter che parlano di fotografie"
     author: ""
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
 
-    defaultTheme: dark # dark, light, auto
+    defaultTheme: auto # dark, light, auto
     disableThemeToggle: false
 
     ShowReadingTime: true
@@ -73,7 +73,7 @@ params:
     homeInfoParams:
         Title: "un blog per parlare di fotografie"
         Content: >
-            Benvenuti e benvenute su **Fotoradio.info**, un [podcast](/static_page/listen/), una [newsletter](https://fotoradio.substack.com/) e un [blog](/archives/) per parlare di fotografie.
+            Benvenut^ su **Fotoradio.info**, un [podcast](/static_page/listen/), una [newsletter](https://fotoradio.substack.com/) e un [blog](/archives/) per parlare di fotografie. Se vi interessano motivazioni e premesse, guardate [qui](/about/)
     socialIcons:
         - name: telegram
           url: "https://t.me/fotoradio"
@@ -131,6 +131,10 @@ menu:
           name: tags
           url: /tags/
           weight: 30
+        - identifier: newsletter
+          name: newsletter
+          url: https://fotoradio.substack.com
+          weight: 35
         - identifier: archivio
           name: archivio
           url: /archives/
