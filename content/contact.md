@@ -32,15 +32,15 @@ I feedback su questo progetto sono molto importanti per noi (per capire cosa fun
 
 Il canale che preferisco è un messaggio [**telegram @fotoradio**](https://t.me/fotoradio);
 
-o puoi scrivere una **email** a fotoradio.info at gmail.com;
+o puoi scrivere una **email** a [fotoradio@made.email](mailto:fotoradio@made.email);
 
 <!--
 o usare il **form di contatto** [qui](#form-contatti) sotto (nessun dato verrà memorizzato o utilizzato se non per rispondere al messaggio);
 -->
 
-o, se mi conosci e sei delle mie parti, puoi fermarmi per **strada** e dirmi cosa ne pensi (mi raccomando la mascherina :))
+o, se mi conosci e sei delle mie parti, puoi fermarmi per **strada** e dirmi cosa ne pensi!
 
-Se poi ti iscrivi al [**Canale Telegram @fotoradioinfo**](https://t.me/fotoradioinfo") riceverai tutte le notifiche e le news sul podcast oltre che a vedere le foto di cui si parla nei singoli episodi.
+Se poi ti iscrivi al [**Canale Telegram @fotoradioinfo**](https://t.me/fotoradio.info) riceverai tutte le notifiche e le news sul podcast oltre che a vedere le foto di cui si parla nei singoli episodi.
 
 Se ancora usi [**facebook**](https://fb.me/fotoradio.info) ;-) c'è anche una pagina dedicata al progetto che riporta i link agli episodi.
 

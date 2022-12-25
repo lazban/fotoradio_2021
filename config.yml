@@ -114,10 +114,10 @@ outputs:
 
 menu:
     main:
-        - identifier: cerca
-          name: cerca
-          url: /search/
-          weight: 10
+#        - identifier: cerca
+#          name: cerca
+#          url: /search/
+#          weight: 10
         - identifier: ascolta
           name: ascolta
           url: /static_page/listen/
