@@ -43,7 +43,7 @@ Se volete lasciare un commento (grazie!), andate nella pagina dei [contatti](/co
 
 ### Youtube
 
-Una rassegna delle foto di cui parliamo nel podcast sono anche su [Youtube](https://youtu.be/iKAvImjAPrM).
+Una rassegna delle foto di cui parliamo nel podcast sono anche su [Youtube](https://youtu.be/v7TdxXglgro).
 
 <br>
 

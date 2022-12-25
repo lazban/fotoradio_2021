@@ -53,7 +53,7 @@ Se vuoi lasciare un commento (grazie!), vai nella sezione [Contatti](/contact/)
 
 Una rassegna delle foto di cui parliamo nel podcast sono anche su Youtube (domani)
 
-{{< youtube OC8zW5G6Das >}}
+{{< youtube FdulJ3OR5Lk >}}
 
 
 - - -

@@ -40,13 +40,13 @@ o usare il **form di contatto** [qui](#form-contatti) sotto (nessun dato verrà 
 
 o, se mi conosci e sei delle mie parti, puoi fermarmi per **strada** e dirmi cosa ne pensi!
 
-Se poi ti iscrivi al [**Canale Telegram @fotoradioinfo**](https://t.me/fotoradio.info) riceverai tutte le notifiche e le news sul podcast oltre che a vedere le foto di cui si parla nei singoli episodi.
+Se poi ti iscrivi al [**Canale Telegram @fotoradio.info**](https://t.me/+R4-Ey2hwjOVJk1on) riceverai tutte le notifiche e le news sul podcast oltre che a vedere le foto di cui si parla nei singoli episodi.
 
 Se ancora usi [**facebook**](https://fb.me/fotoradio.info) ;-) c'è anche una pagina dedicata al progetto che riporta i link agli episodi.
 
 Esiste anche un profilo [**instagram**](https://instagram.com/fotoradio) dove pubblico alcune foto degli episodi o anticipazioni su future puntate.
 
-C'è anche un [**Canale Youtube**](https://www.youtube.com/channel/UCiaiddtEOdYK2YaRBcZAm2Q) che dove si scorrono insieme le foto dell'episodio del podcast.
+C'è anche un [**Canale Youtube**](https://www.youtube.com/channel/UCH_ZEewtO_qqn7LZX83Zb4g) che dove si scorrono insieme le foto dell'episodio del podcast.
 
 Se vuoi rimanere in aggiornato con le novità del sito e le nuove puntate del podcast, puoi iscriverti alla [**Newsletter**](https://fotoradio.substack.com) di Fotoradio (il servizio è offerto da Substack che tratta i dati secondo le privacy policy al link indicato; puoi cancellarti in ogni momento e, ovviamente, niente spam).
 

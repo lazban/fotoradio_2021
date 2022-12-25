@@ -44,7 +44,7 @@ Se volete lasciare un commento (grazie!), andate nella pagina dei [contatti](/co
 
 ### Youtube e newsletter
 
-Una rassegna delle foto di cui parliamo nel podcast sono anche su [**Youtube**](https://youtu.be/ayEC_NGJGxY).
+Una rassegna delle foto di cui parliamo nel podcast sono anche su [**Youtube**](https://youtu.be/D7WZHd24BoA).
 
 Gli scatti e i testi sono anche raccolti in una newsletter su [**Substack**](https://fotoradio.substack.com/">link</a>).
 
