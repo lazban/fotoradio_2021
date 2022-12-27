@@ -53,6 +53,8 @@ Se vuoi rimanere in aggiornato con le novità del sito e le nuove puntate del po
 
 Se invece volete mandare un messaggio istantaneo, [usate questo **google form**](https://forms.gle/8XriPxFcx43We6uS6). I dati saranno utilizzati solo per eventuale risposta e non per altro.
 
+{{< formspree >}}
+
 
 <!--
 #### form contatti
@@ -66,16 +68,3 @@ Se invece volete mandare un messaggio istantaneo, [usate questo **google form**]
   <button type="submit" class="font-button">Spedisci / Send</button>
 </form>
 -->
-
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mjvdbzyd" method="post">
-  <fieldset id="fs-frm-inputs">
-    <label for="full-name">Nome</label>
-    <input type="text" name="name" id="full-name" placeholder="nome" required="yes">
-    <label for="email-address">Email (sarà utilizzata solo per l'evenutale risposta la messaggio)</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="email" required="no">
-    <label for="message">Messaggio</label>
-    <textarea rows="5" name="message" id="message" placeholder="scrivi il tuo messaggio qui" required="yes"></textarea>
-    <input type="hidden" name="_subject" id="da fotoradio contact formspree" value="Contact Form Submission">
-  </fieldset>
-  <input type="submit" value="invia">
-</form>
