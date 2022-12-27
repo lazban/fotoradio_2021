@@ -1,7 +1,7 @@
 ---
 title: "About Fotoradio"
 slug: "about"
-date: 2021-03-21T07:00:00+00:00
+date: 2022-12-26T07:00:00+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: [""]
@@ -142,7 +142,8 @@ E' invece del tutto inconsapevole del suo contributo [Riccardo Palombo](https://
 
 Quando viene pubblicata ogni puntata?
 Purtroppo non è sempre facile da prevedere perché dipende dal tempo che ci metto a studiare i vari argomenti e da fattori esterni.
-Qui però c'è una roadmap per i più curiosi (se la trovate vuota è perché in questo momento non sto lavorando a niente. Vuoi lasciare un suggerimento per le prossime puntate. [Usa questo **google form**](https://forms.gle/8XriPxFcx43We6uS6).
+Qui però c'è una roadmap per i più curiosi.
+Se vuoi lasciare un suggerimento per le prossime puntate manda un [messaggio veloce](/contact/#messaggio-veloce) o [contattaci](/contact/)
 
 {{< roadmap >}}
 
@@ -153,4 +154,4 @@ Qui però c'è una roadmap per i più curiosi (se la trovate vuota è perché in
 Fotoradio is an italian language podcast dedicated to photographs.
 In this website we show pictures we talk about in the show and we credit owners. We refer to the Fair Use as stated in the US Copyright Act. Please check [this page](/static_page/fair_use/) for more information.
 
-If you like to get in touch, please check all possible way in our [**contacts page**](/contact/).
+If you like to get in touch, please check all possible way in our [**contacts page**](/contact/) or with a [**quick message**](/contact/#messaggio-veloce).
