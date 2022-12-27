@@ -57,4 +57,4 @@ Se vuoi rimanere in aggiornato con le novità del sito e le nuove puntate del po
 
 Se invece volete mandare un messaggio istantaneo potete usare il form qui sotto. I dati raccolti saranno utilizzati solo per eventuale risposta e non per altro.
 
-{{< formspree quick >}}
+{{< formspree_quick >}}
