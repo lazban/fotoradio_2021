@@ -42,9 +42,10 @@ o, se mi conosci e sei delle mie parti, puoi fermarmi per **strada** e dirmi cos
 
 Se poi ti iscrivi al [**Canale Telegram @fotoradio.info**](https://t.me/+R4-Ey2hwjOVJk1on) riceverai tutte le notifiche e le news sul podcast oltre che a vedere le foto di cui si parla nei singoli episodi.
 
-Se ancora usi [**facebook**](https://fb.me/fotoradio.info) ;-) c'è anche una pagina dedicata al progetto che riporta i link agli episodi.
-
-Esiste anche un profilo [**instagram**](https://instagram.com/fotoradio) dove pubblico alcune foto degli episodi o anticipazioni su future puntate.
+Se ancora usi [**facebook**](https://fb.me/fotoradio.info) ;-) c'è anche una pagina dedicata al progetto che riporta i link agli episodi. Esiste anche un profilo [**instagram**](https://instagram.com/fotoradio) dove pubblico alcune foto degli episodi o anticipazioni su future puntate.
+<!--
+Infine le nuova puntate verranno anche annunciate via [**twitter**]()
+-->
 
 C'è anche un [**Canale Youtube**](https://www.youtube.com/channel/UCH_ZEewtO_qqn7LZX83Zb4g) che dove si scorrono insieme le foto dell'episodio del podcast.
 
@@ -66,17 +67,15 @@ Se invece volete mandare un messaggio istantaneo, [usate questo **google form**]
 </form>
 -->
 
-<!--
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/fotoradio.info@gmail.com" method="post">
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mjvdbzyd" method="post">
   <fieldset id="fs-frm-inputs">
-    <label for="full-name">Full Name</label>
-    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
-    <label for="email-address">Email Address</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
-    <label for="message">Message</label>
-    <textarea rows="5" name="message" id="message" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus." required=""></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+    <label for="full-name">Nome</label>
+    <input type="text" name="name" id="full-name" placeholder="nome" required="yes">
+    <label for="email-address">Email (sarà utilizzata solo per l'evenutale risposta la messaggio)</label>
+    <input type="email" name="_replyto" id="email-address" placeholder="email" required="no">
+    <label for="message">Messaggio</label>
+    <textarea rows="5" name="message" id="message" placeholder="scrivi il tuo messaggio qui" required="yes"></textarea>
+    <input type="hidden" name="_subject" id="da fotoradio contact formspree" value="Contact Form Submission">
   </fieldset>
-  <input type="submit" value="Submit">
+  <input type="submit" value="invia">
 </form>
--->
