@@ -54,7 +54,7 @@ _If there would be no effect, or it is not possible to obtain permission to use 
 
 Ritengo che non ci sia nessun _market effect_.
 
-Commenti su questa pagina? Usa il modulo di contatto (in alto a destra di questa pagina) o lascia un messaggio nel modulo qui sotto.
+Commenti su questa pagina? Usa il modulo di contatto (in alto a destra di questa pagina) o lascia un [messaggio](https://fotoradio.info/contact/#messaggio-veloce).
 
 - - -
 
@@ -81,4 +81,4 @@ I publish only the photographs discussed in the show. The maximum definition of 
 _If there would be no effect, or it is not possible to obtain permission to use the work_.
 Either this web site and the podcast are noprofit for educational purposes. Nothing is on sale here and no advertisting is allowed.
 
-Shoud you need to get in touch with us, please use the form at the bottom of <a href="https://fotoradio.info/contact/">this page</a>.
+Shoud you need to get in touch with us, please use this [form](https://fotoradio.info/contact/#messaggio-veloce).

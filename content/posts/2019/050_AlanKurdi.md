@@ -5,7 +5,7 @@ date: 2019-09-03T05:00:00+02:00
 # weight: 1 - to pin posts
 # aliases: ["/first"]
 tags: [""]
-categories: ["cronoca"]
+categories: ["cronaca"]
 author: ""
 # author: ["Me", "You"] # multiple authors
 showToc: true
