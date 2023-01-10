@@ -47,9 +47,9 @@ In ogni puntata di Fotoradio che verrà, approfondiremo ognuno di questi, osserv
 
 Ecco di cosa parliamo in questo episodio di **_Fotoradio / ANTROPOCENE - Un podcast che parla di fotografie_**.
 
-{{< spreaker 25765941 dark >}}
+{{< anchor Fotoradio--ANTROPOCENE-0-2-New-Season-e1sqq9u >}}
 
-Oltre che sul sito di [**Spreaker**](https://links.fotoradio.info/spreaker), puoi ascoltare Fotoradio anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
+Puoi ascoltare il teaser qui o su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
 Se vuoi lasciare un commento (grazie!), vai nella sezione [Contatti](/contact/)
 </br>

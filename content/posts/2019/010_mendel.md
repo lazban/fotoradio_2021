@@ -33,10 +33,9 @@ Gideon Mendel nel 2015 sul _National Geographic_ (ed anche ad Arles nel 2017 e o
 
 Ne parliamo nella prima puntata di **_Fotoradio - Un podcast che parla di fotografie_**
 
-{{< spreaker 18719581 dark >}}
+{{< anchor GIDEON-MENDEL-Fotografia-e-Climate-Change-e1sqq9e >}}
 
-Oltre che sul sito di [**Spreaker**](https://links.fotoradio.info/spreaker), puoi ascoltare Fotoradio anche su
-[**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
+Puoi ascoltare l'episodio qui o anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
 Se volete lasciare un commento (grazie!), andate nella sezione [Contatti](/contact/).
 

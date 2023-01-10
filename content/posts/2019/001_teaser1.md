@@ -38,9 +38,9 @@ Se questo è il caso, il 30 luglio 2019 arriva Fotoradio!
 
 Questo è il primo teaser di Fotoradio - un podcast che parla di fotografie.
 
-{{< spreaker 18546991 dark >}}
+{{< anchor Teaser-Stagione-Zero-Francia-del-Sud-e1sqq8u >}}
 
-Oltre che sul sito di [**Spreaker**](https://links.fotoradio.info/spreaker), puoi ascoltare Fotoradio anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
+Puoi ascoltare il teaser qui o anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
 
 Se vuoi lasciare un commento (grazie!), vai nella sezione [Contatti](/contact/)

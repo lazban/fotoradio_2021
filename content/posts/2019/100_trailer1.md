@@ -48,9 +48,9 @@ Ma la fotografia ci può aiutare :)
 
 Ne parliamo in questo episodio di **_[Fotoradio] ANTROPOCENE - Un podcast che parla di fotografie_**.
 
-{{< spreaker 22091924 dark >}}
+{{< anchor fotoradio--ANTROPOCENE-0-1-Dance-of-the-clairvoyants-e1sqq9i >}}
 
-Oltre che sul sito di [**Spreaker**](https://links.fotoradio.info/spreaker), puoi ascoltare Fotoradio anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
+Puoi ascoltare il trailer qui o anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
 Se vuoi lasciare un commento (grazie!), vai nella sezione [Contatti](/contact/)
 </br>

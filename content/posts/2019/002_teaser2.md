@@ -36,10 +36,9 @@ Acc... il vostro compagno russa e non riuscite a dormire?
 E vi manca un podcast di fotografie che vi culli verso il meritato riposo?
 Se questo è il caso, il 30 luglio 2019 arriva Fotoradio!
 
-Oltre che sul sito di [**Spreaker**](https://links.fotoradio.info/spreaker), puoi ascoltare Fotoradio anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
+Puoi ascoltare il teaser qui sotto o anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
-
-{{< spreaker 18597188 dark >}}
+{{< anchor Teaser-Stagione-zero-Il-tuo-compagno-russa-e1sqq9a >}}
 
 La foto è di [Alexandra Gorn](https://unsplash.com/@alexagorn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) su [Unsplash](https://unsplash.com/search/photos/insomnia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

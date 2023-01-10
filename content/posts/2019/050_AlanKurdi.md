@@ -34,9 +34,9 @@ Nella notte del 1 settembre 2015, il gommone sul quale viaggiava un gruppo di mi
 
 Ne parliamo in questo episodio di **_Fotoradio - Un podcast che parla di fotografie_**.
 
-{{< spreaker 18971953 dark >}}
+{{< anchor ALAN-KURDI-la-foto-e-il-sacrificio-e1sqq95 >}}
 
-Oltre che sul sito di [**Spreaker**](https://links.fotoradio.info/spreaker), puoi ascoltare Fotoradio anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
+Puoi ascoltare le fotonews qui o anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
 
 - - -

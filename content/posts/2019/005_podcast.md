@@ -38,10 +38,9 @@ Perché i podcast sono importanti? Perché la fotografia è importante? Cosa sig
 
 A queste domande risponde l'episodio zero!
 
-{{< spreaker 18656129 dark >}}
+{{< anchor ep--0---Perch-un-podcast-che-parla-di-fotografie-e1sqq99 >}}
 
-Oltre che sul sito di [**Spreaker**](https://www.spreaker.com/), puoi ascoltare Fotoradio anche su
-[**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
+Puoi ascoltare l'episodio qui o anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
 Se vuoi lasciare un commento (grazie!), vai nella sezione [Contatti](/contact/)
 

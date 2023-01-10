@@ -36,7 +36,9 @@ Ne parliamo in questo episodio di **_Fotoradio - Un podcast che parla di fotogra
 
 {{< spreaker 19119852 dark >}}
 
-Oltre che sul sito di [**Spreaker**](https://links.fotoradio.info/spreaker), puoi ascoltare Fotoradio anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
+{{< anchor SAMOS-Attraverso-i-nostri-occhi-dal-campo-profughi-e1sqq9l >}}
+
+Puoi ascoltare l'episodio qui o anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
 Se vuoi lasciare un commento (grazie!), vai nella sezione [Contatti](/contact/)
 

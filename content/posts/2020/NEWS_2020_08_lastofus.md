@@ -33,9 +33,10 @@ In questa puntata delle fotonews parliamo di fotografie prendendo spunto da un v
 
 Le Fotonews sono su **_Fotoradio - Un podcast che parla di fotografie_**.
 
-{{< spreaker 43629914 dark >}}
 
-Oltre che sul sito di [**Spreaker**](https://links.fotoradio.info/spreaker), puoi ascoltare le Fotonews anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
+{{< anchor fotonews-08---THE-LAST-OF-US-e1sqq9j >}}
+
+Puoi ascoltare le fotonews qui o anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
 Se volete lasciare un commento (grazie!), andate nella pagina dei [contatti](/contact/)
 <br>

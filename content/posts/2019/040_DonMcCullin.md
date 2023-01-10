@@ -39,13 +39,13 @@ Del resto siamo in piena stagione zero di **_Fotoradio - Un podcast che parla di
 
 La prima parte:
 
-{{< spreaker 18920948 dark >}}
+{{< anchor DON-MCCULLIN-1--La-guerra--la-morte-e-noi-e1sqq9s >}}
 
 La seconda parte:
 
-{{< spreaker 18921027 dark >}}
+{{< anchor DON-MCCULLIN-2--La-guerra--la-morte-e-il-sorriso-e1sqq9v >}}
 
-Oltre che sul sito di [**Spreaker**](https://links.fotoradio.info/spreaker), puoi ascoltare Fotoradio anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
+Puoi ascoltare gli episodi qui o anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
 Se vuoi lasciare un commento (grazie!), vai nella sezione [Contatti](/contact/)
 

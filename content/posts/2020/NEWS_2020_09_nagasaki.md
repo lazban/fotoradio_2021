@@ -36,7 +36,9 @@ Le Fotonews sono su **_Fotoradio - Un podcast che parla di fotografie_**.
 
 {{< spreaker 43797941 dark >}}
 
-Oltre che sul sito di [**Spreaker**](https://links.fotoradio.info/spreaker), puoi ascoltare le Fotonews anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
+{{< anchor Fotonews-09---NAGASAKI-e1sqq97 >}}
+
+Puoi ascoltare le Fotonews qui o anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
 Se volete lasciare un commento (grazie!), andate nella pagina dei [contatti](/contact/)
 <br>

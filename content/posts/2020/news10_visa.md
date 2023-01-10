@@ -36,10 +36,9 @@ Il covid non ha fermato la 32a edizione di _Visa pour l'image_ di Perpignan: dec
 
 Le Fotonews sono su **_Fotoradio - Un podcast che parla di fotografie_**
 
-{{< spreaker 43858754 dark >}}
+{{< anchor Fotonews-10---LE-TOUR-DU-MONDE-e1sqq9f >}}
 
-
-Oltre che sul sito di [**Spreaker**](https://links.fotoradio.info/spreaker), puoi ascoltare le Fotonews anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
+Puoi ascoltare l'episodio qui o anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
 Se vuoi lasciare un commento (grazie!), vai nella sezione [Contatti](/contact/)
 
