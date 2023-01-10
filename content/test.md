@@ -1,6 +1,6 @@
 ---
 title: "come ascoltare Fotoradio"
-slug: "listen"
+slug: "test"
 date: 2019-10-01T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
