@@ -42,8 +42,6 @@ Le Fotobreak sono su [**_Fotoradio - Un podcast che parla di fotografie_**](http
 
 {{< spreaker 44382767 dark >}}
 
-{{< anchor 1 >}}
-
 Oltre che sul sito di [**Spreaker**](https://www.spreaker.com/user/11400220/tourdumonde), puoi ascoltare le Fotonews anche su
 [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
