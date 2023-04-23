@@ -150,3 +150,10 @@ Fotoradio is an italian language podcast dedicated to photographs.
 In this website we show pictures we talk about in the show and we credit owners. We refer to the Fair Use as stated in the US Copyright Act. Please check [this page](/static_page/fair_use/) for more information.
 
 If you like to get in touch, please check all possible way in our [**contacts page**](/contact/) or with a [**quick message**](/contact/#messaggio-veloce).
+
+
+***
+
+## site version
+
+Fotoradio_2023b
