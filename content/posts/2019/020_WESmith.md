@@ -1,5 +1,5 @@
 ---
-title: "La città, l'industria (e l'ossessione) nelle foto di W. EUGENE SMITH"
+title: "La città, l'industria (e l'ossessione) nelle foto di EUGENE SMITH"
 slug: "pittsburgh_smith"
 date: 2019-08-13T06:00:00+02:00
 # weight: 1 - to pin posts
