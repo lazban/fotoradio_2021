@@ -1,14 +1,14 @@
 ---
 title: "Version History"
-slug: "about"
-date: 2023-11-17T07:00:00+00:00
+slug: "history"
+date: 2023-11-16T07:00:00+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: [""]
 author: ""
 # author: ["Me", "You"] # multiple authors
 ShowReadingTime: false
-showToc: true
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
@@ -26,5 +26,7 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-## 2023c
-nuova versione 2023 per aggiornare copyright
+### 2023a
+- aggiornato copyright
+
+---
