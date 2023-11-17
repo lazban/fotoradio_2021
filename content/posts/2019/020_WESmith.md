@@ -35,7 +35,7 @@ Smith ci ha lasciato 20.000 negativi e un immenso progetto mai terminato fatto d
 
 Ne parliamo in questa puntata di **_Fotoradio - Un podcast che parla di fotografie_**
 
-{{< anchor /W--EUGENE-SMITH--La-citt-e-lindustria-e-lossessione-e1sqq9g >}}
+{{< anchor W--EUGENE-SMITH--La-citt-e-lindustria-e-lossessione-e1sqq9g >}}
 
 Puoi ascoltare l'episodio qui o anche su [**Apple iTunes**](https://links.fotoradio.info/apple), [**Spotify**](https://links.fotoradio.info/spotify), [**Google Podcast**](https://links.fotoradio.info/google) e su molte altre piattaforme elencate [qui](/static_page/listen/).
 
